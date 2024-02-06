@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/C++/C++ 测试程序运行时间",
+  "id": "skill/C++/C++ 测试程序运行时间",
+  "title": "C++ 测试程序运行时间",
+  "description": "使用C++ clock()函数",
+  "source": "@site/docs/skill/C++/C++ 测试程序运行时间.md",
+  "sourceDirName": "skill/C++",
+  "slug": "/skill/C++/C++ 测试程序运行时间",
+  "permalink": "/docs/skill/C++/C++ 测试程序运行时间",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "C++",
+    "permalink": "/docs/category/c"
+  },
+  "next": {
+    "title": "C++11 move()函数",
+    "permalink": "/docs/skill/C++/C++11 move()函数"
+  }
+}

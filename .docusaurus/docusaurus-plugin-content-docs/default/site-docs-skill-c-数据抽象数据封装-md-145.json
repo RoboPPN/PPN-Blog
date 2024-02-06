@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/C++/数据抽象数据封装",
+  "id": "skill/C++/数据抽象数据封装",
+  "title": "数据抽象数据封装",
+  "description": "数据抽象",
+  "source": "@site/docs/skill/C++/数据抽象数据封装.md",
+  "sourceDirName": "skill/C++",
+  "slug": "/skill/C++/数据抽象数据封装",
+  "permalink": "/docs/skill/C++/数据抽象数据封装",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "指向类、结构体的指针",
+    "permalink": "/docs/skill/C++/指向类、结构体的指针"
+  },
+  "next": {
+    "title": "科学计数法",
+    "permalink": "/docs/skill/C++/科学计数法"
+  }
+}

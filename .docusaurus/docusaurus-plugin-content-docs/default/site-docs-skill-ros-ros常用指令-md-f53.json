@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/ROS/ROS常用指令",
+  "id": "skill/ROS/ROS常用指令",
+  "title": "ROS常用指令",
+  "description": "rostopic list -v 列出正在发布的主题",
+  "source": "@site/docs/skill/ROS/ROS常用指令.md",
+  "sourceDirName": "skill/ROS",
+  "slug": "/skill/ROS/ROS常用指令",
+  "permalink": "/docs/skill/ROS/ROS常用指令",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "ROS常用工具",
+    "permalink": "/docs/skill/ROS/ROS常用工具"
+  },
+  "next": {
+    "title": "TF",
+    "permalink": "/docs/skill/ROS/TF"
+  }
+}

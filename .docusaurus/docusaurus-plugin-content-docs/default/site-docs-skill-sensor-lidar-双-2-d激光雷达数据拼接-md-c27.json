@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/Sensor/Lidar/双2d激光雷达数据拼接",
+  "id": "skill/Sensor/Lidar/双2d激光雷达数据拼接",
+  "title": "双2d激光雷达数据拼接",
+  "description": "为什么要做雷达数据拼接",
+  "source": "@site/docs/skill/Sensor/Lidar/双2d激光雷达数据拼接.md",
+  "sourceDirName": "skill/Sensor/Lidar",
+  "slug": "/skill/Sensor/Lidar/双2d激光雷达数据拼接",
+  "permalink": "/docs/skill/Sensor/Lidar/双2d激光雷达数据拼接",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "单线激光雷达特征提取实验",
+    "permalink": "/docs/skill/Sensor/Lidar/单线激光雷达特征提取实验"
+  },
+  "next": {
+    "title": "深度相机做伪2D激光雷达",
+    "permalink": "/docs/skill/Sensor/Lidar/深度相机做伪2D激光雷达"
+  }
+}

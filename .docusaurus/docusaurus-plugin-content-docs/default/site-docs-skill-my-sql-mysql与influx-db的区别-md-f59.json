@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/MySQL/mysql与influxDB的区别",
+  "id": "skill/MySQL/mysql与influxDB的区别",
+  "title": "mysql与influxDB的区别",
+  "description": "什么是时序数据库",
+  "source": "@site/docs/skill/MySQL/mysql与influxDB的区别.md",
+  "sourceDirName": "skill/MySQL",
+  "slug": "/skill/MySQL/mysql与influxDB的区别",
+  "permalink": "/docs/skill/MySQL/mysql与influxDB的区别",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "MySql笔记",
+    "permalink": "/docs/skill/database/mysql"
+  },
+  "next": {
+    "title": "mysql数据库迁移",
+    "permalink": "/docs/skill/MySQL/mysql数据库迁移"
+  }
+}

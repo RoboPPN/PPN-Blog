@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/Sensor/Lidar/激光雷达特征提取与拟合路径",
+  "id": "skill/Sensor/Lidar/激光雷达特征提取与拟合路径",
+  "title": "激光雷达特征提取与拟合路径",
+  "description": "激光雷达特征提取",
+  "source": "@site/docs/skill/Sensor/Lidar/激光雷达特征提取与拟合路径.md",
+  "sourceDirName": "skill/Sensor/Lidar",
+  "slug": "/skill/Sensor/Lidar/激光雷达特征提取与拟合路径",
+  "permalink": "/docs/skill/Sensor/Lidar/激光雷达特征提取与拟合路径",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "激光雷达滤波器",
+    "permalink": "/docs/skill/Sensor/Lidar/激光雷达滤波器"
+  },
+  "next": {
+    "title": "Azure Kinect DK 深度相机工作原理",
+    "permalink": "/docs/skill/Sensor/Camera/Azure Kinect DK 深度相机工作原理"
+  }
+}

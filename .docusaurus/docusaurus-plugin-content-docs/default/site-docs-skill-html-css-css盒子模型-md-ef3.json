@@ -1,0 +1,15 @@
+{
+  "unversionedId": "skill/HTML&CSS/CSS盒子模型",
+  "id": "skill/HTML&CSS/CSS盒子模型",
+  "title": "CSS盒子模型",
+  "description": "Block、Inline、Inline-Block",
+  "source": "@site/docs/skill/HTML&CSS/CSS盒子模型.md",
+  "sourceDirName": "skill/HTML&CSS",
+  "slug": "/skill/HTML&CSS/CSS盒子模型",
+  "permalink": "/docs/skill/HTML&CSS/CSS盒子模型",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

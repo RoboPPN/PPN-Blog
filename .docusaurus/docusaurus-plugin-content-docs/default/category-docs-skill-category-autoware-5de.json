@@ -1,0 +1,15 @@
+{
+  "title": "autoware",
+  "slug": "/category/autoware",
+  "permalink": "/docs/category/autoware",
+  "navigation": {
+    "previous": {
+      "title": "ChatGPT注册账号教程",
+      "permalink": "/docs/skill/ChatGPT/ChatGPT注册账号教程"
+    },
+    "next": {
+      "title": "Autoware学习笔记-1-Autoware介绍及安装",
+      "permalink": "/docs/skill/autoware/Autoware学习笔记-1-Autoware介绍及安装"
+    }
+  }
+}

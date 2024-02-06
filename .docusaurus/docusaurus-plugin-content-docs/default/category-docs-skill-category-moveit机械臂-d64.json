@@ -1,0 +1,15 @@
+{
+  "title": "MoveIt机械臂",
+  "slug": "/category/moveit机械臂",
+  "permalink": "/docs/category/moveit机械臂",
+  "navigation": {
+    "previous": {
+      "title": "MySQL workbench中PK、NN、UQ、BIN、UN、ZF、AI、G这些选项代表的意思是？",
+      "permalink": "/docs/skill/MySQL/workbench学习笔记"
+    },
+    "next": {
+      "title": "MoveIt入门学习笔记",
+      "permalink": "/docs/skill/MoveIt机械臂/MoveIt入门学习笔记"
+    }
+  }
+}

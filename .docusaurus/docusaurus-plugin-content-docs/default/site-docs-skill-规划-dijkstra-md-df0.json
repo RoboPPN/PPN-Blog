@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/规划/Dijkstra",
+  "id": "skill/规划/Dijkstra",
+  "title": "Dijkstra",
+  "description": "什么是Dijkstra?",
+  "source": "@site/docs/skill/规划/Dijkstra.md",
+  "sourceDirName": "skill/规划",
+  "slug": "/skill/规划/Dijkstra",
+  "permalink": "/docs/skill/规划/Dijkstra",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "DWA",
+    "permalink": "/docs/skill/规划/DWA"
+  },
+  "next": {
+    "title": "TEB",
+    "permalink": "/docs/skill/规划/TEB"
+  }
+}

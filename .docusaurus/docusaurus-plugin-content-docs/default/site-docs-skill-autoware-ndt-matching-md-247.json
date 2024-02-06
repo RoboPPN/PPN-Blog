@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/autoware/ndt_matching",
+  "id": "skill/autoware/ndt_matching",
+  "title": "ndt_matching",
+  "description": "Localization模块",
+  "source": "@site/docs/skill/autoware/ndt_matching.md",
+  "sourceDirName": "skill/autoware",
+  "slug": "/skill/autoware/ndt_matching",
+  "permalink": "/docs/skill/autoware/ndt_matching",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "Autoware学习笔记-1-Autoware介绍及安装",
+    "permalink": "/docs/skill/autoware/Autoware学习笔记-1-Autoware介绍及安装"
+  },
+  "next": {
+    "title": "有用的小知识",
+    "permalink": "/docs/category/有用的小知识"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/C++/std::bind函数",
+  "id": "skill/C++/std::bind函数",
+  "title": "std::bind函数",
+  "description": "什么是 std::bind?",
+  "source": "@site/docs/skill/C++/std::bind函数.md",
+  "sourceDirName": "skill/C++",
+  "slug": "/skill/C++/std::bind函数",
+  "permalink": "/docs/skill/C++/std::bind函数",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "map",
+    "permalink": "/docs/skill/C++/map"
+  },
+  "next": {
+    "title": "std::ofstream  与 std::fstream",
+    "permalink": "/docs/skill/C++/std::ofstream  与 std::fstream"
+  }
+}

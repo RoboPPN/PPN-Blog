@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/C++/gcc编译器和g++编译器有何区别",
+  "id": "skill/C++/gcc编译器和g++编译器有何区别",
+  "title": "gcc编译器和g++编译器有何区别",
+  "description": "在Ubuntu和其他Linux发行版中，gcc 和 g++ 都是GNU编译器集合（GNU Compiler Collection）的一部分，但它们有一些区别，主要取决于你要编译的源代码的类型和目的。",
+  "source": "@site/docs/skill/C++/gcc编译器和g++编译器有何区别.md",
+  "sourceDirName": "skill/C++",
+  "slug": "/skill/C++/gcc编译器和g++编译器有何区别",
+  "permalink": "/docs/skill/C++/gcc编译器和g++编译器有何区别",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "const与define",
+    "permalink": "/docs/skill/C++/const与define"
+  },
+  "next": {
+    "title": "map",
+    "permalink": "/docs/skill/C++/map"
+  }
+}

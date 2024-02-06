@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/规划/TEB",
+  "id": "skill/规划/TEB",
+  "title": "TEB",
+  "description": "TEB (Time Elastic Band) 算法是一种用于机器人路径规划的算法，它能够为机器人生成安全、高效、适合时间限制的路径。它考虑了机器人的动态约束条件，如速度限制和加速度限制，以及静态约束条件，如避障限制和占用空间限制。",
+  "source": "@site/docs/skill/规划/TEB.md",
+  "sourceDirName": "skill/规划",
+  "slug": "/skill/规划/TEB",
+  "permalink": "/docs/skill/规划/TEB",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "Dijkstra",
+    "permalink": "/docs/skill/规划/Dijkstra"
+  },
+  "next": {
+    "title": "Teb参数优化",
+    "permalink": "/docs/skill/规划/Teb参数优化"
+  }
+}

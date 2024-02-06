@@ -1,0 +1,20 @@
+{
+  "unversionedId": "skill/Sensor/GPS/GPS工作原理",
+  "id": "skill/Sensor/GPS/GPS工作原理",
+  "title": "GPS工作原理",
+  "description": "GPS全称为全球定位系统，是无人驾驶中不可或缺的一项技术",
+  "source": "@site/docs/skill/Sensor/GPS/GPS工作原理.md",
+  "sourceDirName": "skill/Sensor/GPS",
+  "slug": "/skill/Sensor/GPS/GPS工作原理",
+  "permalink": "/docs/skill/Sensor/GPS/GPS工作原理",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "GPS",
+    "permalink": "/docs/category/gps"
+  }
+}

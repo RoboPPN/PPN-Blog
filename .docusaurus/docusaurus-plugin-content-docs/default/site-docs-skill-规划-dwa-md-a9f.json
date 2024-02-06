@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/规划/DWA",
+  "id": "skill/规划/DWA",
+  "title": "DWA",
+  "description": "DWA介绍以及算法步骤",
+  "source": "@site/docs/skill/规划/DWA.md",
+  "sourceDirName": "skill/规划",
+  "slug": "/skill/规划/DWA",
+  "permalink": "/docs/skill/规划/DWA",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "A*算法",
+    "permalink": "/docs/skill/规划/A*算法"
+  },
+  "next": {
+    "title": "Dijkstra",
+    "permalink": "/docs/skill/规划/Dijkstra"
+  }
+}

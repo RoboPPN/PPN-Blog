@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/C++/宏定义",
+  "id": "skill/C++/宏定义",
+  "title": "宏定义",
+  "description": "ifndef&#define",
+  "source": "@site/docs/skill/C++/宏定义.md",
+  "sourceDirName": "skill/C++",
+  "slug": "/skill/C++/宏定义",
+  "permalink": "/docs/skill/C++/宏定义",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "头文件定义的通用模板",
+    "permalink": "/docs/skill/C++/头文件定义的通用模板"
+  },
+  "next": {
+    "title": "当回调函数写在类中，如何写subscribe的回调函数",
+    "permalink": "/docs/skill/C++/当回调函数写在类中，如何写subscribe的回调函数"
+  }
+}

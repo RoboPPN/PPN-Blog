@@ -1,0 +1,15 @@
+{
+  "title": "激光雷达",
+  "slug": "/category/激光雷达",
+  "permalink": "/docs/category/激光雷达",
+  "navigation": {
+    "previous": {
+      "title": "传感器",
+      "permalink": "/docs/category/传感器"
+    },
+    "next": {
+      "title": "两种激光雷达数据赋值方法",
+      "permalink": "/docs/skill/Sensor/Lidar/两种激光雷达数据赋值方法"
+    }
+  }
+}

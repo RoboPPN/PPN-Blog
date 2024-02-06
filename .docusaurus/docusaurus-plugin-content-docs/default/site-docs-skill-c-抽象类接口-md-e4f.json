@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/C++/抽象类接口",
+  "id": "skill/C++/抽象类接口",
+  "title": "抽象类接口",
+  "description": "什么是接口？",
+  "source": "@site/docs/skill/C++/抽象类接口.md",
+  "sourceDirName": "skill/C++",
+  "slug": "/skill/C++/抽象类接口",
+  "permalink": "/docs/skill/C++/抽象类接口",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "当回调函数写在类中，如何写subscribe的回调函数",
+    "permalink": "/docs/skill/C++/当回调函数写在类中，如何写subscribe的回调函数"
+  },
+  "next": {
+    "title": "指向类、结构体的指针",
+    "permalink": "/docs/skill/C++/指向类、结构体的指针"
+  }
+}

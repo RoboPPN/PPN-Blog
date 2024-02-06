@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/Sensor/Camera/RealSense相机",
+  "id": "skill/Sensor/Camera/RealSense相机",
+  "title": "RealSense相机",
+  "description": "检测系统当前D435相机数量",
+  "source": "@site/docs/skill/Sensor/Camera/RealSense相机.md",
+  "sourceDirName": "skill/Sensor/Camera",
+  "slug": "/skill/Sensor/Camera/RealSense相机",
+  "permalink": "/docs/skill/Sensor/Camera/RealSense相机",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "Azure Kinect DK 深度相机工作原理",
+    "permalink": "/docs/skill/Sensor/Camera/Azure Kinect DK 深度相机工作原理"
+  },
+  "next": {
+    "title": "使用ROS对相机进行内参标定",
+    "permalink": "/docs/skill/Sensor/Camera/使用ROS对相机进行内参标定"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/ROS/ROS-melodic的安装与卸载",
+  "id": "skill/ROS/ROS-melodic的安装与卸载",
+  "title": "ROS-melodic的安装与卸载",
+  "description": "安装ROS",
+  "source": "@site/docs/skill/ROS/ROS-melodic的安装与卸载.md",
+  "sourceDirName": "skill/ROS",
+  "slug": "/skill/ROS/ROS-melodic的安装与卸载",
+  "permalink": "/docs/skill/ROS/ROS-melodic的安装与卸载",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "ROS-2浅述",
+    "permalink": "/docs/skill/ROS/ROS-2浅述"
+  },
+  "next": {
+    "title": "ROS入门之launch",
+    "permalink": "/docs/skill/ROS/ROS入门之launch"
+  }
+}

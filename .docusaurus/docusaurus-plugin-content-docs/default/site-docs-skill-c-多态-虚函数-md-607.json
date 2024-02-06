@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/C++/多态&虚函数",
+  "id": "skill/C++/多态&虚函数",
+  "title": "多态&虚函数",
+  "description": "多态的作用",
+  "source": "@site/docs/skill/C++/多态&虚函数.md",
+  "sourceDirName": "skill/C++",
+  "slug": "/skill/C++/多态&虚函数",
+  "permalink": "/docs/skill/C++/多态&虚函数",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "在指定路径下自动创建文件夹",
+    "permalink": "/docs/skill/C++/在指定路径下自动创建文件夹"
+  },
+  "next": {
+    "title": "头文件定义的通用模板",
+    "permalink": "/docs/skill/C++/头文件定义的通用模板"
+  }
+}

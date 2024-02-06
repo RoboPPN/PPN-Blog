@@ -1,0 +1,40 @@
+{
+  "unversionedId": "skill/VSCode/vscode-wrong-define",
+  "id": "skill/VSCode/vscode-wrong-define",
+  "title": "本地定义了与系统库重名的头文件问题",
+  "description": "问题描述",
+  "source": "@site/docs/skill/VSCode/本地定义了与系统库重名的头文件问题.md",
+  "sourceDirName": "skill/VSCode",
+  "slug": "/vscode-wrong-define",
+  "permalink": "/docs/vscode-wrong-define",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "VSCode",
+      "permalink": "/docs/tags/vs-code"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "vscode-wrong-define",
+    "slug": "/vscode-wrong-define",
+    "title": "本地定义了与系统库重名的头文件问题",
+    "authors": "PPN",
+    "tags": [
+      "VSCode"
+    ],
+    "keywords": [
+      "VSCode"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "vscode的include Path找不到头文件",
+    "permalink": "/docs/vscode-path-include"
+  },
+  "next": {
+    "title": "MySQL",
+    "permalink": "/docs/category/mysql"
+  }
+}

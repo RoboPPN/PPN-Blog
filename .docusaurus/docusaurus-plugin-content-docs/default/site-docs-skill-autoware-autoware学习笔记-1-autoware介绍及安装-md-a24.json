@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/autoware/Autoware学习笔记-1-Autoware介绍及安装",
+  "id": "skill/autoware/Autoware学习笔记-1-Autoware介绍及安装",
+  "title": "Autoware学习笔记-1-Autoware介绍及安装",
+  "description": "autoware主体简介",
+  "source": "@site/docs/skill/autoware/Autoware学习笔记-1-Autoware介绍及安装.md",
+  "sourceDirName": "skill/autoware",
+  "slug": "/skill/autoware/Autoware学习笔记-1-Autoware介绍及安装",
+  "permalink": "/docs/skill/autoware/Autoware学习笔记-1-Autoware介绍及安装",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "autoware",
+    "permalink": "/docs/category/autoware"
+  },
+  "next": {
+    "title": "ndt_matching",
+    "permalink": "/docs/skill/autoware/ndt_matching"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/Python/如何在ubuntu上运行python文件",
+  "id": "skill/Python/如何在ubuntu上运行python文件",
+  "title": "如何在ubuntu上运行python文件",
+  "description": "在Ubuntu无需编译.py文件即可运行它。",
+  "source": "@site/docs/skill/Python/如何在ubuntu上运行python文件.md",
+  "sourceDirName": "skill/Python",
+  "slug": "/skill/Python/如何在ubuntu上运行python文件",
+  "permalink": "/docs/skill/Python/如何在ubuntu上运行python文件",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "互斥锁",
+    "permalink": "/docs/skill/Python/互斥锁"
+  },
+  "next": {
+    "title": "如何安装turtle库",
+    "permalink": "/docs/skill/Python/如何安装turtle库"
+  }
+}

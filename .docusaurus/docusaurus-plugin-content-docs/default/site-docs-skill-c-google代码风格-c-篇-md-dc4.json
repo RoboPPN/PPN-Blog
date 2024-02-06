@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/C++/Google代码风格C++篇",
+  "id": "skill/C++/Google代码风格C++篇",
+  "title": "Google代码风格C++篇",
+  "description": "- 变量命名：",
+  "source": "@site/docs/skill/C++/Google代码风格C++篇.md",
+  "sourceDirName": "skill/C++",
+  "slug": "/skill/C++/Google代码风格C++篇",
+  "permalink": "/docs/skill/C++/Google代码风格C++篇",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "CMake学习笔记",
+    "permalink": "/docs/skill/C++/CMake学习笔记"
+  },
+  "next": {
+    "title": "auto关键字",
+    "permalink": "/docs/skill/C++/auto关键字"
+  }
+}

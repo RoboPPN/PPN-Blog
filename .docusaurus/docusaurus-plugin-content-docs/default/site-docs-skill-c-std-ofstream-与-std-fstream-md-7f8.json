@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/C++/std::ofstream  与 std::fstream",
+  "id": "skill/C++/std::ofstream  与 std::fstream",
+  "title": "std::ofstream  与 std::fstream",
+  "description": "std::fstream",
+  "source": "@site/docs/skill/C++/std::ofstream  与 std::fstream.md",
+  "sourceDirName": "skill/C++",
+  "slug": "/skill/C++/std::ofstream  与 std::fstream",
+  "permalink": "/docs/skill/C++/std::ofstream  与 std::fstream",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "std::bind函数",
+    "permalink": "/docs/skill/C++/std::bind函数"
+  },
+  "next": {
+    "title": "vector",
+    "permalink": "/docs/skill/C++/vector"
+  }
+}

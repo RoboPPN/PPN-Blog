@@ -1,0 +1,27 @@
+{
+  "unversionedId": "skill/OpenCV/OpenCV检测并解析二维码",
+  "id": "skill/OpenCV/OpenCV检测并解析二维码",
+  "title": "OpenCV检测并解析二维码",
+  "description": "OpenCV4中负责二维码检测与解析的类是QRCodeDetector",
+  "source": "@site/docs/skill/OpenCV/OpenCV检测并解析二维码.md",
+  "sourceDirName": "skill/OpenCV",
+  "slug": "/skill/OpenCV/OpenCV检测并解析二维码",
+  "permalink": "/docs/skill/OpenCV/OpenCV检测并解析二维码",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "OpenCV",
+    "permalink": "/docs/category/opencv"
+  },
+  "next": {
+    "title": "Math",
+    "permalink": "/docs/category/math"
+  }
+}

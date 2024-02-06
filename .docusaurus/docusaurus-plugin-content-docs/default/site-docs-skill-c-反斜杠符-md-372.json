@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/C++/反斜杠符",
+  "id": "skill/C++/反斜杠符",
+  "title": "反斜杠符",
+  "description": "反斜杠符(强制换行符，衔接上下两行的意思)",
+  "source": "@site/docs/skill/C++/反斜杠符.md",
+  "sourceDirName": "skill/C++",
+  "slug": "/skill/C++/反斜杠符",
+  "permalink": "/docs/skill/C++/反斜杠符",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "友元函数",
+    "permalink": "/docs/skill/C++/友元函数"
+  },
+  "next": {
+    "title": "在指定路径下自动创建文件夹",
+    "permalink": "/docs/skill/C++/在指定路径下自动创建文件夹"
+  }
+}

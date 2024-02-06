@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/Sensor/Camera/Azure Kinect DK 深度相机工作原理",
+  "id": "skill/Sensor/Camera/Azure Kinect DK 深度相机工作原理",
+  "title": "Azure Kinect DK 深度相机工作原理",
+  "description": "Azure Kinect DK 深度相机实现调幅连续波 (AMCW) 时差测距 (ToF) 原理。 该相机将近红外 (NIR) 频谱中的调制光投射到场景中。 然后，它会记录光线从相机传播到场景，然后从场景返回到相机所花费的间接时间测量值",
+  "source": "@site/docs/skill/Sensor/Camera/Azure Kinect DK 深度相机工作原理.md",
+  "sourceDirName": "skill/Sensor/Camera",
+  "slug": "/skill/Sensor/Camera/Azure Kinect DK 深度相机工作原理",
+  "permalink": "/docs/skill/Sensor/Camera/Azure Kinect DK 深度相机工作原理",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "激光雷达特征提取与拟合路径",
+    "permalink": "/docs/skill/Sensor/Lidar/激光雷达特征提取与拟合路径"
+  },
+  "next": {
+    "title": "RealSense相机",
+    "permalink": "/docs/skill/Sensor/Camera/RealSense相机"
+  }
+}

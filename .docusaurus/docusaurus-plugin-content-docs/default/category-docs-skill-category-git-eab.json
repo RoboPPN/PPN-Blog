@@ -1,0 +1,15 @@
+{
+  "title": "git",
+  "slug": "/category/git",
+  "permalink": "/docs/category/git",
+  "navigation": {
+    "previous": {
+      "title": "最小二乘法",
+      "permalink": "/docs/skill/Math/最小二乘法"
+    },
+    "next": {
+      "title": "git分支管理",
+      "permalink": "/docs/skill/git/git分支管理"
+    }
+  }
+}

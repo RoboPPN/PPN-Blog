@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/软件安装&环境配置/编译安装robot_pose_ekf功能包",
+  "id": "skill/软件安装&环境配置/编译安装robot_pose_ekf功能包",
+  "title": "编译安装robot_pose_ekf功能包",
+  "description": "使用源码安装",
+  "source": "@site/docs/skill/软件安装&环境配置/编译安装robot_pose_ekf功能包.md",
+  "sourceDirName": "skill/软件安装&环境配置",
+  "slug": "/skill/软件安装&环境配置/编译安装robot_pose_ekf功能包",
+  "permalink": "/docs/skill/软件安装&环境配置/编译安装robot_pose_ekf功能包",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "妙算MANIFOLD 2-G系统还原、使用教程",
+    "permalink": "/docs/skill/软件安装&环境配置/妙算MANIFOLD 2-G系统还原、使用教程"
+  },
+  "next": {
+    "title": "规划",
+    "permalink": "/docs/category/规划"
+  }
+}

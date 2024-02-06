@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/Sensor/Lidar/深度相机做伪2D激光雷达",
+  "id": "skill/Sensor/Lidar/深度相机做伪2D激光雷达",
+  "title": "深度相机做伪2D激光雷达",
+  "description": "介绍",
+  "source": "@site/docs/skill/Sensor/Lidar/深度相机做伪2D激光雷达.md",
+  "sourceDirName": "skill/Sensor/Lidar",
+  "slug": "/skill/Sensor/Lidar/深度相机做伪2D激光雷达",
+  "permalink": "/docs/skill/Sensor/Lidar/深度相机做伪2D激光雷达",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "双2d激光雷达数据拼接",
+    "permalink": "/docs/skill/Sensor/Lidar/双2d激光雷达数据拼接"
+  },
+  "next": {
+    "title": "激光雷达滤波器",
+    "permalink": "/docs/skill/Sensor/Lidar/激光雷达滤波器"
+  }
+}

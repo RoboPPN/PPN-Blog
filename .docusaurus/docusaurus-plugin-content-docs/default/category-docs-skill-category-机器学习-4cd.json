@@ -1,0 +1,15 @@
+{
+  "title": "机器学习",
+  "slug": "/category/机器学习",
+  "permalink": "/docs/category/机器学习",
+  "navigation": {
+    "previous": {
+      "title": "搜索小技巧",
+      "permalink": "/docs/skill/有用的小知识/搜索小技巧"
+    },
+    "next": {
+      "title": "什么是机器学习？",
+      "permalink": "/docs/skill/机器学习/机器学习概述"
+    }
+  }
+}

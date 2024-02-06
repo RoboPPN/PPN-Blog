@@ -1,0 +1,15 @@
+{
+  "title": "GPS",
+  "slug": "/category/gps",
+  "permalink": "/docs/category/gps",
+  "navigation": {
+    "previous": {
+      "title": "IMU工作原理",
+      "permalink": "/docs/skill/Sensor/IMU/IMU工作原理"
+    },
+    "next": {
+      "title": "GPS工作原理",
+      "permalink": "/docs/skill/Sensor/GPS/GPS工作原理"
+    }
+  }
+}

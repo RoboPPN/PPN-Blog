@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/定位导航/自适应蒙特卡罗定位",
+  "id": "skill/定位导航/自适应蒙特卡罗定位",
+  "title": "自适应蒙特卡罗定位",
+  "description": "导航包move_base框架图",
+  "source": "@site/docs/skill/定位导航/自适应蒙特卡罗定位.md",
+  "sourceDirName": "skill/定位导航",
+  "slug": "/skill/定位导航/自适应蒙特卡罗定位",
+  "permalink": "/docs/skill/定位导航/自适应蒙特卡罗定位",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "自主式移动机器人改进方案",
+    "permalink": "/docs/skill/定位导航/自主式移动机器人改进方案"
+  },
+  "next": {
+    "title": "多线程",
+    "permalink": "/docs/category/多线程"
+  }
+}

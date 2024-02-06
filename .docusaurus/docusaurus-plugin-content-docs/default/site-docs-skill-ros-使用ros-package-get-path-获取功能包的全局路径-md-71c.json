@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/ROS/使用ros::package::getPath()获取功能包的全局路径",
+  "id": "skill/ROS/使用ros::package::getPath()获取功能包的全局路径",
+  "title": "使用ros::package::getPath()获取功能包的全局路径",
+  "description": "- C++版本：",
+  "source": "@site/docs/skill/ROS/使用ros::package::getPath()获取功能包的全局路径.md",
+  "sourceDirName": "skill/ROS",
+  "slug": "/skill/ROS/使用ros::package::getPath()获取功能包的全局路径",
+  "permalink": "/docs/skill/ROS/使用ros::package::getPath()获取功能包的全局路径",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "专治ROS各种疑难杂症",
+    "permalink": "/docs/skill/ROS/专治ROS各种疑难杂症"
+  },
+  "next": {
+    "title": "四元数",
+    "permalink": "/docs/skill/ROS/四元数"
+  }
+}

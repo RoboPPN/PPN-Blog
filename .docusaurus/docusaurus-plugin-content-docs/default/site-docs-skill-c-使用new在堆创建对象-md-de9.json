@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/C++/使用new在堆创建对象",
+  "id": "skill/C++/使用new在堆创建对象",
+  "title": "使用new在堆创建对象",
+  "description": "使用new在堆上创建出来的对象是匿名的，没法直接使用，必须要用一个指针指向它，在借助指针来访问它的成员变量或成员函数。",
+  "source": "@site/docs/skill/C++/使用new在堆创建对象.md",
+  "sourceDirName": "skill/C++",
+  "slug": "/skill/C++/使用new在堆创建对象",
+  "permalink": "/docs/skill/C++/使用new在堆创建对象",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "vector",
+    "permalink": "/docs/skill/C++/vector"
+  },
+  "next": {
+    "title": "内联函数",
+    "permalink": "/docs/skill/C++/内联函数"
+  }
+}

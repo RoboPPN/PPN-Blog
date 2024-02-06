@@ -1,0 +1,15 @@
+{
+  "title": "MySQL",
+  "slug": "/category/mysql",
+  "permalink": "/docs/category/mysql",
+  "navigation": {
+    "previous": {
+      "title": "本地定义了与系统库重名的头文件问题",
+      "permalink": "/docs/vscode-wrong-define"
+    },
+    "next": {
+      "title": "MySQL操作指令",
+      "permalink": "/docs/skill/MySQL/MySQL操作指令"
+    }
+  }
+}

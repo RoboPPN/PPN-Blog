@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/C++/头文件定义的通用模板",
+  "id": "skill/C++/头文件定义的通用模板",
+  "title": "头文件定义的通用模板",
+  "description": "在C++头文件中使用#ifndef、#define和#endif是为了防止头文件的重复包含，这是一种常见的防御性编程技术，也被称为头文件保护或者条件编译。",
+  "source": "@site/docs/skill/C++/头文件定义的通用模板.md",
+  "sourceDirName": "skill/C++",
+  "slug": "/skill/C++/头文件定义的通用模板",
+  "permalink": "/docs/skill/C++/头文件定义的通用模板",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "多态&虚函数",
+    "permalink": "/docs/skill/C++/多态&虚函数"
+  },
+  "next": {
+    "title": "宏定义",
+    "permalink": "/docs/skill/C++/宏定义"
+  }
+}

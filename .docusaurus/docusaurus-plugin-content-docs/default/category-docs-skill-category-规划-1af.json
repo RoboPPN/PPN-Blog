@@ -1,0 +1,15 @@
+{
+  "title": "规划",
+  "slug": "/category/规划",
+  "permalink": "/docs/category/规划",
+  "navigation": {
+    "previous": {
+      "title": "编译安装robot_pose_ekf功能包",
+      "permalink": "/docs/skill/软件安装&环境配置/编译安装robot_pose_ekf功能包"
+    },
+    "next": {
+      "title": "局部路径规划",
+      "permalink": "/docs/skill/规划/局部路径规划"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/ROS/ROS分布式通讯",
+  "id": "skill/ROS/ROS分布式通讯",
+  "title": "ROS分布式通讯",
+  "description": "ROS是一种分布式软件框架，节点之间通过松耦合的方式进行组合，在很多应用场景下，节点可以运行在不同的计算平台上，通过Topic、Service进行通信。但是ROS中只允许存在一个Master，在多机系统中Master只能运行在一台机器上，其他机器需要通过ssh的方式和Master取得联系,所以在多机ROS系统中需要进行一些配置。",
+  "source": "@site/docs/skill/ROS/ROS分布式通讯.md",
+  "sourceDirName": "skill/ROS",
+  "slug": "/skill/ROS/ROS分布式通讯",
+  "permalink": "/docs/skill/ROS/ROS分布式通讯",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "ROS入门之launch",
+    "permalink": "/docs/skill/ROS/ROS入门之launch"
+  },
+  "next": {
+    "title": "ROS常用工具",
+    "permalink": "/docs/skill/ROS/ROS常用工具"
+  }
+}

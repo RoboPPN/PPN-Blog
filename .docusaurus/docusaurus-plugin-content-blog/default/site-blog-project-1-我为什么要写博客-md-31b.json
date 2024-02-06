@@ -1,0 +1,45 @@
+{
+  "permalink": "/blog/blog_write",
+  "editUrl": "https://github.com/disnox/blog/edit/main/blog/project/1. 我为什么要写博客.md",
+  "source": "@site/blog/project/1. 我为什么要写博客.md",
+  "title": "我为什么要写博客",
+  "description": "写博客",
+  "date": "2022-10-25T00:00:00.000Z",
+  "formattedDate": "2022年10月25日",
+  "tags": [
+    {
+      "label": "blog",
+      "permalink": "/blog/tags/blog"
+    },
+    {
+      "label": "随笔",
+      "permalink": "/blog/tags/随笔"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 3.4966666666666666,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "slug": "/blog_write",
+    "title": "我为什么要写博客",
+    "date": "2022-10-25T00:00:00.000Z",
+    "tags": [
+      "blog",
+      "随笔",
+      "docusaurus"
+    ],
+    "keywords": [
+      "blog",
+      "随笔",
+      "docusaurus"
+    ],
+    "description": "写博客",
+    "image": "/img/my_blog.png",
+    "sticky": 4
+  },
+  "unlisted": false
+}

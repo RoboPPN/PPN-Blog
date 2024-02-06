@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/Ubuntu/ubuntu常用指令合集",
+  "id": "skill/Ubuntu/ubuntu常用指令合集",
+  "title": "ubuntu常用指令合集",
+  "description": "watch 在终端中周期性地运行指定的命令",
+  "source": "@site/docs/skill/Ubuntu/ubuntu常用指令合集.md",
+  "sourceDirName": "skill/Ubuntu",
+  "slug": "/skill/Ubuntu/ubuntu常用指令合集",
+  "permalink": "/docs/skill/Ubuntu/ubuntu常用指令合集",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "Ubuntu自启动程序",
+    "permalink": "/docs/skill/Ubuntu/Ubuntu自启动程序"
+  },
+  "next": {
+    "title": "vim用法",
+    "permalink": "/docs/skill/Ubuntu/vim用法"
+  }
+}

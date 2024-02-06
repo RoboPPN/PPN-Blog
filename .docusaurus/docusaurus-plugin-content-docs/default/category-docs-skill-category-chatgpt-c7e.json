@@ -1,0 +1,15 @@
+{
+  "title": "ChatGPT",
+  "slug": "/category/chatgpt",
+  "permalink": "/docs/category/chatgpt",
+  "navigation": {
+    "previous": {
+      "title": "超时-无法读取远程仓库",
+      "permalink": "/docs/skill/git/超时-无法读取远程仓库"
+    },
+    "next": {
+      "title": "ChatGPT注册账号教程",
+      "permalink": "/docs/skill/ChatGPT/ChatGPT注册账号教程"
+    }
+  }
+}

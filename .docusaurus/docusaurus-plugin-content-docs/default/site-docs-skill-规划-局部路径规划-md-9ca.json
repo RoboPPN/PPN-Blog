@@ -1,0 +1,27 @@
+{
+  "unversionedId": "skill/规划/局部路径规划",
+  "id": "skill/规划/局部路径规划",
+  "title": "局部路径规划",
+  "description": "根据附近的障碍物进行躲避路线规划。本地的实时规划是利用baselocalplanner包实现的。",
+  "source": "@site/docs/skill/规划/局部路径规划.md",
+  "sourceDirName": "skill/规划",
+  "slug": "/skill/规划/局部路径规划",
+  "permalink": "/docs/skill/规划/局部路径规划",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "规划",
+    "permalink": "/docs/category/规划"
+  },
+  "next": {
+    "title": "A*算法",
+    "permalink": "/docs/skill/规划/A*算法"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/MySQL/mysql踩坑记",
+  "id": "skill/MySQL/mysql踩坑记",
+  "title": "mysql踩坑记",
+  "description": "如何使用mysql创建一个数据库",
+  "source": "@site/docs/skill/MySQL/mysql踩坑记.md",
+  "sourceDirName": "skill/MySQL",
+  "slug": "/skill/MySQL/mysql踩坑记",
+  "permalink": "/docs/skill/MySQL/mysql踩坑记",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "mysql数据库迁移",
+    "permalink": "/docs/skill/MySQL/mysql数据库迁移"
+  },
+  "next": {
+    "title": "MySQL workbench中PK、NN、UQ、BIN、UN、ZF、AI、G这些选项代表的意思是？",
+    "permalink": "/docs/skill/MySQL/workbench学习笔记"
+  }
+}

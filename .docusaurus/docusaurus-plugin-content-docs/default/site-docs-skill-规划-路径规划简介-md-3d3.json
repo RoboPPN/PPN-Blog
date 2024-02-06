@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/规划/路径规划简介",
+  "id": "skill/规划/路径规划简介",
+  "title": "路径规划简介",
+  "description": "全局路径规划",
+  "source": "@site/docs/skill/规划/路径规划简介.md",
+  "sourceDirName": "skill/规划",
+  "slug": "/skill/规划/路径规划简介",
+  "permalink": "/docs/skill/规划/路径规划简介",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "各大全局路径规划算法简介",
+    "permalink": "/docs/skill/规划/各大全局路径规划算法简介"
+  },
+  "next": {
+    "title": "地图",
+    "permalink": "/docs/category/地图"
+  }
+}

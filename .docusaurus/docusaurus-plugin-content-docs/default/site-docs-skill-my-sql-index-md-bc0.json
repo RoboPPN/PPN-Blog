@@ -1,0 +1,46 @@
+{
+  "unversionedId": "skill/MySQL/mysql-note",
+  "id": "skill/MySQL/mysql-note",
+  "title": "MySql笔记",
+  "description": "1、前言",
+  "source": "@site/docs/skill/MySQL/index.md",
+  "sourceDirName": "skill/MySQL",
+  "slug": "/skill/database/mysql",
+  "permalink": "/docs/skill/database/mysql",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "mysql",
+      "permalink": "/docs/tags/mysql"
+    },
+    {
+      "label": "database",
+      "permalink": "/docs/tags/database"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "mysql-note",
+    "slug": "/skill/database/mysql",
+    "title": "MySql笔记",
+    "date": "2023-06-01T00:00:00.000Z",
+    "tags": [
+      "mysql",
+      "database"
+    ],
+    "keywords": [
+      "mysql",
+      "database"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Ubuntu20.04安装MySQL和MySQL-workbench并连接云端数据库",
+    "permalink": "/docs/skill/MySQL/Ubuntu20.04安装MySQL和MySQL-workbench并连接云端数据库"
+  },
+  "next": {
+    "title": "mysql与influxDB的区别",
+    "permalink": "/docs/skill/MySQL/mysql与influxDB的区别"
+  }
+}

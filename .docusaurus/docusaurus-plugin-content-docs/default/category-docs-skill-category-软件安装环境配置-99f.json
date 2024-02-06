@@ -1,0 +1,15 @@
+{
+  "title": "软件安装&环境配置",
+  "slug": "/category/软件安装环境配置",
+  "permalink": "/docs/category/软件安装环境配置",
+  "navigation": {
+    "previous": {
+      "title": "什么是机器学习？",
+      "permalink": "/docs/skill/机器学习/机器学习概述"
+    },
+    "next": {
+      "title": "Ubuntu配置opencv4",
+      "permalink": "/docs/skill/软件安装&环境配置/Ubuntu配置opencv4"
+    }
+  }
+}

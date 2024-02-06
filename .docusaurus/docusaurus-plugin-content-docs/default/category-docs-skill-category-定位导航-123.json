@@ -1,0 +1,15 @@
+{
+  "title": "定位导航",
+  "slug": "/category/定位导航",
+  "permalink": "/docs/category/定位导航",
+  "navigation": {
+    "previous": {
+      "title": "navigation切换地图的两种方法",
+      "permalink": "/docs/skill/地图/navigation切换地图的两种方法"
+    },
+    "next": {
+      "title": "导航模块介绍",
+      "permalink": "/docs/skill/定位导航/导航模块介绍"
+    }
+  }
+}

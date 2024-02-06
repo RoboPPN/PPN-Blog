@@ -1,0 +1,15 @@
+{
+  "title": "Math",
+  "slug": "/category/math",
+  "permalink": "/docs/category/math",
+  "navigation": {
+    "previous": {
+      "title": "OpenCV检测并解析二维码",
+      "permalink": "/docs/skill/OpenCV/OpenCV检测并解析二维码"
+    },
+    "next": {
+      "title": "最小二乘法",
+      "permalink": "/docs/skill/Math/最小二乘法"
+    }
+  }
+}

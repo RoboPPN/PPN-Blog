@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/Python/python简介",
+  "id": "skill/Python/python简介",
+  "title": "python简介",
+  "description": "python冷知识",
+  "source": "@site/docs/skill/Python/python简介.md",
+  "sourceDirName": "skill/Python",
+  "slug": "/skill/Python/python简介",
+  "permalink": "/docs/skill/Python/python简介",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "python对json&yaml的操作",
+    "permalink": "/docs/skill/Python/python对json&yaml的操作"
+  },
+  "next": {
+    "title": "互斥锁",
+    "permalink": "/docs/skill/Python/互斥锁"
+  }
+}

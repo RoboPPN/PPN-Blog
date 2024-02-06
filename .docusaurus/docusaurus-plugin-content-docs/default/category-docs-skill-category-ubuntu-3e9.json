@@ -1,0 +1,15 @@
+{
+  "title": "Ubuntu",
+  "slug": "/category/ubuntu",
+  "permalink": "/docs/category/ubuntu",
+  "navigation": {
+    "previous": {
+      "title": "MoveIt入门学习笔记",
+      "permalink": "/docs/skill/MoveIt机械臂/MoveIt入门学习笔记"
+    },
+    "next": {
+      "title": "专治Ubuntu各种疑难杂症",
+      "permalink": "/docs/skill/Ubuntu/专治Ubuntu各种疑难杂症"
+    }
+  }
+}

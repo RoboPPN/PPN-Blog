@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/Python/遇到非ASCII字符问题",
+  "id": "skill/Python/遇到非ASCII字符问题",
+  "title": "遇到非ASCII字符问题",
+  "description": "问题描述：",
+  "source": "@site/docs/skill/Python/遇到非ASCII字符问题.md",
+  "sourceDirName": "skill/Python",
+  "slug": "/skill/Python/遇到非ASCII字符问题",
+  "permalink": "/docs/skill/Python/遇到非ASCII字符问题",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "数据类型检测",
+    "permalink": "/docs/skill/Python/数据类型检测"
+  },
+  "next": {
+    "title": "传感器",
+    "permalink": "/docs/category/传感器"
+  }
+}

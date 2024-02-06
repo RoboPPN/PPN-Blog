@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/规划/Teb算法",
+  "id": "skill/规划/Teb算法",
+  "title": "Teb算法",
+  "description": "局部路径规划需要的输入与输出",
+  "source": "@site/docs/skill/规划/Teb算法.md",
+  "sourceDirName": "skill/规划",
+  "slug": "/skill/规划/Teb算法",
+  "permalink": "/docs/skill/规划/Teb算法",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "Teb参数优化",
+    "permalink": "/docs/skill/规划/Teb参数优化"
+  },
+  "next": {
+    "title": "move_base笔记",
+    "permalink": "/docs/skill/规划/move_base笔记"
+  }
+}

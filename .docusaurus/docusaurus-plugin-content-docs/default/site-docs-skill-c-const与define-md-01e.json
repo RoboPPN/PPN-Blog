@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/C++/const与define",
+  "id": "skill/C++/const与define",
+  "title": "const与define",
+  "description": "const 与 #define",
+  "source": "@site/docs/skill/C++/const与define.md",
+  "sourceDirName": "skill/C++",
+  "slug": "/skill/C++/const与define",
+  "permalink": "/docs/skill/C++/const与define",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "auto关键字",
+    "permalink": "/docs/skill/C++/auto关键字"
+  },
+  "next": {
+    "title": "gcc编译器和g++编译器有何区别",
+    "permalink": "/docs/skill/C++/gcc编译器和g++编译器有何区别"
+  }
+}

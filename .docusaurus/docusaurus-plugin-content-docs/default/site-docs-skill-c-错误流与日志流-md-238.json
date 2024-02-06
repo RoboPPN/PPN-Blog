@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/C++/错误流与日志流",
+  "id": "skill/C++/错误流与日志流",
+  "title": "错误流与日志流",
+  "description": "标准错误流cerr",
+  "source": "@site/docs/skill/C++/错误流与日志流.md",
+  "sourceDirName": "skill/C++",
+  "slug": "/skill/C++/错误流与日志流",
+  "permalink": "/docs/skill/C++/错误流与日志流",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "重载函数",
+    "permalink": "/docs/skill/C++/重载函数"
+  },
+  "next": {
+    "title": "Python",
+    "permalink": "/docs/category/python"
+  }
+}

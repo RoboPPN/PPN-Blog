@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/定位导航/基于反光板的全局定位",
+  "id": "skill/定位导航/基于反光板的全局定位",
+  "title": "基于反光板的全局定位",
+  "description": "反光板的布置要求",
+  "source": "@site/docs/skill/定位导航/基于反光板的全局定位.md",
+  "sourceDirName": "skill/定位导航",
+  "slug": "/skill/定位导航/基于反光板的全局定位",
+  "permalink": "/docs/skill/定位导航/基于反光板的全局定位",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "cartographer学习",
+    "permalink": "/docs/skill/定位导航/cartographer学习"
+  },
+  "next": {
+    "title": "自主式移动机器人改进方案",
+    "permalink": "/docs/skill/定位导航/自主式移动机器人改进方案"
+  }
+}

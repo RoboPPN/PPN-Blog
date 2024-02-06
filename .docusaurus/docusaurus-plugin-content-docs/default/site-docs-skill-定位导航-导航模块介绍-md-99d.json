@@ -1,0 +1,27 @@
+{
+  "unversionedId": "skill/定位导航/导航模块介绍",
+  "id": "skill/定位导航/导航模块介绍",
+  "title": "导航模块介绍",
+  "description": "导航涉及的关键技术有如下五点",
+  "source": "@site/docs/skill/定位导航/导航模块介绍.md",
+  "sourceDirName": "skill/定位导航",
+  "slug": "/skill/定位导航/导航模块介绍",
+  "permalink": "/docs/skill/定位导航/导航模块介绍",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "定位导航",
+    "permalink": "/docs/category/定位导航"
+  },
+  "next": {
+    "title": "定位简介",
+    "permalink": "/docs/skill/定位导航/定位简介"
+  }
+}

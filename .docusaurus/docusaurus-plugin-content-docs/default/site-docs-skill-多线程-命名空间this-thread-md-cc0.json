@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/多线程/命名空间this_thread",
+  "id": "skill/多线程/命名空间this_thread",
+  "title": "命名空间this_thread",
+  "description": "大丙课堂链接：",
+  "source": "@site/docs/skill/多线程/命名空间this_thread.md",
+  "sourceDirName": "skill/多线程",
+  "slug": "/skill/多线程/命名空间this_thread",
+  "permalink": "/docs/skill/多线程/命名空间this_thread",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "C++11线程类",
+    "permalink": "/docs/skill/多线程/C++11线程类"
+  },
+  "next": {
+    "title": "处理日期和时间的 chrono 库",
+    "permalink": "/docs/skill/多线程/处理日期和时间的 chrono 库"
+  }
+}

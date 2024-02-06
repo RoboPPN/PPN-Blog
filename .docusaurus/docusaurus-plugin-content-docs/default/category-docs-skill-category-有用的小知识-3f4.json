@@ -1,0 +1,15 @@
+{
+  "title": "有用的小知识",
+  "slug": "/category/有用的小知识",
+  "permalink": "/docs/category/有用的小知识",
+  "navigation": {
+    "previous": {
+      "title": "ndt_matching",
+      "permalink": "/docs/skill/autoware/ndt_matching"
+    },
+    "next": {
+      "title": "NTFS-FAT32-exFAT文件系统",
+      "permalink": "/docs/skill/有用的小知识/NTFS-FAT32-exFAT文件系统"
+    }
+  }
+}

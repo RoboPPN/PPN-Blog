@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/Ubuntu/vim用法",
+  "id": "skill/Ubuntu/vim用法",
+  "title": "vim用法",
+  "description": "1、安装",
+  "source": "@site/docs/skill/Ubuntu/vim用法.md",
+  "sourceDirName": "skill/Ubuntu",
+  "slug": "/skill/Ubuntu/vim用法",
+  "permalink": "/docs/skill/Ubuntu/vim用法",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "ubuntu常用指令合集",
+    "permalink": "/docs/skill/Ubuntu/ubuntu常用指令合集"
+  },
+  "next": {
+    "title": "一些Ubuntu上好用的工具",
+    "permalink": "/docs/skill/Ubuntu/一些Ubuntu上好用的工具"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/Python/数据类型检测",
+  "id": "skill/Python/数据类型检测",
+  "title": "数据类型检测",
+  "description": "功能：使用python检测回调函数进来的数据类型是否是float类型的，如果不是则将数据打印出来",
+  "source": "@site/docs/skill/Python/数据类型检测.md",
+  "sourceDirName": "skill/Python",
+  "slug": "/skill/Python/数据类型检测",
+  "permalink": "/docs/skill/Python/数据类型检测",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "如何安装turtle库",
+    "permalink": "/docs/skill/Python/如何安装turtle库"
+  },
+  "next": {
+    "title": "遇到非ASCII字符问题",
+    "permalink": "/docs/skill/Python/遇到非ASCII字符问题"
+  }
+}

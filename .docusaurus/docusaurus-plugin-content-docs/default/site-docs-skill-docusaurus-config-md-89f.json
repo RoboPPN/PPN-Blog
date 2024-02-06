@@ -1,0 +1,29 @@
+{
+  "unversionedId": "skill/docusaurus/docusaurus-config",
+  "id": "skill/docusaurus/docusaurus-config",
+  "title": "配置文件",
+  "description": "docusaurus.config.js",
+  "source": "@site/docs/skill/docusaurus/config.md",
+  "sourceDirName": "skill/docusaurus",
+  "slug": "/docusaurus-config",
+  "permalink": "/docs/docusaurus-config",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "docusaurus-config",
+    "slug": "/docusaurus-config",
+    "title": "配置文件",
+    "authors": "kuizuo"
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Docusaurus 主题魔改",
+    "permalink": "/docs/docusaurus-guides"
+  },
+  "next": {
+    "title": "样式与页面",
+    "permalink": "/docs/docusaurus-style"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "skill/Ubuntu/外设端口映射配置",
+  "id": "skill/Ubuntu/外设端口映射配置",
+  "title": "外设端口映射配置",
+  "description": "根据硬件接口（串口，USB或者ACM）来配置/etc/udev/rules.d中的udev文件，实现ydlidar-G4激光雷达的设备绑定",
+  "source": "@site/docs/skill/Ubuntu/外设端口映射配置.md",
+  "sourceDirName": "skill/Ubuntu",
+  "slug": "/skill/Ubuntu/外设端口映射配置",
+  "permalink": "/docs/skill/Ubuntu/外设端口映射配置",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "专治Ubuntu各种疑难杂症",
+    "permalink": "/docs/skill/Ubuntu/专治Ubuntu各种疑难杂症"
+  },
+  "next": {
+    "title": "Ubuntu自启动程序",
+    "permalink": "/docs/skill/Ubuntu/Ubuntu自启动程序"
+  }
+}

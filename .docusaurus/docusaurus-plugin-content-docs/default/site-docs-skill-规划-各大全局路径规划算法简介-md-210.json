@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/规划/各大全局路径规划算法简介",
+  "id": "skill/规划/各大全局路径规划算法简介",
+  "title": "各大全局路径规划算法简介",
+  "description": "广度优先遍历（breadth first search-BFS）",
+  "source": "@site/docs/skill/规划/各大全局路径规划算法简介.md",
+  "sourceDirName": "skill/规划",
+  "slug": "/skill/规划/各大全局路径规划算法简介",
+  "permalink": "/docs/skill/规划/各大全局路径规划算法简介",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "move_base笔记",
+    "permalink": "/docs/skill/规划/move_base笔记"
+  },
+  "next": {
+    "title": "路径规划简介",
+    "permalink": "/docs/skill/规划/路径规划简介"
+  }
+}

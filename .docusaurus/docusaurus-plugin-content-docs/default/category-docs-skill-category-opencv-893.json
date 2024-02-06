@@ -1,0 +1,15 @@
+{
+  "title": "OpenCV",
+  "slug": "/category/opencv",
+  "permalink": "/docs/category/opencv",
+  "navigation": {
+    "previous": {
+      "title": "添加自定义消息类型，如何修改CMakeLists.txt的内容",
+      "permalink": "/docs/skill/ROS/添加自定义消息类型，如何修改CMakeLists.txt的内容"
+    },
+    "next": {
+      "title": "OpenCV检测并解析二维码",
+      "permalink": "/docs/skill/OpenCV/OpenCV检测并解析二维码"
+    }
+  }
+}

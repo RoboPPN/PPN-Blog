@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/Sensor/IMU/IMU工作原理",
+  "id": "skill/Sensor/IMU/IMU工作原理",
+  "title": "IMU工作原理",
+  "description": "IMU：Inertial Measurement Unit，即惯性测量单元",
+  "source": "@site/docs/skill/Sensor/IMU/IMU工作原理.md",
+  "sourceDirName": "skill/Sensor/IMU",
+  "slug": "/skill/Sensor/IMU/IMU工作原理",
+  "permalink": "/docs/skill/Sensor/IMU/IMU工作原理",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "IMU",
+    "permalink": "/docs/category/imu"
+  },
+  "next": {
+    "title": "GPS",
+    "permalink": "/docs/category/gps"
+  }
+}

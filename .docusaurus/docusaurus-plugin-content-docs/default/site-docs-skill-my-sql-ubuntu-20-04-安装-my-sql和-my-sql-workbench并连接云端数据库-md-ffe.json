@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/MySQL/Ubuntu20.04安装MySQL和MySQL-workbench并连接云端数据库",
+  "id": "skill/MySQL/Ubuntu20.04安装MySQL和MySQL-workbench并连接云端数据库",
+  "title": "Ubuntu20.04安装MySQL和MySQL-workbench并连接云端数据库",
+  "description": "通过apt方式安装MySQL服务（会安装最新版本）",
+  "source": "@site/docs/skill/MySQL/Ubuntu20.04安装MySQL和MySQL-workbench并连接云端数据库.md",
+  "sourceDirName": "skill/MySQL",
+  "slug": "/skill/MySQL/Ubuntu20.04安装MySQL和MySQL-workbench并连接云端数据库",
+  "permalink": "/docs/skill/MySQL/Ubuntu20.04安装MySQL和MySQL-workbench并连接云端数据库",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "SQL笔记",
+    "permalink": "/docs/skill/MySQL/SQL笔记"
+  },
+  "next": {
+    "title": "MySql笔记",
+    "permalink": "/docs/skill/database/mysql"
+  }
+}

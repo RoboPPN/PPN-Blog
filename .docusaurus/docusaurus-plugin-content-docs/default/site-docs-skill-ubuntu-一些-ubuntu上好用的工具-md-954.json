@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/Ubuntu/一些Ubuntu上好用的工具",
+  "id": "skill/Ubuntu/一些Ubuntu上好用的工具",
+  "title": "一些Ubuntu上好用的工具",
+  "description": "需自行去官网下载对应的deb包，使用dpkg进行安装",
+  "source": "@site/docs/skill/Ubuntu/一些Ubuntu上好用的工具.md",
+  "sourceDirName": "skill/Ubuntu",
+  "slug": "/skill/Ubuntu/一些Ubuntu上好用的工具",
+  "permalink": "/docs/skill/Ubuntu/一些Ubuntu上好用的工具",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "vim用法",
+    "permalink": "/docs/skill/Ubuntu/vim用法"
+  },
+  "next": {
+    "title": "常用shell脚本指令",
+    "permalink": "/docs/skill/Ubuntu/常用shell脚本指令"
+  }
+}

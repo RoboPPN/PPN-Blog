@@ -1,0 +1,27 @@
+[
+  {
+    "label": "mysql",
+    "permalink": "/docs/tags/mysql",
+    "count": 1
+  },
+  {
+    "label": "database",
+    "permalink": "/docs/tags/database",
+    "count": 1
+  },
+  {
+    "label": "ROS",
+    "permalink": "/docs/tags/ros",
+    "count": 1
+  },
+  {
+    "label": "TF",
+    "permalink": "/docs/tags/tf",
+    "count": 1
+  },
+  {
+    "label": "VSCode",
+    "permalink": "/docs/tags/vs-code",
+    "count": 2
+  }
+]

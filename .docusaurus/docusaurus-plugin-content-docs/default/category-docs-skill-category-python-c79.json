@@ -1,0 +1,15 @@
+{
+  "title": "Python",
+  "slug": "/category/python",
+  "permalink": "/docs/category/python",
+  "navigation": {
+    "previous": {
+      "title": "错误流与日志流",
+      "permalink": "/docs/skill/C++/错误流与日志流"
+    },
+    "next": {
+      "title": "async关键字",
+      "permalink": "/docs/skill/Python/async关键字"
+    }
+  }
+}

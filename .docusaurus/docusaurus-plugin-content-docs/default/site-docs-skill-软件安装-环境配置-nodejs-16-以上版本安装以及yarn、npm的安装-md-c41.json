@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/软件安装&环境配置/nodejs16以上版本安装以及yarn、npm的安装",
+  "id": "skill/软件安装&环境配置/nodejs16以上版本安装以及yarn、npm的安装",
+  "title": "nodejs16以上版本安装以及yarn、npm的安装",
+  "description": "前言",
+  "source": "@site/docs/skill/软件安装&环境配置/nodejs16以上版本安装以及yarn、npm的安装.md",
+  "sourceDirName": "skill/软件安装&环境配置",
+  "slug": "/skill/软件安装&环境配置/nodejs16以上版本安装以及yarn、npm的安装",
+  "permalink": "/docs/skill/软件安装&环境配置/nodejs16以上版本安装以及yarn、npm的安装",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "RoboWare的安装",
+    "permalink": "/docs/skill/软件安装&环境配置/RoboWare的安装"
+  },
+  "next": {
+    "title": "在vscode上搭建ROS环境",
+    "permalink": "/docs/skill/软件安装&环境配置/在vscode上搭建ROS环境"
+  }
+}

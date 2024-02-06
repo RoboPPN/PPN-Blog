@@ -1,0 +1,15 @@
+{
+  "title": "C++",
+  "slug": "/category/c",
+  "permalink": "/docs/category/c",
+  "navigation": {
+    "previous": {
+      "title": "线程同步",
+      "permalink": "/docs/skill/多线程/线程同步"
+    },
+    "next": {
+      "title": "C++ 测试程序运行时间",
+      "permalink": "/docs/skill/C++/C++ 测试程序运行时间"
+    }
+  }
+}

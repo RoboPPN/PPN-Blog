@@ -1,0 +1,40 @@
+{
+  "unversionedId": "skill/VSCode/vscode-path-include",
+  "id": "skill/VSCode/vscode-path-include",
+  "title": "vscode的include Path找不到头文件",
+  "description": "问题描述：无法打开源文件\"ros/ros.h\"/\"imagetransport/imagetransport.h\"",
+  "source": "@site/docs/skill/VSCode/vscode的include Path找不到头文件.md",
+  "sourceDirName": "skill/VSCode",
+  "slug": "/vscode-path-include",
+  "permalink": "/docs/vscode-path-include",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "VSCode",
+      "permalink": "/docs/tags/vs-code"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "vscode-path-include",
+    "slug": "/vscode-path-include",
+    "title": "vscode的include Path找不到头文件",
+    "authors": "PPN",
+    "tags": [
+      "VSCode"
+    ],
+    "keywords": [
+      "VSCode"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "ssh远程连接服务器无法跳转函数定义问题",
+    "permalink": "/docs/skill/VSCode/ssh远程连接服务器无法跳转函数定义问题"
+  },
+  "next": {
+    "title": "本地定义了与系统库重名的头文件问题",
+    "permalink": "/docs/vscode-wrong-define"
+  }
+}

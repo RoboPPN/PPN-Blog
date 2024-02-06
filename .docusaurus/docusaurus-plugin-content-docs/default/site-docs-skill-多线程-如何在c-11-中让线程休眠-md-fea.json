@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/多线程/如何在C++11中让线程休眠",
+  "id": "skill/多线程/如何在C++11中让线程休眠",
+  "title": "如何在C++11中让线程休眠",
+  "description": "休眠函数",
+  "source": "@site/docs/skill/多线程/如何在C++11中让线程休眠.md",
+  "sourceDirName": "skill/多线程",
+  "slug": "/skill/多线程/如何在C++11中让线程休眠",
+  "permalink": "/docs/skill/多线程/如何在C++11中让线程休眠",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "处理日期和时间的 chrono 库",
+    "permalink": "/docs/skill/多线程/处理日期和时间的 chrono 库"
+  },
+  "next": {
+    "title": "线程同步",
+    "permalink": "/docs/skill/多线程/线程同步"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "IMU",
+  "slug": "/category/imu",
+  "permalink": "/docs/category/imu",
+  "navigation": {
+    "previous": {
+      "title": "迈德威视MV-SUA133GC-T工业相机驱安装",
+      "permalink": "/docs/skill/Sensor/Camera/迈德威视MV-SUA133GC-T工业相机驱安装"
+    },
+    "next": {
+      "title": "IMU工作原理",
+      "permalink": "/docs/skill/Sensor/IMU/IMU工作原理"
+    }
+  }
+}

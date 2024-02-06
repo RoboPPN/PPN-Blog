@@ -1,0 +1,17 @@
+[
+  {
+    "label": "blog",
+    "permalink": "/blog/tags/blog",
+    "count": 1
+  },
+  {
+    "label": "随笔",
+    "permalink": "/blog/tags/随笔",
+    "count": 1
+  },
+  {
+    "label": "docusaurus",
+    "permalink": "/blog/tags/docusaurus",
+    "count": 1
+  }
+]

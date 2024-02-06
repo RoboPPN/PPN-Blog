@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/Math/最小二乘法",
+  "id": "skill/Math/最小二乘法",
+  "title": "最小二乘法",
+  "description": "简单线性回归",
+  "source": "@site/docs/skill/Math/最小二乘法.md",
+  "sourceDirName": "skill/Math",
+  "slug": "/skill/Math/最小二乘法",
+  "permalink": "/docs/skill/Math/最小二乘法",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "Math",
+    "permalink": "/docs/category/math"
+  },
+  "next": {
+    "title": "git",
+    "permalink": "/docs/category/git"
+  }
+}

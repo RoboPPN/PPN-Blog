@@ -1,0 +1,23 @@
+{
+  "title": "传感器模块",
+  "description": "传感器学习使用笔记",
+  "keywords": [
+    "sensor",
+    "LIDAR",
+    "cameraid",
+    "IMU",
+    "GPS"
+  ],
+  "slug": "/category/传感器",
+  "permalink": "/docs/category/传感器",
+  "navigation": {
+    "previous": {
+      "title": "遇到非ASCII字符问题",
+      "permalink": "/docs/skill/Python/遇到非ASCII字符问题"
+    },
+    "next": {
+      "title": "激光雷达",
+      "permalink": "/docs/category/激光雷达"
+    }
+  }
+}

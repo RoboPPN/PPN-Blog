@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/地图/navigation切换地图的两种方法",
+  "id": "skill/地图/navigation切换地图的两种方法",
+  "title": "navigation切换地图的两种方法",
+  "description": "在使用ros navigation导航框架时，如何通过代码切换地图？",
+  "source": "@site/docs/skill/地图/navigation切换地图的两种方法.md",
+  "sourceDirName": "skill/地图",
+  "slug": "/skill/地图/navigation切换地图的两种方法",
+  "permalink": "/docs/skill/地图/navigation切换地图的两种方法",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "costmap",
+    "permalink": "/docs/skill/地图/costmap"
+  },
+  "next": {
+    "title": "定位导航",
+    "permalink": "/docs/category/定位导航"
+  }
+}

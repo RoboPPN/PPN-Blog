@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/Sensor/Camera/迈德威视MV-SUA133GC-T工业相机驱安装",
+  "id": "skill/Sensor/Camera/迈德威视MV-SUA133GC-T工业相机驱安装",
+  "title": "迈德威视MV-SUA133GC-T工业相机驱安装",
+  "description": "1.首先要下载一个驱动文件:",
+  "source": "@site/docs/skill/Sensor/Camera/迈德威视MV-SUA133GC-T工业相机驱安装.md",
+  "sourceDirName": "skill/Sensor/Camera",
+  "slug": "/skill/Sensor/Camera/迈德威视MV-SUA133GC-T工业相机驱安装",
+  "permalink": "/docs/skill/Sensor/Camera/迈德威视MV-SUA133GC-T工业相机驱安装",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "使用ROS对相机进行内参标定",
+    "permalink": "/docs/skill/Sensor/Camera/使用ROS对相机进行内参标定"
+  },
+  "next": {
+    "title": "IMU",
+    "permalink": "/docs/category/imu"
+  }
+}

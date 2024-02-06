@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/Ubuntu/常用shell脚本指令",
+  "id": "skill/Ubuntu/常用shell脚本指令",
+  "title": "常用shell脚本指令",
+  "description": "1. shebang（脚本头）： 在脚本文件的第一行，指定解释器。对于Bash脚本，通常是#!/bin/bash。",
+  "source": "@site/docs/skill/Ubuntu/常用shell脚本指令.md",
+  "sourceDirName": "skill/Ubuntu",
+  "slug": "/skill/Ubuntu/常用shell脚本指令",
+  "permalink": "/docs/skill/Ubuntu/常用shell脚本指令",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "一些Ubuntu上好用的工具",
+    "permalink": "/docs/skill/Ubuntu/一些Ubuntu上好用的工具"
+  },
+  "next": {
+    "title": "ROS",
+    "permalink": "/docs/category/ros"
+  }
+}

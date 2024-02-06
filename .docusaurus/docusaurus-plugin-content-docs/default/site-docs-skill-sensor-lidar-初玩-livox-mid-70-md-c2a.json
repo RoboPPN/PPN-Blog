@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/Sensor/Lidar/初玩Livox Mid-70",
+  "id": "skill/Sensor/Lidar/初玩Livox Mid-70",
+  "title": "初玩Livox Mid-70",
+  "description": "Livox的一些概述",
+  "source": "@site/docs/skill/Sensor/Lidar/初玩Livox Mid-70.md",
+  "sourceDirName": "skill/Sensor/Lidar",
+  "slug": "/skill/Sensor/Lidar/初玩Livox Mid-70",
+  "permalink": "/docs/skill/Sensor/Lidar/初玩Livox Mid-70",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "两种激光雷达数据赋值方法",
+    "permalink": "/docs/skill/Sensor/Lidar/两种激光雷达数据赋值方法"
+  },
+  "next": {
+    "title": "单线激光雷达特征提取实验",
+    "permalink": "/docs/skill/Sensor/Lidar/单线激光雷达特征提取实验"
+  }
+}

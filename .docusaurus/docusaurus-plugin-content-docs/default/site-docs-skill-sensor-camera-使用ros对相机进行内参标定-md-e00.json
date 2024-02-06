@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/Sensor/Camera/使用ROS对相机进行内参标定",
+  "id": "skill/Sensor/Camera/使用ROS对相机进行内参标定",
+  "title": "使用ROS对相机进行内参标定",
+  "description": "摄像头为什么要进行内参标定？",
+  "source": "@site/docs/skill/Sensor/Camera/使用ROS对相机进行内参标定.md",
+  "sourceDirName": "skill/Sensor/Camera",
+  "slug": "/skill/Sensor/Camera/使用ROS对相机进行内参标定",
+  "permalink": "/docs/skill/Sensor/Camera/使用ROS对相机进行内参标定",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "RealSense相机",
+    "permalink": "/docs/skill/Sensor/Camera/RealSense相机"
+  },
+  "next": {
+    "title": "迈德威视MV-SUA133GC-T工业相机驱安装",
+    "permalink": "/docs/skill/Sensor/Camera/迈德威视MV-SUA133GC-T工业相机驱安装"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/ROS/ROS入门之launch",
+  "id": "skill/ROS/ROS入门之launch",
+  "title": "ROS入门之launch",
+  "description": "这篇文章总结的挺好，在此贴出链接",
+  "source": "@site/docs/skill/ROS/ROS入门之launch.md",
+  "sourceDirName": "skill/ROS",
+  "slug": "/skill/ROS/ROS入门之launch",
+  "permalink": "/docs/skill/ROS/ROS入门之launch",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "ROS-melodic的安装与卸载",
+    "permalink": "/docs/skill/ROS/ROS-melodic的安装与卸载"
+  },
+  "next": {
+    "title": "ROS分布式通讯",
+    "permalink": "/docs/skill/ROS/ROS分布式通讯"
+  }
+}

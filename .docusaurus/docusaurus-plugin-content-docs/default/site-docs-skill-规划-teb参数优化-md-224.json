@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/规划/Teb参数优化",
+  "id": "skill/规划/Teb参数优化",
+  "title": "Teb参数优化",
+  "description": "代价地图问题：",
+  "source": "@site/docs/skill/规划/Teb参数优化.md",
+  "sourceDirName": "skill/规划",
+  "slug": "/skill/规划/Teb参数优化",
+  "permalink": "/docs/skill/规划/Teb参数优化",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "TEB",
+    "permalink": "/docs/skill/规划/TEB"
+  },
+  "next": {
+    "title": "Teb算法",
+    "permalink": "/docs/skill/规划/Teb算法"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/C++/在指定路径下自动创建文件夹",
+  "id": "skill/C++/在指定路径下自动创建文件夹",
+  "title": "在指定路径下自动创建文件夹",
+  "description": "如何使用C++在给定路径下创建一个名为xxxxxxxxx的文件夹",
+  "source": "@site/docs/skill/C++/在指定路径下自动创建文件夹.md",
+  "sourceDirName": "skill/C++",
+  "slug": "/skill/C++/在指定路径下自动创建文件夹",
+  "permalink": "/docs/skill/C++/在指定路径下自动创建文件夹",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "反斜杠符",
+    "permalink": "/docs/skill/C++/反斜杠符"
+  },
+  "next": {
+    "title": "多态&虚函数",
+    "permalink": "/docs/skill/C++/多态&虚函数"
+  }
+}

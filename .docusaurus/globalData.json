@@ -1,0 +1,992 @@
+{
+  "docusaurus-plugin-google-gtag": {
+    "default": {
+      "trackingID": [
+        "G-S4SD5NXWXF"
+      ],
+      "anonymizeIP": true,
+      "id": "default"
+    }
+  },
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "skill/introduction",
+          "docs": [
+            {
+              "id": "skill/地图/建立静态地图",
+              "path": "/docs/skill/地图/建立静态地图",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/地图/costmap",
+              "path": "/docs/skill/地图/costmap",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/地图/navigation切换地图的两种方法",
+              "path": "/docs/skill/地图/navigation切换地图的两种方法",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/定位导航/导航模块介绍",
+              "path": "/docs/skill/定位导航/导航模块介绍",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/定位导航/定位简介",
+              "path": "/docs/skill/定位导航/定位简介",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/定位导航/基于反光板的全局定位",
+              "path": "/docs/skill/定位导航/基于反光板的全局定位",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/定位导航/自适应蒙特卡罗定位",
+              "path": "/docs/skill/定位导航/自适应蒙特卡罗定位",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/定位导航/自主式移动机器人改进方案",
+              "path": "/docs/skill/定位导航/自主式移动机器人改进方案",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/定位导航/cartographer学习",
+              "path": "/docs/skill/定位导航/cartographer学习",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/多线程/处理日期和时间的 chrono 库",
+              "path": "/docs/skill/多线程/处理日期和时间的 chrono 库",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/多线程/命名空间this_thread",
+              "path": "/docs/skill/多线程/命名空间this_thread",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/多线程/如何在C++11中让线程休眠",
+              "path": "/docs/skill/多线程/如何在C++11中让线程休眠",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/多线程/线程同步",
+              "path": "/docs/skill/多线程/线程同步",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/多线程/C++11使用条件变量进行线程间的事件处理",
+              "path": "/docs/skill/多线程/C++11使用条件变量进行线程间的事件处理",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/多线程/C++11线程类",
+              "path": "/docs/skill/多线程/C++11线程类",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/规划/各大全局路径规划算法简介",
+              "path": "/docs/skill/规划/各大全局路径规划算法简介",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/规划/局部路径规划",
+              "path": "/docs/skill/规划/局部路径规划",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/规划/路径规划简介",
+              "path": "/docs/skill/规划/路径规划简介",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/规划/A*算法",
+              "path": "/docs/skill/规划/A*算法",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/规划/Dijkstra",
+              "path": "/docs/skill/规划/Dijkstra",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/规划/DWA",
+              "path": "/docs/skill/规划/DWA",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/规划/move_base笔记",
+              "path": "/docs/skill/规划/move_base笔记",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/规划/TEB",
+              "path": "/docs/skill/规划/TEB",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/规划/Teb参数优化",
+              "path": "/docs/skill/规划/Teb参数优化",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/规划/Teb算法",
+              "path": "/docs/skill/规划/Teb算法",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/机器学习/机器学习概述",
+              "path": "/docs/skill/机器学习/机器学习概述",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/软件安装&环境配置/编译安装robot_pose_ekf功能包",
+              "path": "/docs/skill/软件安装&环境配置/编译安装robot_pose_ekf功能包",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/软件安装&环境配置/妙算MANIFOLD 2-G系统还原、使用教程",
+              "path": "/docs/skill/软件安装&环境配置/妙算MANIFOLD 2-G系统还原、使用教程",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/软件安装&环境配置/在vscode上搭建ROS环境",
+              "path": "/docs/skill/软件安装&环境配置/在vscode上搭建ROS环境",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/软件安装&环境配置/nodejs16以上版本安装以及yarn、npm的安装",
+              "path": "/docs/skill/软件安装&环境配置/nodejs16以上版本安装以及yarn、npm的安装",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/软件安装&环境配置/RoboWare的安装",
+              "path": "/docs/skill/软件安装&环境配置/RoboWare的安装",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/软件安装&环境配置/Ubuntu配置opencv4",
+              "path": "/docs/skill/软件安装&环境配置/Ubuntu配置opencv4",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/有用的小知识/多传感器信息融合理论",
+              "path": "/docs/skill/有用的小知识/多传感器信息融合理论",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/有用的小知识/搜索小技巧",
+              "path": "/docs/skill/有用的小知识/搜索小技巧",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/有用的小知识/NTFS-FAT32-exFAT文件系统",
+              "path": "/docs/skill/有用的小知识/NTFS-FAT32-exFAT文件系统",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/有用的小知识/proto文件",
+              "path": "/docs/skill/有用的小知识/proto文件",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/autoware/Autoware学习笔记-1-Autoware介绍及安装",
+              "path": "/docs/skill/autoware/Autoware学习笔记-1-Autoware介绍及安装",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/autoware/ndt_matching",
+              "path": "/docs/skill/autoware/ndt_matching",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/抽象类接口",
+              "path": "/docs/skill/C++/抽象类接口",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/错误流与日志流",
+              "path": "/docs/skill/C++/错误流与日志流",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/当回调函数写在类中，如何写subscribe的回调函数",
+              "path": "/docs/skill/C++/当回调函数写在类中，如何写subscribe的回调函数",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/多态&虚函数",
+              "path": "/docs/skill/C++/多态&虚函数",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/反斜杠符",
+              "path": "/docs/skill/C++/反斜杠符",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/宏定义",
+              "path": "/docs/skill/C++/宏定义",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/继承",
+              "path": "/docs/skill/C++/继承",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/科学计数法",
+              "path": "/docs/skill/C++/科学计数法",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/内联函数",
+              "path": "/docs/skill/C++/内联函数",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/判断表达式的使用",
+              "path": "/docs/skill/C++/判断表达式的使用",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/使用new在堆创建对象",
+              "path": "/docs/skill/C++/使用new在堆创建对象",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/数据抽象数据封装",
+              "path": "/docs/skill/C++/数据抽象数据封装",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/头文件定义的通用模板",
+              "path": "/docs/skill/C++/头文件定义的通用模板",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/友元函数",
+              "path": "/docs/skill/C++/友元函数",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/在指定路径下自动创建文件夹",
+              "path": "/docs/skill/C++/在指定路径下自动创建文件夹",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/指向类、结构体的指针",
+              "path": "/docs/skill/C++/指向类、结构体的指针",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/重载函数",
+              "path": "/docs/skill/C++/重载函数",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/auto关键字",
+              "path": "/docs/skill/C++/auto关键字",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/C++ 测试程序运行时间",
+              "path": "/docs/skill/C++/C++ 测试程序运行时间",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/C++11 move()函数",
+              "path": "/docs/skill/C++/C++11 move()函数",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/C++可变参数模板",
+              "path": "/docs/skill/C++/C++可变参数模板",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/C++使用ifdef控制部分代码开或关",
+              "path": "/docs/skill/C++/C++使用ifdef控制部分代码开或关",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/C++智能指针",
+              "path": "/docs/skill/C++/C++智能指针",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/CMake学习笔记",
+              "path": "/docs/skill/C++/CMake学习笔记",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/const与define",
+              "path": "/docs/skill/C++/const与define",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/gcc编译器和g++编译器有何区别",
+              "path": "/docs/skill/C++/gcc编译器和g++编译器有何区别",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/Google代码风格C++篇",
+              "path": "/docs/skill/C++/Google代码风格C++篇",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/map",
+              "path": "/docs/skill/C++/map",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/std::bind函数",
+              "path": "/docs/skill/C++/std::bind函数",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/std::ofstream  与 std::fstream",
+              "path": "/docs/skill/C++/std::ofstream  与 std::fstream",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/C++/vector",
+              "path": "/docs/skill/C++/vector",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/ChatGPT/ChatGPT注册账号教程",
+              "path": "/docs/skill/ChatGPT/ChatGPT注册账号教程",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/docusaurus/docusaurus-comment",
+              "path": "/docs/docusaurus-comment",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/docusaurus/docusaurus-component",
+              "path": "/docs/docusaurus-component",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/docusaurus/docusaurus-config",
+              "path": "/docs/docusaurus-config",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/docusaurus/docusaurus-deploy",
+              "path": "/docs/docusaurus-deploy",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/docusaurus/docusaurus-guides",
+              "path": "/docs/docusaurus-guides",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/docusaurus/docusaurus-plugin",
+              "path": "/docs/docusaurus-plugin",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/docusaurus/docusaurus-search",
+              "path": "/docs/docusaurus-search",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/docusaurus/docusaurus-style",
+              "path": "/docs/docusaurus-style",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/git/超时-无法读取远程仓库",
+              "path": "/docs/skill/git/超时-无法读取远程仓库",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/git/git分支管理",
+              "path": "/docs/skill/git/git分支管理",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/git/git教程",
+              "path": "/docs/skill/git/git教程",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/HTML&CSS/CSS盒子模型",
+              "path": "/docs/skill/HTML&CSS/CSS盒子模型"
+            },
+            {
+              "id": "skill/HTML&CSS/CSS学习笔记",
+              "path": "/docs/skill/HTML&CSS/CSS学习笔记"
+            },
+            {
+              "id": "skill/HTML&CSS/HTML常用元素",
+              "path": "/docs/skill/HTML&CSS/HTML常用元素"
+            },
+            {
+              "id": "skill/HTML&CSS/HTML学习笔记",
+              "path": "/docs/skill/HTML&CSS/HTML学习笔记"
+            },
+            {
+              "id": "skill/introduction",
+              "path": "/docs/note-introduction",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Math/最小二乘法",
+              "path": "/docs/skill/Math/最小二乘法",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/MoveIt机械臂/MoveIt入门学习笔记",
+              "path": "/docs/skill/MoveIt机械臂/MoveIt入门学习笔记",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/MySQL/mysql-note",
+              "path": "/docs/skill/database/mysql",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/MySQL/mysql踩坑记",
+              "path": "/docs/skill/MySQL/mysql踩坑记",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/MySQL/MySQL操作指令",
+              "path": "/docs/skill/MySQL/MySQL操作指令",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/MySQL/mysql数据库迁移",
+              "path": "/docs/skill/MySQL/mysql数据库迁移",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/MySQL/mysql与influxDB的区别",
+              "path": "/docs/skill/MySQL/mysql与influxDB的区别",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/MySQL/SQL笔记",
+              "path": "/docs/skill/MySQL/SQL笔记",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/MySQL/Ubuntu20.04安装MySQL和MySQL-workbench并连接云端数据库",
+              "path": "/docs/skill/MySQL/Ubuntu20.04安装MySQL和MySQL-workbench并连接云端数据库",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/MySQL/workbench学习笔记",
+              "path": "/docs/skill/MySQL/workbench学习笔记",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/OpenCV/OpenCV检测并解析二维码",
+              "path": "/docs/skill/OpenCV/OpenCV检测并解析二维码",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Python/互斥锁",
+              "path": "/docs/skill/Python/互斥锁",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Python/如何安装turtle库",
+              "path": "/docs/skill/Python/如何安装turtle库",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Python/如何在ubuntu上运行python文件",
+              "path": "/docs/skill/Python/如何在ubuntu上运行python文件",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Python/数据类型检测",
+              "path": "/docs/skill/Python/数据类型检测",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Python/遇到非ASCII字符问题",
+              "path": "/docs/skill/Python/遇到非ASCII字符问题",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Python/async关键字",
+              "path": "/docs/skill/Python/async关键字",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Python/python对json&yaml的操作",
+              "path": "/docs/skill/Python/python对json&yaml的操作",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Python/python简介",
+              "path": "/docs/skill/Python/python简介",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/ROS/如何在ros-noetic下打开realsense D435相机",
+              "path": "/docs/skill/ROS/如何在ros-noetic下打开realsense D435相机",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/ROS/使用脚本一键安装ROS",
+              "path": "/docs/skill/ROS/使用脚本一键安装ROS",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/ROS/使用ros::package::getPath()获取功能包的全局路径",
+              "path": "/docs/skill/ROS/使用ros::package::getPath()获取功能包的全局路径",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/ROS/四元数",
+              "path": "/docs/skill/ROS/四元数",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/ROS/添加自定义消息类型，如何修改CMakeLists.txt的内容",
+              "path": "/docs/skill/ROS/添加自定义消息类型，如何修改CMakeLists.txt的内容",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/ROS/专治ROS各种疑难杂症",
+              "path": "/docs/skill/ROS/专治ROS各种疑难杂症",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/ROS/ROS-2浅述",
+              "path": "/docs/skill/ROS/ROS-2浅述",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/ROS/ros-learning-tf",
+              "path": "/docs/ros-learning-tf",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/ROS/ROS-melodic的安装与卸载",
+              "path": "/docs/skill/ROS/ROS-melodic的安装与卸载",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/ROS/ROS常用工具",
+              "path": "/docs/skill/ROS/ROS常用工具",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/ROS/ROS常用指令",
+              "path": "/docs/skill/ROS/ROS常用指令",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/ROS/ROS分布式通讯",
+              "path": "/docs/skill/ROS/ROS分布式通讯",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/ROS/ROS入门之launch",
+              "path": "/docs/skill/ROS/ROS入门之launch",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/ROS/spin()与spinOnce()的区别",
+              "path": "/docs/skill/ROS/spin()与spinOnce()的区别",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/ROS/TF",
+              "path": "/docs/skill/ROS/TF",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Sensor/Camera/迈德威视MV-SUA133GC-T工业相机驱安装",
+              "path": "/docs/skill/Sensor/Camera/迈德威视MV-SUA133GC-T工业相机驱安装",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Sensor/Camera/使用ROS对相机进行内参标定",
+              "path": "/docs/skill/Sensor/Camera/使用ROS对相机进行内参标定",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Sensor/Camera/Azure Kinect DK 深度相机工作原理",
+              "path": "/docs/skill/Sensor/Camera/Azure Kinect DK 深度相机工作原理",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Sensor/Camera/RealSense相机",
+              "path": "/docs/skill/Sensor/Camera/RealSense相机",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Sensor/GPS/GPS工作原理",
+              "path": "/docs/skill/Sensor/GPS/GPS工作原理",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Sensor/IMU/IMU工作原理",
+              "path": "/docs/skill/Sensor/IMU/IMU工作原理",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Sensor/Lidar/初玩Livox Mid-70",
+              "path": "/docs/skill/Sensor/Lidar/初玩Livox Mid-70",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Sensor/Lidar/单线激光雷达特征提取实验",
+              "path": "/docs/skill/Sensor/Lidar/单线激光雷达特征提取实验",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Sensor/Lidar/激光雷达滤波器",
+              "path": "/docs/skill/Sensor/Lidar/激光雷达滤波器",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Sensor/Lidar/激光雷达特征提取与拟合路径",
+              "path": "/docs/skill/Sensor/Lidar/激光雷达特征提取与拟合路径",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Sensor/Lidar/两种激光雷达数据赋值方法",
+              "path": "/docs/skill/Sensor/Lidar/两种激光雷达数据赋值方法",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Sensor/Lidar/深度相机做伪2D激光雷达",
+              "path": "/docs/skill/Sensor/Lidar/深度相机做伪2D激光雷达",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Sensor/Lidar/双2d激光雷达数据拼接",
+              "path": "/docs/skill/Sensor/Lidar/双2d激光雷达数据拼接",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Ubuntu/常用shell脚本指令",
+              "path": "/docs/skill/Ubuntu/常用shell脚本指令",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Ubuntu/外设端口映射配置",
+              "path": "/docs/skill/Ubuntu/外设端口映射配置",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Ubuntu/一些Ubuntu上好用的工具",
+              "path": "/docs/skill/Ubuntu/一些Ubuntu上好用的工具",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Ubuntu/专治Ubuntu各种疑难杂症",
+              "path": "/docs/skill/Ubuntu/专治Ubuntu各种疑难杂症",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Ubuntu/ubuntu常用指令合集",
+              "path": "/docs/skill/Ubuntu/ubuntu常用指令合集",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Ubuntu/Ubuntu自启动程序",
+              "path": "/docs/skill/Ubuntu/Ubuntu自启动程序",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/Ubuntu/vim用法",
+              "path": "/docs/skill/Ubuntu/vim用法",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/VSCode/ssh远程连接服务器无法跳转函数定义问题",
+              "path": "/docs/skill/VSCode/ssh远程连接服务器无法跳转函数定义问题",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/VSCode/vscode-path-include",
+              "path": "/docs/vscode-path-include",
+              "sidebar": "skill"
+            },
+            {
+              "id": "skill/VSCode/vscode-wrong-define",
+              "path": "/docs/vscode-wrong-define",
+              "sidebar": "skill"
+            },
+            {
+              "id": "/category/vscode问题合集",
+              "path": "/docs/category/vscode问题合集",
+              "sidebar": "skill"
+            },
+            {
+              "id": "/category/mysql",
+              "path": "/docs/category/mysql",
+              "sidebar": "skill"
+            },
+            {
+              "id": "/category/moveit机械臂",
+              "path": "/docs/category/moveit机械臂",
+              "sidebar": "skill"
+            },
+            {
+              "id": "/category/ubuntu",
+              "path": "/docs/category/ubuntu",
+              "sidebar": "skill"
+            },
+            {
+              "id": "/category/ros",
+              "path": "/docs/category/ros",
+              "sidebar": "skill"
+            },
+            {
+              "id": "/category/opencv",
+              "path": "/docs/category/opencv",
+              "sidebar": "skill"
+            },
+            {
+              "id": "/category/math",
+              "path": "/docs/category/math",
+              "sidebar": "skill"
+            },
+            {
+              "id": "/category/git",
+              "path": "/docs/category/git",
+              "sidebar": "skill"
+            },
+            {
+              "id": "/category/chatgpt",
+              "path": "/docs/category/chatgpt",
+              "sidebar": "skill"
+            },
+            {
+              "id": "/category/autoware",
+              "path": "/docs/category/autoware",
+              "sidebar": "skill"
+            },
+            {
+              "id": "/category/有用的小知识",
+              "path": "/docs/category/有用的小知识",
+              "sidebar": "skill"
+            },
+            {
+              "id": "/category/机器学习",
+              "path": "/docs/category/机器学习",
+              "sidebar": "skill"
+            },
+            {
+              "id": "/category/软件安装环境配置",
+              "path": "/docs/category/软件安装环境配置",
+              "sidebar": "skill"
+            },
+            {
+              "id": "/category/规划",
+              "path": "/docs/category/规划",
+              "sidebar": "skill"
+            },
+            {
+              "id": "/category/地图",
+              "path": "/docs/category/地图",
+              "sidebar": "skill"
+            },
+            {
+              "id": "/category/定位导航",
+              "path": "/docs/category/定位导航",
+              "sidebar": "skill"
+            },
+            {
+              "id": "/category/多线程",
+              "path": "/docs/category/多线程",
+              "sidebar": "skill"
+            },
+            {
+              "id": "/category/c",
+              "path": "/docs/category/c",
+              "sidebar": "skill"
+            },
+            {
+              "id": "/category/python",
+              "path": "/docs/category/python",
+              "sidebar": "skill"
+            },
+            {
+              "id": "/category/传感器",
+              "path": "/docs/category/传感器",
+              "sidebar": "skill"
+            },
+            {
+              "id": "/category/激光雷达",
+              "path": "/docs/category/激光雷达",
+              "sidebar": "skill"
+            },
+            {
+              "id": "/category/imu",
+              "path": "/docs/category/imu",
+              "sidebar": "skill"
+            },
+            {
+              "id": "/category/gps",
+              "path": "/docs/category/gps",
+              "sidebar": "skill"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "skill": {
+              "link": {
+                "path": "/docs/note-introduction",
+                "label": "skill/introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogs": [
+        {
+          "id": "/blog_write",
+          "metadata": {
+            "permalink": "/blog/blog_write",
+            "editUrl": "https://github.com/disnox/blog/edit/main/blog/project/1. 我为什么要写博客.md",
+            "source": "@site/blog/project/1. 我为什么要写博客.md",
+            "title": "我为什么要写博客",
+            "description": "写博客",
+            "date": "2022-10-25T00:00:00.000Z",
+            "formattedDate": "2022年10月25日",
+            "tags": [
+              {
+                "label": "blog",
+                "permalink": "/blog/tags/blog"
+              },
+              {
+                "label": "随笔",
+                "permalink": "/blog/tags/随笔"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 3.4966666666666666,
+            "hasTruncateMarker": true,
+            "authors": [],
+            "frontMatter": {
+              "slug": "/blog_write",
+              "title": "我为什么要写博客",
+              "date": "2022-10-25T00:00:00.000Z",
+              "tags": [
+                "blog",
+                "随笔",
+                "docusaurus"
+              ],
+              "keywords": [
+                "blog",
+                "随笔",
+                "docusaurus"
+              ],
+              "description": "写博客",
+              "image": "/img/my_blog.png",
+              "sticky": 4
+            },
+            "unlisted": false
+          },
+          "content": "我为什么要写博客？\n\n写博客的初衷是什么？\n\n写博客能给我带来什么？\n\n<!-- truncate -->\n\n## 前言\n\n第一次接触写博客的时候在去年9月份的时候，当时自己也在CSDN上写了几篇文章，第一次接触到**Markdown**语法，但是后面就因为各种各样的情况导致没有坚持下来，但当时学习的**Markdown**语法至今我还在使用。然后第一次接触自己搭建网页去写博客是今年5月份的时候，我的一个保研的师兄教我用  [**Docusaurus**](https://www.docusaurus.cn/docs/installation) 加 **Vercel** 部署去搭建属于自己的一个网站，风格主题都可以自己去自由的搭配，这点我是特别喜欢的，但当时一直忙着比赛，被压榨的实习工作导致自己没有去好好维护。当我决定好好沉淀一下自己，把自己所学、所看、所经历记录下来，已经快今年10月底了，还好还不晚。\n\n## 为什么写博客\n\n其实这些原因很简单。\n\n### 巩固学习、记录笔记\n\n走技术开发这条路，要学习的东西真的很多很多，然而人的记忆有限的，如果不按时的进行总结、记录，回过头再看其实跟重新学习没什么两样。这些我深有感触，我几个月不去观看维护的代码，做过的项目，我再去翻看的时候，有时候真的不亚于是在旁观一个别人做的项目，我有时候真的会要去重新理解。我觉得这样其实是一个很浪费时间的事情。我需要将这些项目的代码框图、设计思路给记录下来，以便下次查看。\n\n而且学习对我来说应该是一个搬运的过程，别人的笔记，别人的心得终究是别人的，只有我自己去记录去总结，有自己的框架，自己的思路那才是我的。而且不是所有的知识点都能记在脑子里面的，整理成册也是方便自己查找。而且写笔记也是对自己学习的一个梳理过程，提升自己的思维能力。\n\n### 学习交流，知识分享\n\n帮助他人，其实也是帮助自己，分享自己的笔记，记录自己的踩坑就是希望同样踩到这个坑的人可以看到。而且一个人的能力是有限的，我自己写出来的博客笔记也不可能十全十美，也许我自己检查个几遍都发现不了错误，而给别人看可能一下子就发现了，我希望通过这个博客去跟其他人进行一个交流，更加的去完善自己。\n\n## 为什么要搭建自己的小站呢？\n\n其实网上写博客的地方很多，像**CSDN**、**知乎**、**博客园**、**微博**等等，用来记录自己的学习生活、笔记也是完全够用的，但这些地方的文章、模板主题不全都是我喜欢的风格，但一些前端大佬（峰华、尚宇）他们做的网页博客真的是惊艳到我了，也是基于**Docusaurus**去搭建的。所以便拿来copy更改了一份自己的网页，当然我也很注重开源精神，已经征得原作者许可啦。当然我也不是学前端的，而是走的嵌入式开发，所以很多地方也只是照着模板修修改改，但 **CV** 这一方面我一直是在行的，而且效果真的挺好的，美观程度真的很影响学习状态，一个漂亮的网站让我写笔记都添加了不少动力，而且分栏分类都很不错。\n\n## 总结\n\n我在我的小站里面放了博客、技术笔记、工具推荐、还有网址导航，方便自己随时查阅、随时跳转。好看的小站固然重要，但最重要的还是技术的分享，最后，希望我分享的技术笔记，个人经历能对你有所启发。"
+        }
+      ],
+      "tags": {
+        "/blog/tags/blog": {
+          "label": "blog",
+          "items": [
+            "/blog_write"
+          ],
+          "permalink": "/blog/tags/blog",
+          "pages": [
+            {
+              "items": [
+                "/blog_write"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/blog",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "帕帕尼的个人博客",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/blog/tags/随笔": {
+          "label": "随笔",
+          "items": [
+            "/blog_write"
+          ],
+          "permalink": "/blog/tags/随笔",
+          "pages": [
+            {
+              "items": [
+                "/blog_write"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/随笔",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "帕帕尼的个人博客",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/blog/tags/docusaurus": {
+          "label": "docusaurus",
+          "items": [
+            "/blog_write"
+          ],
+          "permalink": "/blog/tags/docusaurus",
+          "pages": [
+            {
+              "items": [
+                "/blog_write"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/docusaurus",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "帕帕尼的个人博客",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        }
+      }
+    }
+  }
+}

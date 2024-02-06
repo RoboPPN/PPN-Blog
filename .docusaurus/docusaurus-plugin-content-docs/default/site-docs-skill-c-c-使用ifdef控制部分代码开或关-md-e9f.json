@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/C++/C++使用ifdef控制部分代码开或关",
+  "id": "skill/C++/C++使用ifdef控制部分代码开或关",
+  "title": "C++使用ifdef控制部分代码开或关",
+  "description": "在C++中，#ifdef 和相关的预处理指令可用于条件编译，这允许你根据编译时定义的宏来控制部分代码的打开或关闭。以下是如何使用 #ifdef 来实现条件编译的基本方法：",
+  "source": "@site/docs/skill/C++/C++使用ifdef控制部分代码开或关.md",
+  "sourceDirName": "skill/C++",
+  "slug": "/skill/C++/C++使用ifdef控制部分代码开或关",
+  "permalink": "/docs/skill/C++/C++使用ifdef控制部分代码开或关",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "C++11 move()函数",
+    "permalink": "/docs/skill/C++/C++11 move()函数"
+  },
+  "next": {
+    "title": "C++可变参数模板",
+    "permalink": "/docs/skill/C++/C++可变参数模板"
+  }
+}

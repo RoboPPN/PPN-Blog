@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/MySQL/MySQL操作指令",
+  "id": "skill/MySQL/MySQL操作指令",
+  "title": "MySQL操作指令",
+  "description": "查看名为ppn_data数据库的内存大小",
+  "source": "@site/docs/skill/MySQL/MySQL操作指令.md",
+  "sourceDirName": "skill/MySQL",
+  "slug": "/skill/MySQL/MySQL操作指令",
+  "permalink": "/docs/skill/MySQL/MySQL操作指令",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "MySQL",
+    "permalink": "/docs/category/mysql"
+  },
+  "next": {
+    "title": "SQL笔记",
+    "permalink": "/docs/skill/MySQL/SQL笔记"
+  }
+}

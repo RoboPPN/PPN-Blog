@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/C++/指向类、结构体的指针",
+  "id": "skill/C++/指向类、结构体的指针",
+  "title": "指向类、结构体的指针",
+  "description": "C++ 指向类/结构体的指针",
+  "source": "@site/docs/skill/C++/指向类、结构体的指针.md",
+  "sourceDirName": "skill/C++",
+  "slug": "/skill/C++/指向类、结构体的指针",
+  "permalink": "/docs/skill/C++/指向类、结构体的指针",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "抽象类接口",
+    "permalink": "/docs/skill/C++/抽象类接口"
+  },
+  "next": {
+    "title": "数据抽象数据封装",
+    "permalink": "/docs/skill/C++/数据抽象数据封装"
+  }
+}

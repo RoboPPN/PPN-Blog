@@ -1,0 +1,15 @@
+{
+  "title": "ROS",
+  "slug": "/category/ros",
+  "permalink": "/docs/category/ros",
+  "navigation": {
+    "previous": {
+      "title": "常用shell脚本指令",
+      "permalink": "/docs/skill/Ubuntu/常用shell脚本指令"
+    },
+    "next": {
+      "title": "使用脚本一键安装ROS",
+      "permalink": "/docs/skill/ROS/使用脚本一键安装ROS"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/ChatGPT/ChatGPT注册账号教程",
+  "id": "skill/ChatGPT/ChatGPT注册账号教程",
+  "title": "ChatGPT注册账号教程",
+  "description": "注册ChatGPT账号步骤",
+  "source": "@site/docs/skill/ChatGPT/ChatGPT注册账号教程.md",
+  "sourceDirName": "skill/ChatGPT",
+  "slug": "/skill/ChatGPT/ChatGPT注册账号教程",
+  "permalink": "/docs/skill/ChatGPT/ChatGPT注册账号教程",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "ChatGPT",
+    "permalink": "/docs/category/chatgpt"
+  },
+  "next": {
+    "title": "autoware",
+    "permalink": "/docs/category/autoware"
+  }
+}

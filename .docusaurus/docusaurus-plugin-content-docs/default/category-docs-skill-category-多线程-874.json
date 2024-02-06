@@ -1,0 +1,15 @@
+{
+  "title": "多线程",
+  "slug": "/category/多线程",
+  "permalink": "/docs/category/多线程",
+  "navigation": {
+    "previous": {
+      "title": "自适应蒙特卡罗定位",
+      "permalink": "/docs/skill/定位导航/自适应蒙特卡罗定位"
+    },
+    "next": {
+      "title": "C++11使用条件变量进行线程间的事件处理",
+      "permalink": "/docs/skill/多线程/C++11使用条件变量进行线程间的事件处理"
+    }
+  }
+}

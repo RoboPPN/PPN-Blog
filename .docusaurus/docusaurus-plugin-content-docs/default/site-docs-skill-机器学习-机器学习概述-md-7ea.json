@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/机器学习/机器学习概述",
+  "id": "skill/机器学习/机器学习概述",
+  "title": "什么是机器学习？",
+  "description": "机器学习是人工智能的一个子集，顾名思义，它是机器自身学习的能力，前提是它有一个预先存在的数据集或过去处理过的信息。",
+  "source": "@site/docs/skill/机器学习/机器学习概述.md",
+  "sourceDirName": "skill/机器学习",
+  "slug": "/skill/机器学习/机器学习概述",
+  "permalink": "/docs/skill/机器学习/机器学习概述",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "机器学习",
+    "permalink": "/docs/category/机器学习"
+  },
+  "next": {
+    "title": "软件安装&环境配置",
+    "permalink": "/docs/category/软件安装环境配置"
+  }
+}

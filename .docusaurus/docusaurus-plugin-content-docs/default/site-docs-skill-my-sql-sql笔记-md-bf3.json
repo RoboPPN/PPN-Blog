@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/MySQL/SQL笔记",
+  "id": "skill/MySQL/SQL笔记",
+  "title": "SQL笔记",
+  "description": "MySQL 数据类型",
+  "source": "@site/docs/skill/MySQL/SQL笔记.md",
+  "sourceDirName": "skill/MySQL",
+  "slug": "/skill/MySQL/SQL笔记",
+  "permalink": "/docs/skill/MySQL/SQL笔记",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "MySQL操作指令",
+    "permalink": "/docs/skill/MySQL/MySQL操作指令"
+  },
+  "next": {
+    "title": "Ubuntu20.04安装MySQL和MySQL-workbench并连接云端数据库",
+    "permalink": "/docs/skill/MySQL/Ubuntu20.04安装MySQL和MySQL-workbench并连接云端数据库"
+  }
+}

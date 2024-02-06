@@ -1,0 +1,15 @@
+{
+  "title": "VSCode问题合集",
+  "slug": "/category/vscode问题合集",
+  "permalink": "/docs/category/vscode问题合集",
+  "navigation": {
+    "previous": {
+      "title": "部署",
+      "permalink": "/docs/docusaurus-deploy"
+    },
+    "next": {
+      "title": "ssh远程连接服务器无法跳转函数定义问题",
+      "permalink": "/docs/skill/VSCode/ssh远程连接服务器无法跳转函数定义问题"
+    }
+  }
+}

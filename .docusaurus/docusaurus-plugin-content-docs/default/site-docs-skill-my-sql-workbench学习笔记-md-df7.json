@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/MySQL/workbench学习笔记",
+  "id": "skill/MySQL/workbench学习笔记",
+  "title": "MySQL workbench中PK、NN、UQ、BIN、UN、ZF、AI、G这些选项代表的意思是？",
+  "description": "- PK：primary key (column is part of a pk) 主键，一张表里只能有一个，且设置主键的字段必须同时勾上NN，不然会报错",
+  "source": "@site/docs/skill/MySQL/workbench学习笔记.md",
+  "sourceDirName": "skill/MySQL",
+  "slug": "/skill/MySQL/workbench学习笔记",
+  "permalink": "/docs/skill/MySQL/workbench学习笔记",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "mysql踩坑记",
+    "permalink": "/docs/skill/MySQL/mysql踩坑记"
+  },
+  "next": {
+    "title": "MoveIt机械臂",
+    "permalink": "/docs/category/moveit机械臂"
+  }
+}

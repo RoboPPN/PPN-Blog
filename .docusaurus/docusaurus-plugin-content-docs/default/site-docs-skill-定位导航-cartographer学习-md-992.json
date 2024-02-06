@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/定位导航/cartographer学习",
+  "id": "skill/定位导航/cartographer学习",
+  "title": "cartographer学习",
+  "description": "cartographer的安装与编译",
+  "source": "@site/docs/skill/定位导航/cartographer学习.md",
+  "sourceDirName": "skill/定位导航",
+  "slug": "/skill/定位导航/cartographer学习",
+  "permalink": "/docs/skill/定位导航/cartographer学习",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "定位简介",
+    "permalink": "/docs/skill/定位导航/定位简介"
+  },
+  "next": {
+    "title": "基于反光板的全局定位",
+    "permalink": "/docs/skill/定位导航/基于反光板的全局定位"
+  }
+}

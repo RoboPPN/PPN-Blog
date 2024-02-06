@@ -1,0 +1,29 @@
+{
+  "unversionedId": "skill/docusaurus/docusaurus-component",
+  "id": "skill/docusaurus/docusaurus-component",
+  "title": "自定义组件",
+  "description": "初始化的一个 docusaurus 项目就已经有预留好的的组件，例如博客布局，标签页归档页等等。但是这些组件的样式可能不满你的审美，或者是想增加在这些主题组件中增加点东西。那么就需要用到 Swizzle",
+  "source": "@site/docs/skill/docusaurus/component.md",
+  "sourceDirName": "skill/docusaurus",
+  "slug": "/docusaurus-component",
+  "permalink": "/docs/docusaurus-component",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "docusaurus-component",
+    "slug": "/docusaurus-component",
+    "title": "自定义组件",
+    "authors": "kuizuo"
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "样式与页面",
+    "permalink": "/docs/docusaurus-style"
+  },
+  "next": {
+    "title": "插件",
+    "permalink": "/docs/docusaurus-plugin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "unversionedId": "skill/HTML&CSS/HTML常用元素",
+  "id": "skill/HTML&CSS/HTML常用元素",
+  "title": "HTML常用元素",
+  "description": "``:定义一个段落",
+  "source": "@site/docs/skill/HTML&CSS/HTML常用元素.md",
+  "sourceDirName": "skill/HTML&CSS",
+  "slug": "/skill/HTML&CSS/HTML常用元素",
+  "permalink": "/docs/skill/HTML&CSS/HTML常用元素",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "skill/Python/async关键字",
+  "id": "skill/Python/async关键字",
+  "title": "async关键字",
+  "description": "python函数中async def添加async关键字的作用是？",
+  "source": "@site/docs/skill/Python/async关键字.md",
+  "sourceDirName": "skill/Python",
+  "slug": "/skill/Python/async关键字",
+  "permalink": "/docs/skill/Python/async关键字",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "skill",
+  "previous": {
+    "title": "Python",
+    "permalink": "/docs/category/python"
+  },
+  "next": {
+    "title": "python对json&yaml的操作",
+    "permalink": "/docs/skill/Python/python对json&yaml的操作"
+  }
+}

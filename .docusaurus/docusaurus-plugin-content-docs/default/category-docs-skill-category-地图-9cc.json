@@ -1,0 +1,15 @@
+{
+  "title": "地图",
+  "slug": "/category/地图",
+  "permalink": "/docs/category/地图",
+  "navigation": {
+    "previous": {
+      "title": "路径规划简介",
+      "permalink": "/docs/skill/规划/路径规划简介"
+    },
+    "next": {
+      "title": "建立静态地图",
+      "permalink": "/docs/skill/地图/建立静态地图"
+    }
+  }
+}
