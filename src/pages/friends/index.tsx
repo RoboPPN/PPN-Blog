@@ -12,6 +12,21 @@ const TITLE = '友链'
 const DESCRIPTION = '有很多良友，胜于有很多财富。'
 const ADD_FRIEND_URL = 'https://github.com/disnox/disnox_blog/edit/main/data/friend.ts'
 
+function SiteInfo() {
+  return (
+    <div className={styles.siteInfo}>
+      <CodeBlock language="jsx">
+        {`{
+  // 本站信息
+  title: '尚宇的小站',
+  description: '星海横流，岁月成碑',
+  avatar: 'https://disnox.top/img/logo.png'
+}`}
+      </CodeBlock>
+    </div>
+  )
+}
+
 function FriendHeader() {
   return (
     <section className="margin-top--lg margin-bottom--lg text--center">
@@ -54,6 +69,7 @@ export default function FriendLink(): JSX.Element {
         <FriendHeader />
         <FriendCards />
         <motion.div drag dragConstraints={ref} className={styles.dragBox}>
+          <SiteInfo />
         </motion.div>
       </motion.main>
     </Layout>
