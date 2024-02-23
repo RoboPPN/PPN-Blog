@@ -1,0 +1,42 @@
+{
+  "unversionedId": "skill/C/System/msg",
+  "id": "skill/C/System/msg",
+  "title": "消息队列(MSG)",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/System/6. 消息队列.md",
+  "sourceDirName": "skill/C/System",
+  "slug": "/msg",
+  "permalink": "/docs/msg",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Linux",
+      "permalink": "/docs/tags/linux"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "msg",
+    "slug": "/msg",
+    "title": "消息队列(MSG)",
+    "date": "2022-12-15T00:00:00.000Z",
+    "authors": "disnox",
+    "tags": [
+      "Linux"
+    ],
+    "keywords": [
+      "Linux"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "IPC 简介",
+    "permalink": "/docs/ipc"
+  },
+  "next": {
+    "title": "信号量(SEM)",
+    "permalink": "/docs/sem"
+  }
+}

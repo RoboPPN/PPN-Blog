@@ -1,0 +1,42 @@
+{
+  "unversionedId": "skill/C/System/posix",
+  "id": "skill/C/System/posix",
+  "title": "POSIX信号量",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/System/11. POSIX信号量.md",
+  "sourceDirName": "skill/C/System",
+  "slug": "/posix",
+  "permalink": "/docs/posix",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Linux",
+      "permalink": "/docs/tags/linux"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "id": "posix",
+    "slug": "/posix",
+    "title": "POSIX信号量",
+    "date": "2022-12-10T00:00:00.000Z",
+    "authors": "disnox",
+    "tags": [
+      "Linux"
+    ],
+    "keywords": [
+      "Linux"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Linux 线程调度",
+    "permalink": "/docs/thread_scheduling"
+  },
+  "next": {
+    "title": "互斥锁",
+    "permalink": "/docs/mutex"
+  }
+}

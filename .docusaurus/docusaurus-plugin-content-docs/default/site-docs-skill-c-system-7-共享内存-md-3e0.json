@@ -1,0 +1,42 @@
+{
+  "unversionedId": "skill/C/System/shm",
+  "id": "skill/C/System/shm",
+  "title": "共享内存(SHM)",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/System/7. 共享内存.md",
+  "sourceDirName": "skill/C/System",
+  "slug": "/shm",
+  "permalink": "/docs/shm",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Linux",
+      "permalink": "/docs/tags/linux"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "shm",
+    "slug": "/shm",
+    "title": "共享内存(SHM)",
+    "date": "2022-12-15T00:00:00.000Z",
+    "authors": "disnox",
+    "tags": [
+      "Linux"
+    ],
+    "keywords": [
+      "Linux"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "信号量(SEM)",
+    "permalink": "/docs/sem"
+  },
+  "next": {
+    "title": "Linux 线程入门",
+    "permalink": "/docs/thread"
+  }
+}

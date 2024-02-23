@@ -1,0 +1,42 @@
+{
+  "unversionedId": "skill/C/C_Basic/C_operator",
+  "id": "skill/C/C_Basic/C_operator",
+  "title": "C 运算符",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/C_Basic/8. C 运算符.md",
+  "sourceDirName": "skill/C/C_Basic",
+  "slug": "/C_operator",
+  "permalink": "/docs/C_operator",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "C/C++",
+      "permalink": "/docs/tags/c-c"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "C_operator",
+    "slug": "/C_operator",
+    "title": "C 运算符",
+    "date": "2022-10-30T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "C/C++"
+    ],
+    "keywords": [
+      "C/C++"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "C 变量和常量",
+    "permalink": "/docs/C_variable_constant"
+  },
+  "next": {
+    "title": "C 控制流",
+    "permalink": "/docs/C_control_flow"
+  }
+}

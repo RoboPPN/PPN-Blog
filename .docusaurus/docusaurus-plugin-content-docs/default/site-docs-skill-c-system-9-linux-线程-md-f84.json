@@ -1,0 +1,42 @@
+{
+  "unversionedId": "skill/C/System/thread",
+  "id": "skill/C/System/thread",
+  "title": "Linux 线程入门",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/System/9. Linux_线程.md",
+  "sourceDirName": "skill/C/System",
+  "slug": "/thread",
+  "permalink": "/docs/thread",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Linux",
+      "permalink": "/docs/tags/linux"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "id": "thread",
+    "slug": "/thread",
+    "title": "Linux 线程入门",
+    "date": "2022-12-08T00:00:00.000Z",
+    "authors": "disnox",
+    "tags": [
+      "Linux"
+    ],
+    "keywords": [
+      "Linux"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "共享内存(SHM)",
+    "permalink": "/docs/shm"
+  },
+  "next": {
+    "title": "Linux 线程调度",
+    "permalink": "/docs/thread_scheduling"
+  }
+}

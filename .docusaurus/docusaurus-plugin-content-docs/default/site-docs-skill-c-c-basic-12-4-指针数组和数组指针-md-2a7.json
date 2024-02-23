@@ -1,0 +1,41 @@
+{
+  "unversionedId": "skill/C/C_Basic/C_pointer_array_and_pointer_array",
+  "id": "skill/C/C_Basic/C_pointer_array_and_pointer_array",
+  "title": "C 指针数组和数组指针",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/C_Basic/12.4. 指针数组和数组指针.md",
+  "sourceDirName": "skill/C/C_Basic",
+  "slug": "/C_pointer_array_and_pointer_array",
+  "permalink": "/docs/C_pointer_array_and_pointer_array",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "C/C++",
+      "permalink": "/docs/tags/c-c"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "C_pointer_array_and_pointer_array",
+    "slug": "/C_pointer_array_and_pointer_array",
+    "title": "C 指针数组和数组指针",
+    "date": "2022-11-01T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "C/C++"
+    ],
+    "keywords": [
+      "C/C++"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "C 指针和数组",
+    "permalink": "/docs/C_pointer_and_array"
+  },
+  "next": {
+    "title": "C 字符串",
+    "permalink": "/docs/C_character_string"
+  }
+}

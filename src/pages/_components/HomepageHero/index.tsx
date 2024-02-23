@@ -38,63 +38,55 @@ function Logos() {
     clamp: false,
   })
 
-  // 图标网址：https://icon-sets.iconify.design/
   const logos: IconProps[] = [
-
     {
-      icon: 'logos:google',
-      style: { left: '12%', top: '30%' },
+      icon: 'logos:github',
+      style: { left: '1%', top: '1%' },
     },
     {
-      icon: 'logos:git-icon',
-      style: { left: '19%', top: '30%' },
+      icon: 'logos:c',
+      style: { left: '4%', top: '5%' },
+    },
+
+    {
+      icon: 'logos:clion',
+      style: { right: '2%', top: '11%' },
     },
     {
       icon: 'logos:visual-studio-code',
-      style: { left: '26%', top: '30%' },
-    },
-    {
-      icon: 'logos:markdown',
-      style: { left: '33%', top: '30%' },
-    },
-    {
-      icon: 'logos:docusaurus',
-      style: { left: '40%', top: '30%' },
+      style: { right: '8%', top: '14%' },
     },
 
-
     {
-      icon: 'logos:github',
-      style: { left: '12%', top: '57%' },
-    },
-    {
-      icon: 'devicon:cplusplus',
-      style: { top: '47%', left: '38%' },
-    },
-    {
-      icon: 'devicon:python',
-      style: { top: '47%', left: '43%' },
-    },
-    {
-      icon: 'logos:ros',
-      style: { top: '54%', left: '38%'  },
-    },
-    {
-      icon: 'logos:opencv',
-      style: { top: '54%', left: '43%' },
-    },
-    {
-      icon: 'logos:mysql',
-      style: { top: '61%', left: '38%' },
+      icon: 'logos:linux-tux',
+      style: { top: '5%', left: '52%' },
     },
     {
       icon: 'logos:arm',
-      style: { top: '61%', left: '43%' },
+      style: { top: '9%', left: '58%' },
+    },
+
+    {
+      icon: 'logos:markdown',
+      style: { top: '15%', left: '30%' },
+    },
+    {
+      icon: 'logos:qt',
+      style: { top: '20%', left: '38%' },
     },
 
     {
       icon: 'logos:ubuntu',
-      style: { bottom: '13%', right: '13%' },
+      style: { top: '30%', left: '70%' },
+    },
+
+    {
+      icon: 'logos:google',
+      style: { bottom: '25%', right: '5%' },
+    },
+    {
+      icon: 'logos:docusaurus',
+      style: { bottom: '1%', left: '1%' },
     },
   ]
 
@@ -150,8 +142,18 @@ function Name() {
         e.currentTarget.style.setProperty('--y', `${e.clientY}px`)
       }}
     >
-      <Translate id="homepage.hero.greet">Hello👋! 我是帕帕尼</Translate>
-       {/* <span className={styles.wave}>👋</span> */}
+      <Translate id="homepage.hero.greet">Hello👋! 我是</Translate>
+      <span
+        className={styles.name}
+        onMouseMove={e => {
+          const bounding = e.currentTarget.getBoundingClientRect()
+          e.currentTarget.style.setProperty('--positionX', `${bounding.x}px`)
+          e.currentTarget.style.setProperty('--positionY', `${bounding.y}px`)
+        }}
+      >
+        <Translate id="homepage.hero.name">尚宇</Translate>
+      </span>
+      <span className={styles.wave}>👋</span>
     </motion.div>
   )
 }
@@ -171,8 +173,6 @@ export default function Hero() {
             {`我在这里记录一些知识，以免遗忘，也希望对你有用，请随意浏览～`}
           </Translate>
         </motion.p>
-
-        {/* 社交链接 */}
         <motion.div
           custom={3}
           initial="hidden"
@@ -181,8 +181,7 @@ export default function Hero() {
         >
           <SocialLinks />
         </motion.div>
-        
-        {/* 自我介绍 */}
+
         <motion.div
           className={styles.buttonGroup}
           custom={4}

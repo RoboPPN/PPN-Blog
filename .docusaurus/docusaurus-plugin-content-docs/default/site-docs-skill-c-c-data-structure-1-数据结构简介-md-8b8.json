@@ -1,0 +1,48 @@
+{
+  "unversionedId": "skill/C/C_Data_Structure/data_structure",
+  "id": "skill/C/C_Data_Structure/data_structure",
+  "title": "数据结构简介",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/C_Data_Structure/1. 数据结构简介.md",
+  "sourceDirName": "skill/C/C_Data_Structure",
+  "slug": "/data_structure",
+  "permalink": "/docs/data_structure",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "C/C++",
+      "permalink": "/docs/tags/c-c"
+    },
+    {
+      "label": "数据结构",
+      "permalink": "/docs/tags/数据结构"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "data_structure",
+    "slug": "/data_structure",
+    "title": "数据结构简介",
+    "date": "2022-11-14T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "C/C++",
+      "数据结构"
+    ],
+    "keywords": [
+      "C/C++",
+      "数据结构"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "数据结构",
+    "permalink": "/docs/category/数据结构"
+  },
+  "next": {
+    "title": "线性表",
+    "permalink": "/docs/linear_table"
+  }
+}

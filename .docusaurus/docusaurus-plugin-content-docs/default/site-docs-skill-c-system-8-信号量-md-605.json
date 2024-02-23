@@ -1,0 +1,42 @@
+{
+  "unversionedId": "skill/C/System/sem",
+  "id": "skill/C/System/sem",
+  "title": "信号量(SEM)",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/System/8. 信号量.md",
+  "sourceDirName": "skill/C/System",
+  "slug": "/sem",
+  "permalink": "/docs/sem",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Linux",
+      "permalink": "/docs/tags/linux"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "sem",
+    "slug": "/sem",
+    "title": "信号量(SEM)",
+    "date": "2022-12-15T00:00:00.000Z",
+    "authors": "disnox",
+    "tags": [
+      "Linux"
+    ],
+    "keywords": [
+      "Linux"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "消息队列(MSG)",
+    "permalink": "/docs/msg"
+  },
+  "next": {
+    "title": "共享内存(SHM)",
+    "permalink": "/docs/shm"
+  }
+}

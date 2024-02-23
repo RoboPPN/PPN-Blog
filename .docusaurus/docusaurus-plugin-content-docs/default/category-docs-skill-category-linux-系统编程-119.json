@@ -1,0 +1,15 @@
+{
+  "title": "Linux 系统编程",
+  "slug": "/category/linux-系统编程",
+  "permalink": "/docs/category/linux-系统编程",
+  "navigation": {
+    "previous": {
+      "title": "目录检索",
+      "permalink": "/docs/dir"
+    },
+    "next": {
+      "title": "Linux 进程入门",
+      "permalink": "/docs/process"
+    }
+  }
+}

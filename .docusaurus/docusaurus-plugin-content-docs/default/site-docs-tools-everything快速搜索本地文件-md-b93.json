@@ -1,0 +1,41 @@
+{
+  "unversionedId": "tools/everything-quick-search-local-files",
+  "id": "tools/everything-quick-search-local-files",
+  "title": "Everything快速搜索本地文件",
+  "description": "everything-Everything",
+  "source": "@site/docs/tools/Everything快速搜索本地文件.md",
+  "sourceDirName": "tools",
+  "slug": "/everything-quick-search-local-files",
+  "permalink": "/docs/everything-quick-search-local-files",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "工具",
+      "permalink": "/docs/tags/工具"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "everything-quick-search-local-files",
+    "slug": "/everything-quick-search-local-files",
+    "title": "Everything快速搜索本地文件",
+    "date": "2020-09-08T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "工具"
+    ],
+    "keywords": [
+      "工具"
+    ]
+  },
+  "sidebar": "tools",
+  "previous": {
+    "title": "高效工作指南",
+    "permalink": "/docs/tools"
+  },
+  "next": {
+    "title": "Windows自定义右键菜单",
+    "permalink": "/docs/windows-custom-right-click-menu"
+  }
+}

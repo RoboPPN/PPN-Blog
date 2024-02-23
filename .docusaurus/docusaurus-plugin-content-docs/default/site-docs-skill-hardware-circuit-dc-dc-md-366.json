@@ -1,0 +1,32 @@
+{
+  "unversionedId": "skill/hardware/circuit/dc-dc",
+  "id": "skill/hardware/circuit/dc-dc",
+  "title": "DC-DC电路",
+  "description": "",
+  "source": "@site/docs/skill/hardware/circuit/dc-dc.md",
+  "sourceDirName": "skill/hardware/circuit",
+  "slug": "/dc-dc",
+  "permalink": "/docs/dc-dc",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "硬件",
+      "permalink": "/docs/tags/硬件"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "dc-dc",
+    "slug": "/dc-dc",
+    "title": "DC-DC电路",
+    "date": "2022-10-31T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "硬件"
+    ],
+    "keywords": [
+      "硬件"
+    ]
+  }
+}

@@ -1,27 +1,77 @@
 [
   {
-    "label": "mysql",
-    "permalink": "/docs/tags/mysql",
+    "label": "ST",
+    "permalink": "/docs/tags/st",
+    "count": 3
+  },
+  {
+    "label": "FOC",
+    "permalink": "/docs/tags/foc",
+    "count": 3
+  },
+  {
+    "label": "电机",
+    "permalink": "/docs/tags/电机",
+    "count": 3
+  },
+  {
+    "label": "C/C++",
+    "permalink": "/docs/tags/c-c",
+    "count": 42
+  },
+  {
+    "label": "数据结构",
+    "permalink": "/docs/tags/数据结构",
+    "count": 9
+  },
+  {
+    "label": "Linux",
+    "permalink": "/docs/tags/linux",
+    "count": 25
+  },
+  {
+    "label": "硬件",
+    "permalink": "/docs/tags/硬件",
+    "count": 4
+  },
+  {
+    "label": "pmsm",
+    "permalink": "/docs/tags/pmsm",
     "count": 1
   },
   {
-    "label": "database",
-    "permalink": "/docs/tags/database",
+    "label": "system",
+    "permalink": "/docs/tags/system",
     "count": 1
   },
   {
-    "label": "ROS",
-    "permalink": "/docs/tags/ros",
-    "count": 1
-  },
-  {
-    "label": "TF",
-    "permalink": "/docs/tags/tf",
-    "count": 1
-  },
-  {
-    "label": "VSCode",
-    "permalink": "/docs/tags/vs-code",
+    "label": "工具",
+    "permalink": "/docs/tags/工具",
     "count": 2
+  },
+  {
+    "label": "vscode",
+    "permalink": "/docs/tags/vscode",
+    "count": 1
+  },
+  {
+    "label": "开发工具",
+    "permalink": "/docs/tags/开发工具",
+    "count": 1
+  },
+  {
+    "label": "配置",
+    "permalink": "/docs/tags/配置",
+    "count": 1
+  },
+  {
+    "label": "Terminal",
+    "permalink": "/docs/tags/terminal",
+    "count": 1
+  },
+  {
+    "label": "美化",
+    "permalink": "/docs/tags/美化",
+    "count": 1
   }
 ]

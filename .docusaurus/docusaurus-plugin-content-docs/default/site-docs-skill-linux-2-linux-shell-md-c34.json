@@ -1,0 +1,42 @@
+{
+  "unversionedId": "skill/linux/Linux_shell",
+  "id": "skill/linux/Linux_shell",
+  "title": "Linux Shell",
+  "description": "1. Shell 的特点",
+  "source": "@site/docs/skill/linux/2. Linux_Shell.md",
+  "sourceDirName": "skill/linux",
+  "slug": "/Linux_shell",
+  "permalink": "/docs/Linux_shell",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Linux",
+      "permalink": "/docs/tags/linux"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "Linux_shell",
+    "slug": "/Linux_shell",
+    "title": "Linux Shell",
+    "date": "2022-10-27T00:00:00.000Z",
+    "authors": "disnox",
+    "tags": [
+      "Linux"
+    ],
+    "keywords": [
+      "Linux"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Linux 概述",
+    "permalink": "/docs/Linux_introduction"
+  },
+  "next": {
+    "title": "C 语言",
+    "permalink": "/docs/category/c-语言"
+  }
+}

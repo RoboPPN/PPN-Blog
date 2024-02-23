@@ -12,2049 +12,1104 @@
       {
         "type": "link",
         "label": "技术笔记简介",
-        "href": "/docs/note-introduction",
+        "href": "/docs/skill",
         "docId": "skill/introduction",
         "unlisted": false
       },
       {
-        "label": "Docusaurus 主题魔改",
+        "label": "Linux",
         "type": "category",
         "items": [
           {
             "type": "link",
-            "label": "配置文件",
-            "href": "/docs/docusaurus-config",
-            "docId": "skill/docusaurus/docusaurus-config",
+            "label": "Linux 概述",
+            "href": "/docs/Linux_introduction",
+            "docId": "skill/linux/Linux_introduction",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "样式与页面",
-            "href": "/docs/docusaurus-style",
-            "docId": "skill/docusaurus/docusaurus-style",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "自定义组件",
-            "href": "/docs/docusaurus-component",
-            "docId": "skill/docusaurus/docusaurus-component",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "插件",
-            "href": "/docs/docusaurus-plugin",
-            "docId": "skill/docusaurus/docusaurus-plugin",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "搜索",
-            "href": "/docs/docusaurus-search",
-            "docId": "skill/docusaurus/docusaurus-search",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "评论服务",
-            "href": "/docs/docusaurus-comment",
-            "docId": "skill/docusaurus/docusaurus-comment",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "部署",
-            "href": "/docs/docusaurus-deploy",
-            "docId": "skill/docusaurus/docusaurus-deploy",
+            "label": "Linux Shell",
+            "href": "/docs/Linux_shell",
+            "docId": "skill/linux/Linux_shell",
             "unlisted": false
           }
         ],
         "collapsed": true,
         "collapsible": true,
-        "href": "/docs/docusaurus-guides"
+        "href": "/docs/category/linux"
       },
       {
-        "label": "VSCode问题合集",
+        "label": "C 语言",
         "type": "category",
         "items": [
           {
             "type": "link",
-            "label": "ssh远程连接服务器无法跳转函数定义问题",
-            "href": "/docs/skill/VSCode/ssh远程连接服务器无法跳转函数定义问题",
-            "docId": "skill/VSCode/ssh远程连接服务器无法跳转函数定义问题",
+            "label": "C 简介",
+            "href": "/docs/C_brief_introduction",
+            "docId": "skill/C/C_Basic/C_brief_introduction",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "vscode的include Path找不到头文件",
-            "href": "/docs/vscode-path-include",
-            "docId": "skill/VSCode/vscode-path-include",
+            "label": "C 环境设置",
+            "href": "/docs/C_environment_settings",
+            "docId": "skill/C/C_Basic/C_environment_settings",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "本地定义了与系统库重名的头文件问题",
-            "href": "/docs/vscode-wrong-define",
-            "docId": "skill/VSCode/vscode-wrong-define",
+            "label": "C 程序结构",
+            "href": "/docs/C_program_structure",
+            "docId": "skill/C/C_Basic/C_program_structure",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "C 基础语法",
+            "href": "/docs/C_basic_syntax",
+            "docId": "skill/C/C_Basic/C_basic_syntax",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "C 关键字",
+            "href": "/docs/C_keyword",
+            "docId": "skill/C/C_Basic/C_keyword",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "C 数据类型",
+            "href": "/docs/C_datetype",
+            "docId": "skill/C/C_Basic/C_datetype",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "C 变量和常量",
+            "href": "/docs/C_variable_constant",
+            "docId": "skill/C/C_Basic/C_variable_constant",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "C 运算符",
+            "href": "/docs/C_operator",
+            "docId": "skill/C/C_Basic/C_operator",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "C 控制流",
+            "href": "/docs/C_control_flow",
+            "docId": "skill/C/C_Basic/C_control_flow",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "C 函数",
+            "href": "/docs/C_function",
+            "docId": "skill/C/C_Basic/C_function",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "C 数组",
+            "href": "/docs/C_array",
+            "docId": "skill/C/C_Basic/C_array",
+            "unlisted": false
+          },
+          {
+            "label": "C 指针",
+            "type": "category",
+            "items": [
+              {
+                "type": "link",
+                "label": "C 指针基础",
+                "href": "/docs/C_pointer",
+                "docId": "skill/C/C_Basic/C_pointer",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "C 指针的指针",
+                "href": "/docs/C_two_pointer",
+                "docId": "skill/C/C_Basic/C_two_pointer",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "C 指针和数组",
+                "href": "/docs/C_pointer_and_array",
+                "docId": "skill/C/C_Basic/C_pointer_and_array",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "C 指针数组和数组指针",
+                "href": "/docs/C_pointer_array_and_pointer_array",
+                "docId": "skill/C/C_Basic/C_pointer_array_and_pointer_array",
+                "unlisted": false
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true,
+            "href": "/docs/category/c-指针"
+          },
+          {
+            "type": "link",
+            "label": "C 字符串",
+            "href": "/docs/C_character_string",
+            "docId": "skill/C/C_Basic/C_character_string",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "C 函数进阶",
+            "href": "/docs/C_function_order",
+            "docId": "skill/C/C_Basic/C_function_order",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "C 指针进阶",
+            "href": "/docs/C_pointer_High_level_issues",
+            "docId": "skill/C/C_Basic/C_pointer_High_level_issues",
+            "unlisted": false
+          },
+          {
+            "label": "C 复杂类型",
+            "type": "category",
+            "items": [
+              {
+                "type": "link",
+                "label": "C typedef",
+                "href": "/docs/C_typedef",
+                "docId": "skill/C/C_Basic/C_typedef",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "C 结构体",
+                "href": "/docs/C_struct",
+                "docId": "skill/C/C_Basic/C_struct",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "C 枚举、联合体",
+                "href": "/docs/C_union_enum",
+                "docId": "skill/C/C_Basic/C_union_enum",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "C 结构体字节数",
+                "href": "/docs/C_struct_size",
+                "docId": "skill/C/C_Basic/C_struct_size",
+                "unlisted": false
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true,
+            "href": "/docs/category/c-复杂类型"
+          },
+          {
+            "type": "link",
+            "label": "C 内存空间",
+            "href": "/docs/C_memory",
+            "docId": "skill/C/C_Basic/C_memory",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "C 作用域、存储期",
+            "href": "/docs/C_scope",
+            "docId": "skill/C/C_Basic/C_scope",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "C 预处理器",
+            "href": "/docs/C_pretreatment",
+            "docId": "skill/C/C_Basic/C_pretreatment",
             "unlisted": false
           }
         ],
         "collapsed": true,
         "collapsible": true,
-        "href": "/docs/category/vscode问题合集"
+        "href": "/docs/category/c-语言"
       },
       {
-        "label": "MySQL",
+        "label": "数据结构",
         "type": "category",
         "items": [
           {
             "type": "link",
-            "label": "MySQL操作指令",
-            "href": "/docs/skill/MySQL/MySQL操作指令",
-            "docId": "skill/MySQL/MySQL操作指令",
+            "label": "数据结构简介",
+            "href": "/docs/data_structure",
+            "docId": "skill/C/C_Data_Structure/data_structure",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "SQL笔记",
-            "href": "/docs/skill/MySQL/SQL笔记",
-            "docId": "skill/MySQL/SQL笔记",
+            "label": "线性表",
+            "href": "/docs/linear_table",
+            "docId": "skill/C/C_Data_Structure/linear_table",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "Ubuntu20.04安装MySQL和MySQL-workbench并连接云端数据库",
-            "href": "/docs/skill/MySQL/Ubuntu20.04安装MySQL和MySQL-workbench并连接云端数据库",
-            "docId": "skill/MySQL/Ubuntu20.04安装MySQL和MySQL-workbench并连接云端数据库",
+            "label": "单向链表",
+            "href": "/docs/single_linked_list",
+            "docId": "skill/C/C_Data_Structure/single_linked_list",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "MySql笔记",
-            "href": "/docs/skill/database/mysql",
-            "docId": "skill/MySQL/mysql-note",
+            "label": "单向循环链表",
+            "href": "/docs/singly_loop_linked_list",
+            "docId": "skill/C/C_Data_Structure/singly_loop_linked_list",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "mysql与influxDB的区别",
-            "href": "/docs/skill/MySQL/mysql与influxDB的区别",
-            "docId": "skill/MySQL/mysql与influxDB的区别",
+            "label": "双向循环链表",
+            "href": "/docs/double_linked_list",
+            "docId": "skill/C/C_Data_Structure/double_linked_list",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "mysql数据库迁移",
-            "href": "/docs/skill/MySQL/mysql数据库迁移",
-            "docId": "skill/MySQL/mysql数据库迁移",
+            "label": "内核链表",
+            "href": "/docs/inline_list",
+            "docId": "skill/C/C_Data_Structure/inline_list",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "mysql踩坑记",
-            "href": "/docs/skill/MySQL/mysql踩坑记",
-            "docId": "skill/MySQL/mysql踩坑记",
+            "label": "顺序栈和链式栈",
+            "href": "/docs/stack",
+            "docId": "skill/C/C_Data_Structure/stack",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "MySQL workbench中PK、NN、UQ、BIN、UN、ZF、AI、G这些选项代表的意思是？",
-            "href": "/docs/skill/MySQL/workbench学习笔记",
-            "docId": "skill/MySQL/workbench学习笔记",
+            "label": "队列",
+            "href": "/docs/queue",
+            "docId": "skill/C/C_Data_Structure/queue",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "二叉树",
+            "href": "/docs/binary_tree",
+            "docId": "skill/C/C_Data_Structure/binary_tree",
             "unlisted": false
           }
         ],
         "collapsed": true,
         "collapsible": true,
-        "href": "/docs/category/mysql"
+        "href": "/docs/category/数据结构"
       },
       {
-        "label": "MoveIt机械臂",
+        "label": "IO 编程技术",
         "type": "category",
         "items": [
           {
             "type": "link",
-            "label": "MoveIt入门学习笔记",
-            "href": "/docs/skill/MoveIt机械臂/MoveIt入门学习笔记",
-            "docId": "skill/MoveIt机械臂/MoveIt入门学习笔记",
+            "label": "一切皆文件",
+            "href": "/docs/file",
+            "docId": "skill/C/FILE_IO/file",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "系统IO",
+            "href": "/docs/system_io",
+            "docId": "skill/C/FILE_IO/system_io",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "标准IO",
+            "href": "/docs/standard_io",
+            "docId": "skill/C/FILE_IO/standard_io",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "文件属性",
+            "href": "/docs/stat",
+            "docId": "skill/C/FILE_IO/stat",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "目录检索",
+            "href": "/docs/dir",
+            "docId": "skill/C/FILE_IO/dir",
             "unlisted": false
           }
         ],
         "collapsed": true,
         "collapsible": true,
-        "href": "/docs/category/moveit机械臂"
+        "href": "/docs/category/io-编程技术"
       },
       {
-        "label": "Ubuntu",
+        "label": "Linux 系统编程",
         "type": "category",
         "items": [
           {
             "type": "link",
-            "label": "专治Ubuntu各种疑难杂症",
-            "href": "/docs/skill/Ubuntu/专治Ubuntu各种疑难杂症",
-            "docId": "skill/Ubuntu/专治Ubuntu各种疑难杂症",
+            "label": "Linux 进程入门",
+            "href": "/docs/process",
+            "docId": "skill/C/System/process",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "外设端口映射配置",
-            "href": "/docs/skill/Ubuntu/外设端口映射配置",
-            "docId": "skill/Ubuntu/外设端口映射配置",
+            "label": "进程重要API",
+            "href": "/docs/pro_api",
+            "docId": "skill/C/System/pro_api",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "Ubuntu自启动程序",
-            "href": "/docs/skill/Ubuntu/Ubuntu自启动程序",
-            "docId": "skill/Ubuntu/Ubuntu自启动程序",
+            "label": "管道(PIPE)",
+            "href": "/docs/pipe",
+            "docId": "skill/C/System/pipe",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "ubuntu常用指令合集",
-            "href": "/docs/skill/Ubuntu/ubuntu常用指令合集",
-            "docId": "skill/Ubuntu/ubuntu常用指令合集",
+            "label": "信号(SIG)",
+            "href": "/docs/signal",
+            "docId": "skill/C/System/signal",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "vim用法",
-            "href": "/docs/skill/Ubuntu/vim用法",
-            "docId": "skill/Ubuntu/vim用法",
+            "label": "IPC 简介",
+            "href": "/docs/ipc",
+            "docId": "skill/C/System/ipc",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "一些Ubuntu上好用的工具",
-            "href": "/docs/skill/Ubuntu/一些Ubuntu上好用的工具",
-            "docId": "skill/Ubuntu/一些Ubuntu上好用的工具",
+            "label": "消息队列(MSG)",
+            "href": "/docs/msg",
+            "docId": "skill/C/System/msg",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "常用shell脚本指令",
-            "href": "/docs/skill/Ubuntu/常用shell脚本指令",
-            "docId": "skill/Ubuntu/常用shell脚本指令",
+            "label": "信号量(SEM)",
+            "href": "/docs/sem",
+            "docId": "skill/C/System/sem",
             "unlisted": false
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true,
-        "href": "/docs/category/ubuntu"
-      },
-      {
-        "label": "ROS",
-        "type": "category",
-        "items": [
-          {
-            "type": "link",
-            "label": "使用脚本一键安装ROS",
-            "href": "/docs/skill/ROS/使用脚本一键安装ROS",
-            "docId": "skill/ROS/使用脚本一键安装ROS",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "ROS-2浅述",
-            "href": "/docs/skill/ROS/ROS-2浅述",
-            "docId": "skill/ROS/ROS-2浅述",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "ROS-melodic的安装与卸载",
-            "href": "/docs/skill/ROS/ROS-melodic的安装与卸载",
-            "docId": "skill/ROS/ROS-melodic的安装与卸载",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "ROS入门之launch",
-            "href": "/docs/skill/ROS/ROS入门之launch",
-            "docId": "skill/ROS/ROS入门之launch",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "ROS分布式通讯",
-            "href": "/docs/skill/ROS/ROS分布式通讯",
-            "docId": "skill/ROS/ROS分布式通讯",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "ROS常用工具",
-            "href": "/docs/skill/ROS/ROS常用工具",
-            "docId": "skill/ROS/ROS常用工具",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "ROS常用指令",
-            "href": "/docs/skill/ROS/ROS常用指令",
-            "docId": "skill/ROS/ROS常用指令",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "TF",
-            "href": "/docs/skill/ROS/TF",
-            "docId": "skill/ROS/TF",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "TF学习笔记",
-            "href": "/docs/ros-learning-tf",
-            "docId": "skill/ROS/ros-learning-tf",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "spin()与spinOnce()的区别",
-            "href": "/docs/skill/ROS/spin()与spinOnce()的区别",
-            "docId": "skill/ROS/spin()与spinOnce()的区别",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "专治ROS各种疑难杂症",
-            "href": "/docs/skill/ROS/专治ROS各种疑难杂症",
-            "docId": "skill/ROS/专治ROS各种疑难杂症",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "使用ros::package::getPath()获取功能包的全局路径",
-            "href": "/docs/skill/ROS/使用ros::package::getPath()获取功能包的全局路径",
-            "docId": "skill/ROS/使用ros::package::getPath()获取功能包的全局路径",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "四元数",
-            "href": "/docs/skill/ROS/四元数",
-            "docId": "skill/ROS/四元数",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "如何在ros-noetic下打开realsense D435相机",
-            "href": "/docs/skill/ROS/如何在ros-noetic下打开realsense D435相机",
-            "docId": "skill/ROS/如何在ros-noetic下打开realsense D435相机",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "添加自定义消息类型，如何修改CMakeLists.txt的内容",
-            "href": "/docs/skill/ROS/添加自定义消息类型，如何修改CMakeLists.txt的内容",
-            "docId": "skill/ROS/添加自定义消息类型，如何修改CMakeLists.txt的内容",
-            "unlisted": false
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true,
-        "href": "/docs/category/ros"
-      },
-      {
-        "label": "OpenCV",
-        "type": "category",
-        "items": [
-          {
-            "type": "link",
-            "label": "OpenCV检测并解析二维码",
-            "href": "/docs/skill/OpenCV/OpenCV检测并解析二维码",
-            "docId": "skill/OpenCV/OpenCV检测并解析二维码",
-            "unlisted": false
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true,
-        "href": "/docs/category/opencv"
-      },
-      {
-        "label": "Math",
-        "type": "category",
-        "items": [
-          {
-            "type": "link",
-            "label": "最小二乘法",
-            "href": "/docs/skill/Math/最小二乘法",
-            "docId": "skill/Math/最小二乘法",
-            "unlisted": false
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true,
-        "href": "/docs/category/math"
-      },
-      {
-        "label": "git",
-        "type": "category",
-        "items": [
-          {
-            "type": "link",
-            "label": "git分支管理",
-            "href": "/docs/skill/git/git分支管理",
-            "docId": "skill/git/git分支管理",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "git教程",
-            "href": "/docs/skill/git/git教程",
-            "docId": "skill/git/git教程",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "超时-无法读取远程仓库",
-            "href": "/docs/skill/git/超时-无法读取远程仓库",
-            "docId": "skill/git/超时-无法读取远程仓库",
-            "unlisted": false
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true,
-        "href": "/docs/category/git"
-      },
-      {
-        "label": "ChatGPT",
-        "type": "category",
-        "items": [
-          {
-            "type": "link",
-            "label": "ChatGPT注册账号教程",
-            "href": "/docs/skill/ChatGPT/ChatGPT注册账号教程",
-            "docId": "skill/ChatGPT/ChatGPT注册账号教程",
-            "unlisted": false
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true,
-        "href": "/docs/category/chatgpt"
-      },
-      {
-        "label": "autoware",
-        "type": "category",
-        "items": [
-          {
-            "type": "link",
-            "label": "Autoware学习笔记-1-Autoware介绍及安装",
-            "href": "/docs/skill/autoware/Autoware学习笔记-1-Autoware介绍及安装",
-            "docId": "skill/autoware/Autoware学习笔记-1-Autoware介绍及安装",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "ndt_matching",
-            "href": "/docs/skill/autoware/ndt_matching",
-            "docId": "skill/autoware/ndt_matching",
-            "unlisted": false
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true,
-        "href": "/docs/category/autoware"
-      },
-      {
-        "label": "有用的小知识",
-        "type": "category",
-        "items": [
-          {
-            "type": "link",
-            "label": "NTFS-FAT32-exFAT文件系统",
-            "href": "/docs/skill/有用的小知识/NTFS-FAT32-exFAT文件系统",
-            "docId": "skill/有用的小知识/NTFS-FAT32-exFAT文件系统",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "proto文件",
-            "href": "/docs/skill/有用的小知识/proto文件",
-            "docId": "skill/有用的小知识/proto文件",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "多传感器信息融合理论",
-            "href": "/docs/skill/有用的小知识/多传感器信息融合理论",
-            "docId": "skill/有用的小知识/多传感器信息融合理论",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "搜索小技巧",
-            "href": "/docs/skill/有用的小知识/搜索小技巧",
-            "docId": "skill/有用的小知识/搜索小技巧",
-            "unlisted": false
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true,
-        "href": "/docs/category/有用的小知识"
-      },
-      {
-        "label": "机器学习",
-        "type": "category",
-        "items": [
-          {
-            "type": "link",
-            "label": "什么是机器学习？",
-            "href": "/docs/skill/机器学习/机器学习概述",
-            "docId": "skill/机器学习/机器学习概述",
-            "unlisted": false
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true,
-        "href": "/docs/category/机器学习"
-      },
-      {
-        "label": "软件安装&环境配置",
-        "type": "category",
-        "items": [
-          {
-            "type": "link",
-            "label": "Ubuntu配置opencv4",
-            "href": "/docs/skill/软件安装&环境配置/Ubuntu配置opencv4",
-            "docId": "skill/软件安装&环境配置/Ubuntu配置opencv4",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "RoboWare的安装",
-            "href": "/docs/skill/软件安装&环境配置/RoboWare的安装",
-            "docId": "skill/软件安装&环境配置/RoboWare的安装",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "nodejs16以上版本安装以及yarn、npm的安装",
-            "href": "/docs/skill/软件安装&环境配置/nodejs16以上版本安装以及yarn、npm的安装",
-            "docId": "skill/软件安装&环境配置/nodejs16以上版本安装以及yarn、npm的安装",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "在vscode上搭建ROS环境",
-            "href": "/docs/skill/软件安装&环境配置/在vscode上搭建ROS环境",
-            "docId": "skill/软件安装&环境配置/在vscode上搭建ROS环境",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "妙算MANIFOLD 2-G系统还原、使用教程",
-            "href": "/docs/skill/软件安装&环境配置/妙算MANIFOLD 2-G系统还原、使用教程",
-            "docId": "skill/软件安装&环境配置/妙算MANIFOLD 2-G系统还原、使用教程",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "编译安装robot_pose_ekf功能包",
-            "href": "/docs/skill/软件安装&环境配置/编译安装robot_pose_ekf功能包",
-            "docId": "skill/软件安装&环境配置/编译安装robot_pose_ekf功能包",
-            "unlisted": false
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true,
-        "href": "/docs/category/软件安装环境配置"
-      },
-      {
-        "label": "规划",
-        "type": "category",
-        "items": [
-          {
-            "type": "link",
-            "label": "局部路径规划",
-            "href": "/docs/skill/规划/局部路径规划",
-            "docId": "skill/规划/局部路径规划",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "A*算法",
-            "href": "/docs/skill/规划/A*算法",
-            "docId": "skill/规划/A*算法",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "DWA",
-            "href": "/docs/skill/规划/DWA",
-            "docId": "skill/规划/DWA",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Dijkstra",
-            "href": "/docs/skill/规划/Dijkstra",
-            "docId": "skill/规划/Dijkstra",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "TEB",
-            "href": "/docs/skill/规划/TEB",
-            "docId": "skill/规划/TEB",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Teb参数优化",
-            "href": "/docs/skill/规划/Teb参数优化",
-            "docId": "skill/规划/Teb参数优化",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Teb算法",
-            "href": "/docs/skill/规划/Teb算法",
-            "docId": "skill/规划/Teb算法",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "move_base笔记",
-            "href": "/docs/skill/规划/move_base笔记",
-            "docId": "skill/规划/move_base笔记",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "各大全局路径规划算法简介",
-            "href": "/docs/skill/规划/各大全局路径规划算法简介",
-            "docId": "skill/规划/各大全局路径规划算法简介",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "路径规划简介",
-            "href": "/docs/skill/规划/路径规划简介",
-            "docId": "skill/规划/路径规划简介",
-            "unlisted": false
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true,
-        "href": "/docs/category/规划"
-      },
-      {
-        "label": "地图",
-        "type": "category",
-        "items": [
-          {
-            "type": "link",
-            "label": "建立静态地图",
-            "href": "/docs/skill/地图/建立静态地图",
-            "docId": "skill/地图/建立静态地图",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "costmap",
-            "href": "/docs/skill/地图/costmap",
-            "docId": "skill/地图/costmap",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "navigation切换地图的两种方法",
-            "href": "/docs/skill/地图/navigation切换地图的两种方法",
-            "docId": "skill/地图/navigation切换地图的两种方法",
-            "unlisted": false
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true,
-        "href": "/docs/category/地图"
-      },
-      {
-        "label": "定位导航",
-        "type": "category",
-        "items": [
-          {
-            "type": "link",
-            "label": "导航模块介绍",
-            "href": "/docs/skill/定位导航/导航模块介绍",
-            "docId": "skill/定位导航/导航模块介绍",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "定位简介",
-            "href": "/docs/skill/定位导航/定位简介",
-            "docId": "skill/定位导航/定位简介",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "cartographer学习",
-            "href": "/docs/skill/定位导航/cartographer学习",
-            "docId": "skill/定位导航/cartographer学习",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "基于反光板的全局定位",
-            "href": "/docs/skill/定位导航/基于反光板的全局定位",
-            "docId": "skill/定位导航/基于反光板的全局定位",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "自主式移动机器人改进方案",
-            "href": "/docs/skill/定位导航/自主式移动机器人改进方案",
-            "docId": "skill/定位导航/自主式移动机器人改进方案",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "自适应蒙特卡罗定位",
-            "href": "/docs/skill/定位导航/自适应蒙特卡罗定位",
-            "docId": "skill/定位导航/自适应蒙特卡罗定位",
-            "unlisted": false
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true,
-        "href": "/docs/category/定位导航"
-      },
-      {
-        "label": "多线程",
-        "type": "category",
-        "items": [
-          {
-            "type": "link",
-            "label": "C++11使用条件变量进行线程间的事件处理",
-            "href": "/docs/skill/多线程/C++11使用条件变量进行线程间的事件处理",
-            "docId": "skill/多线程/C++11使用条件变量进行线程间的事件处理",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "C++11线程类",
-            "href": "/docs/skill/多线程/C++11线程类",
-            "docId": "skill/多线程/C++11线程类",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "命名空间this_thread",
-            "href": "/docs/skill/多线程/命名空间this_thread",
-            "docId": "skill/多线程/命名空间this_thread",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "处理日期和时间的 chrono 库",
-            "href": "/docs/skill/多线程/处理日期和时间的 chrono 库",
-            "docId": "skill/多线程/处理日期和时间的 chrono 库",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "如何在C++11中让线程休眠",
-            "href": "/docs/skill/多线程/如何在C++11中让线程休眠",
-            "docId": "skill/多线程/如何在C++11中让线程休眠",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "线程同步",
-            "href": "/docs/skill/多线程/线程同步",
-            "docId": "skill/多线程/线程同步",
-            "unlisted": false
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true,
-        "href": "/docs/category/多线程"
-      },
-      {
-        "label": "C++",
-        "type": "category",
-        "items": [
-          {
-            "type": "link",
-            "label": "C++ 测试程序运行时间",
-            "href": "/docs/skill/C++/C++ 测试程序运行时间",
-            "docId": "skill/C++/C++ 测试程序运行时间",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "C++11 move()函数",
-            "href": "/docs/skill/C++/C++11 move()函数",
-            "docId": "skill/C++/C++11 move()函数",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "C++使用ifdef控制部分代码开或关",
-            "href": "/docs/skill/C++/C++使用ifdef控制部分代码开或关",
-            "docId": "skill/C++/C++使用ifdef控制部分代码开或关",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "C++可变参数模板",
-            "href": "/docs/skill/C++/C++可变参数模板",
-            "docId": "skill/C++/C++可变参数模板",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "C++智能指针",
-            "href": "/docs/skill/C++/C++智能指针",
-            "docId": "skill/C++/C++智能指针",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "CMake学习笔记",
-            "href": "/docs/skill/C++/CMake学习笔记",
-            "docId": "skill/C++/CMake学习笔记",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Google代码风格C++篇",
-            "href": "/docs/skill/C++/Google代码风格C++篇",
-            "docId": "skill/C++/Google代码风格C++篇",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "auto关键字",
-            "href": "/docs/skill/C++/auto关键字",
-            "docId": "skill/C++/auto关键字",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "const与define",
-            "href": "/docs/skill/C++/const与define",
-            "docId": "skill/C++/const与define",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "gcc编译器和g++编译器有何区别",
-            "href": "/docs/skill/C++/gcc编译器和g++编译器有何区别",
-            "docId": "skill/C++/gcc编译器和g++编译器有何区别",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "map",
-            "href": "/docs/skill/C++/map",
-            "docId": "skill/C++/map",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "std::bind函数",
-            "href": "/docs/skill/C++/std::bind函数",
-            "docId": "skill/C++/std::bind函数",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "std::ofstream  与 std::fstream",
-            "href": "/docs/skill/C++/std::ofstream  与 std::fstream",
-            "docId": "skill/C++/std::ofstream  与 std::fstream",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "vector",
-            "href": "/docs/skill/C++/vector",
-            "docId": "skill/C++/vector",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "使用new在堆创建对象",
-            "href": "/docs/skill/C++/使用new在堆创建对象",
-            "docId": "skill/C++/使用new在堆创建对象",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "内联函数",
-            "href": "/docs/skill/C++/内联函数",
-            "docId": "skill/C++/内联函数",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "判断表达式的使用",
-            "href": "/docs/skill/C++/判断表达式的使用",
-            "docId": "skill/C++/判断表达式的使用",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "友元函数",
-            "href": "/docs/skill/C++/友元函数",
-            "docId": "skill/C++/友元函数",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "反斜杠符",
-            "href": "/docs/skill/C++/反斜杠符",
-            "docId": "skill/C++/反斜杠符",
-            "unlisted": false
           },
           {
             "type": "link",
-            "label": "在指定路径下自动创建文件夹",
-            "href": "/docs/skill/C++/在指定路径下自动创建文件夹",
-            "docId": "skill/C++/在指定路径下自动创建文件夹",
+            "label": "共享内存(SHM)",
+            "href": "/docs/shm",
+            "docId": "skill/C/System/shm",
             "unlisted": false
           },
-          {
-            "type": "link",
-            "label": "多态&虚函数",
-            "href": "/docs/skill/C++/多态&虚函数",
-            "docId": "skill/C++/多态&虚函数",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "头文件定义的通用模板",
-            "href": "/docs/skill/C++/头文件定义的通用模板",
-            "docId": "skill/C++/头文件定义的通用模板",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "宏定义",
-            "href": "/docs/skill/C++/宏定义",
-            "docId": "skill/C++/宏定义",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "当回调函数写在类中，如何写subscribe的回调函数",
-            "href": "/docs/skill/C++/当回调函数写在类中，如何写subscribe的回调函数",
-            "docId": "skill/C++/当回调函数写在类中，如何写subscribe的回调函数",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "抽象类接口",
-            "href": "/docs/skill/C++/抽象类接口",
-            "docId": "skill/C++/抽象类接口",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "指向类、结构体的指针",
-            "href": "/docs/skill/C++/指向类、结构体的指针",
-            "docId": "skill/C++/指向类、结构体的指针",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "数据抽象数据封装",
-            "href": "/docs/skill/C++/数据抽象数据封装",
-            "docId": "skill/C++/数据抽象数据封装",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "科学计数法",
-            "href": "/docs/skill/C++/科学计数法",
-            "docId": "skill/C++/科学计数法",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "继承",
-            "href": "/docs/skill/C++/继承",
-            "docId": "skill/C++/继承",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "重载函数",
-            "href": "/docs/skill/C++/重载函数",
-            "docId": "skill/C++/重载函数",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "错误流与日志流",
-            "href": "/docs/skill/C++/错误流与日志流",
-            "docId": "skill/C++/错误流与日志流",
-            "unlisted": false
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true,
-        "href": "/docs/category/c"
-      },
-      {
-        "label": "Python",
-        "type": "category",
-        "items": [
           {
             "type": "link",
-            "label": "async关键字",
-            "href": "/docs/skill/Python/async关键字",
-            "docId": "skill/Python/async关键字",
+            "label": "Linux 线程入门",
+            "href": "/docs/thread",
+            "docId": "skill/C/System/thread",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "python对json&yaml的操作",
-            "href": "/docs/skill/Python/python对json&yaml的操作",
-            "docId": "skill/Python/python对json&yaml的操作",
+            "label": "Linux 线程调度",
+            "href": "/docs/thread_scheduling",
+            "docId": "skill/C/System/thread_scheduling",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "python简介",
-            "href": "/docs/skill/Python/python简介",
-            "docId": "skill/Python/python简介",
+            "label": "POSIX信号量",
+            "href": "/docs/posix",
+            "docId": "skill/C/System/posix",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "互斥锁",
-            "href": "/docs/skill/Python/互斥锁",
-            "docId": "skill/Python/互斥锁",
+            "href": "/docs/mutex",
+            "docId": "skill/C/System/mutex",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "如何在ubuntu上运行python文件",
-            "href": "/docs/skill/Python/如何在ubuntu上运行python文件",
-            "docId": "skill/Python/如何在ubuntu上运行python文件",
+            "label": "读写锁",
+            "href": "/docs/rwlock",
+            "docId": "skill/C/System/rwlock",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "如何安装turtle库",
-            "href": "/docs/skill/Python/如何安装turtle库",
-            "docId": "skill/Python/如何安装turtle库",
+            "label": "条件变量",
+            "href": "/docs/cond",
+            "docId": "skill/C/System/cond",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "数据类型检测",
-            "href": "/docs/skill/Python/数据类型检测",
-            "docId": "skill/Python/数据类型检测",
+            "label": "可重入函数",
+            "href": "/docs/reen",
+            "docId": "skill/C/System/reen",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "遇到非ASCII字符问题",
-            "href": "/docs/skill/Python/遇到非ASCII字符问题",
-            "docId": "skill/Python/遇到非ASCII字符问题",
+            "label": "线程池",
+            "href": "/docs/thread_pool",
+            "docId": "skill/C/System/thread_pool",
             "unlisted": false
           }
         ],
         "collapsed": true,
         "collapsible": true,
-        "href": "/docs/category/python"
+        "href": "/docs/category/linux-系统编程"
       },
       {
-        "label": "传感器",
+        "label": "Linux 网络编程",
         "type": "category",
         "items": [
           {
-            "label": "激光雷达",
-            "type": "category",
-            "items": [
-              {
-                "type": "link",
-                "label": "两种激光雷达数据赋值方法",
-                "href": "/docs/skill/Sensor/Lidar/两种激光雷达数据赋值方法",
-                "docId": "skill/Sensor/Lidar/两种激光雷达数据赋值方法",
-                "unlisted": false
-              },
-              {
-                "type": "link",
-                "label": "初玩Livox Mid-70",
-                "href": "/docs/skill/Sensor/Lidar/初玩Livox Mid-70",
-                "docId": "skill/Sensor/Lidar/初玩Livox Mid-70",
-                "unlisted": false
-              },
-              {
-                "type": "link",
-                "label": "单线激光雷达特征提取实验",
-                "href": "/docs/skill/Sensor/Lidar/单线激光雷达特征提取实验",
-                "docId": "skill/Sensor/Lidar/单线激光雷达特征提取实验",
-                "unlisted": false
-              },
-              {
-                "type": "link",
-                "label": "双2d激光雷达数据拼接",
-                "href": "/docs/skill/Sensor/Lidar/双2d激光雷达数据拼接",
-                "docId": "skill/Sensor/Lidar/双2d激光雷达数据拼接",
-                "unlisted": false
-              },
-              {
-                "type": "link",
-                "label": "深度相机做伪2D激光雷达",
-                "href": "/docs/skill/Sensor/Lidar/深度相机做伪2D激光雷达",
-                "docId": "skill/Sensor/Lidar/深度相机做伪2D激光雷达",
-                "unlisted": false
-              },
-              {
-                "type": "link",
-                "label": "激光雷达滤波器",
-                "href": "/docs/skill/Sensor/Lidar/激光雷达滤波器",
-                "docId": "skill/Sensor/Lidar/激光雷达滤波器",
-                "unlisted": false
-              },
-              {
-                "type": "link",
-                "label": "激光雷达特征提取与拟合路径",
-                "href": "/docs/skill/Sensor/Lidar/激光雷达特征提取与拟合路径",
-                "docId": "skill/Sensor/Lidar/激光雷达特征提取与拟合路径",
-                "unlisted": false
-              }
-            ],
-            "collapsed": true,
-            "collapsible": true,
-            "href": "/docs/category/激光雷达"
-          },
-          {
-            "label": "深度相机&工业相机",
-            "type": "category",
-            "items": [
-              {
-                "type": "link",
-                "label": "Azure Kinect DK 深度相机工作原理",
-                "href": "/docs/skill/Sensor/Camera/Azure Kinect DK 深度相机工作原理",
-                "docId": "skill/Sensor/Camera/Azure Kinect DK 深度相机工作原理",
-                "unlisted": false
-              },
-              {
-                "type": "link",
-                "label": "RealSense相机",
-                "href": "/docs/skill/Sensor/Camera/RealSense相机",
-                "docId": "skill/Sensor/Camera/RealSense相机",
-                "unlisted": false
-              },
-              {
-                "type": "link",
-                "label": "使用ROS对相机进行内参标定",
-                "href": "/docs/skill/Sensor/Camera/使用ROS对相机进行内参标定",
-                "docId": "skill/Sensor/Camera/使用ROS对相机进行内参标定",
-                "unlisted": false
-              },
-              {
-                "type": "link",
-                "label": "迈德威视MV-SUA133GC-T工业相机驱安装",
-                "href": "/docs/skill/Sensor/Camera/迈德威视MV-SUA133GC-T工业相机驱安装",
-                "docId": "skill/Sensor/Camera/迈德威视MV-SUA133GC-T工业相机驱安装",
-                "unlisted": false
-              }
-            ],
-            "collapsed": true,
-            "collapsible": true
-          },
-          {
-            "label": "IMU",
-            "type": "category",
-            "items": [
-              {
-                "type": "link",
-                "label": "IMU工作原理",
-                "href": "/docs/skill/Sensor/IMU/IMU工作原理",
-                "docId": "skill/Sensor/IMU/IMU工作原理",
-                "unlisted": false
-              }
-            ],
-            "collapsed": true,
-            "collapsible": true,
-            "href": "/docs/category/imu"
-          },
-          {
-            "label": "GPS",
-            "type": "category",
-            "items": [
-              {
-                "type": "link",
-                "label": "GPS工作原理",
-                "href": "/docs/skill/Sensor/GPS/GPS工作原理",
-                "docId": "skill/Sensor/GPS/GPS工作原理",
-                "unlisted": false
-              }
-            ],
-            "collapsed": true,
-            "collapsible": true,
-            "href": "/docs/category/gps"
+            "type": "link",
+            "label": "套接字",
+            "href": "/docs/socket",
+            "docId": "skill/C/Network/socket",
+            "unlisted": false
           }
         ],
         "collapsed": true,
         "collapsible": true,
-        "href": "/docs/category/传感器"
+        "href": "/docs/category/linux-网络编程"
+      },
+      {
+        "label": "硬件基础",
+        "type": "category",
+        "items": [
+          {
+            "label": "元器件基础",
+            "type": "category",
+            "items": [
+              {
+                "type": "link",
+                "label": "电阻",
+                "href": "/docs/Res",
+                "docId": "skill/hardware/component/Res",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "电容",
+                "href": "/docs/Cap",
+                "docId": "skill/hardware/component/Cap",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "MOS管",
+                "href": "/docs/MOS",
+                "docId": "skill/hardware/component/MOS",
+                "unlisted": false
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true,
+            "href": "/docs/category/元器件基础"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/category/硬件基础"
+      },
+      {
+        "label": "电机控制",
+        "type": "category",
+        "items": [
+          {
+            "type": "link",
+            "label": "永磁同步电机",
+            "href": "/docs/pmsm_motor",
+            "docId": "skill/motor/pmsm/pmsm_motor",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/category/电机控制"
+      },
+      {
+        "label": "杂项",
+        "type": "category",
+        "items": [
+          {
+            "type": "link",
+            "label": "查看端口占用及结束进程",
+            "href": "/docs/look-up-port-and-kill-process",
+            "docId": "skill/other/look-up-port-and-kill-process",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/category/杂项"
+      }
+    ],
+    "tools": [
+      {
+        "type": "link",
+        "label": "高效工作指南",
+        "href": "/docs/tools",
+        "docId": "tools/introduction",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Everything快速搜索本地文件",
+        "href": "/docs/everything-quick-search-local-files",
+        "docId": "tools/everything-quick-search-local-files",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Windows自定义右键菜单",
+        "href": "/docs/windows-custom-right-click-menu",
+        "docId": "tools/windows-custom-right-click-menu",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Windows Terminal美化",
+        "href": "/docs/windows-terminal-beautify",
+        "docId": "tools/windows-terminal-beautify",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "VScode相关配置",
+        "href": "/docs/vscode-config",
+        "docId": "tools/vscode-config",
+        "unlisted": false
+      }
+    ],
+    "project_group": [
+      {
+        "type": "link",
+        "label": "项目合集",
+        "href": "/docs/project_group",
+        "docId": "project_group/introduction",
+        "unlisted": false
+      },
+      {
+        "label": "电机控制",
+        "type": "category",
+        "items": [
+          {
+            "label": "AxDrive-L",
+            "type": "category",
+            "items": [
+              {
+                "type": "link",
+                "label": "Axdrive-L 用户手册",
+                "href": "/docs/AxDrive-L_user_manual",
+                "docId": "project_group/motor_ctrl/AxDrive-L/AxDrive-L_user_manual",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Axdrive-L 硬件设计报告",
+                "href": "/docs/AxDrive-L_hardware_design_report",
+                "docId": "project_group/motor_ctrl/AxDrive-L/AxDrive-L_hardware_design_report",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Axdrive-L 软件设计报告",
+                "href": "/docs/AxDrive-L_software_design_report",
+                "docId": "project_group/motor_ctrl/AxDrive-L/AxDrive-L_software_design_report",
+                "unlisted": false
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true,
+            "href": "/docs/category/axdrive-l"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/category/电机控制-1"
       }
     ]
   },
   "docs": {
-    "skill/地图/建立静态地图": {
-      "id": "skill/地图/建立静态地图",
-      "title": "建立静态地图",
-      "description": "使用单个激光雷达建图教程",
-      "sidebar": "skill"
-    },
-    "skill/地图/costmap": {
-      "id": "skill/地图/costmap",
-      "title": "costmap",
-      "description": "导航包move_base框架",
-      "sidebar": "skill"
-    },
-    "skill/地图/navigation切换地图的两种方法": {
-      "id": "skill/地图/navigation切换地图的两种方法",
-      "title": "navigation切换地图的两种方法",
-      "description": "在使用ros navigation导航框架时，如何通过代码切换地图？",
-      "sidebar": "skill"
-    },
-    "skill/定位导航/导航模块介绍": {
-      "id": "skill/定位导航/导航模块介绍",
-      "title": "导航模块介绍",
-      "description": "导航涉及的关键技术有如下五点",
-      "sidebar": "skill"
-    },
-    "skill/定位导航/定位简介": {
-      "id": "skill/定位导航/定位简介",
-      "title": "定位简介",
-      "description": "定位简介",
-      "sidebar": "skill"
-    },
-    "skill/定位导航/基于反光板的全局定位": {
-      "id": "skill/定位导航/基于反光板的全局定位",
-      "title": "基于反光板的全局定位",
-      "description": "反光板的布置要求",
-      "sidebar": "skill"
-    },
-    "skill/定位导航/自适应蒙特卡罗定位": {
-      "id": "skill/定位导航/自适应蒙特卡罗定位",
-      "title": "自适应蒙特卡罗定位",
-      "description": "导航包move_base框架图",
-      "sidebar": "skill"
-    },
-    "skill/定位导航/自主式移动机器人改进方案": {
-      "id": "skill/定位导航/自主式移动机器人改进方案",
-      "title": "自主式移动机器人改进方案",
-      "description": "使用高端CPU进行计算处理",
-      "sidebar": "skill"
-    },
-    "skill/定位导航/cartographer学习": {
-      "id": "skill/定位导航/cartographer学习",
-      "title": "cartographer学习",
-      "description": "cartographer的安装与编译",
-      "sidebar": "skill"
-    },
-    "skill/多线程/处理日期和时间的 chrono 库": {
-      "id": "skill/多线程/处理日期和时间的 chrono 库",
-      "title": "处理日期和时间的 chrono 库",
-      "description": "处理日期和时间的 chrono 库",
-      "sidebar": "skill"
-    },
-    "skill/多线程/命名空间this_thread": {
-      "id": "skill/多线程/命名空间this_thread",
-      "title": "命名空间this_thread",
-      "description": "大丙课堂链接：",
-      "sidebar": "skill"
-    },
-    "skill/多线程/如何在C++11中让线程休眠": {
-      "id": "skill/多线程/如何在C++11中让线程休眠",
-      "title": "如何在C++11中让线程休眠",
-      "description": "休眠函数",
-      "sidebar": "skill"
-    },
-    "skill/多线程/线程同步": {
-      "id": "skill/多线程/线程同步",
-      "title": "线程同步",
-      "description": "线程同步",
-      "sidebar": "skill"
+    "diary/introduction": {
+      "id": "diary/introduction",
+      "title": "生活日志",
+      "description": "生活日志"
     },
-    "skill/多线程/C++11使用条件变量进行线程间的事件处理": {
-      "id": "skill/多线程/C++11使用条件变量进行线程间的事件处理",
-      "title": "C++11使用条件变量进行线程间的事件处理",
-      "description": "条件变量介绍",
-      "sidebar": "skill"
-    },
-    "skill/多线程/C++11线程类": {
-      "id": "skill/多线程/C++11线程类",
-      "title": "C++11线程类",
-      "description": "入门代码示例",
-      "sidebar": "skill"
-    },
-    "skill/规划/各大全局路径规划算法简介": {
-      "id": "skill/规划/各大全局路径规划算法简介",
-      "title": "各大全局路径规划算法简介",
-      "description": "广度优先遍历（breadth first search-BFS）",
-      "sidebar": "skill"
+    "project_group/introduction": {
+      "id": "project_group/introduction",
+      "title": "项目合集",
+      "description": "项目合集",
+      "sidebar": "project_group"
     },
-    "skill/规划/局部路径规划": {
-      "id": "skill/规划/局部路径规划",
-      "title": "局部路径规划",
-      "description": "根据附近的障碍物进行躲避路线规划。本地的实时规划是利用baselocalplanner包实现的。",
-      "sidebar": "skill"
+    "project_group/motor_ctrl/AxDrive-L/AxDrive-L_hardware_design_report": {
+      "id": "project_group/motor_ctrl/AxDrive-L/AxDrive-L_hardware_design_report",
+      "title": "Axdrive-L 硬件设计报告",
+      "description": "1. AxDrive-L 简介",
+      "sidebar": "project_group"
     },
-    "skill/规划/路径规划简介": {
-      "id": "skill/规划/路径规划简介",
-      "title": "路径规划简介",
-      "description": "全局路径规划",
-      "sidebar": "skill"
+    "project_group/motor_ctrl/AxDrive-L/AxDrive-L_software_design_report": {
+      "id": "project_group/motor_ctrl/AxDrive-L/AxDrive-L_software_design_report",
+      "title": "Axdrive-L 软件设计报告",
+      "description": "1. AxDrive-L 简介",
+      "sidebar": "project_group"
     },
-    "skill/规划/A*算法": {
-      "id": "skill/规划/A*算法",
-      "title": "A*算法",
-      "description": "什么是A*算法？",
-      "sidebar": "skill"
+    "project_group/motor_ctrl/AxDrive-L/AxDrive-L_user_manual": {
+      "id": "project_group/motor_ctrl/AxDrive-L/AxDrive-L_user_manual",
+      "title": "Axdrive-L 用户手册",
+      "description": "1. AxDrive-L 简介",
+      "sidebar": "project_group"
     },
-    "skill/规划/Dijkstra": {
-      "id": "skill/规划/Dijkstra",
-      "title": "Dijkstra",
-      "description": "什么是Dijkstra?",
+    "skill/C/C_Basic/C_array": {
+      "id": "skill/C/C_Basic/C_array",
+      "title": "C 数组",
+      "description": "C 一维数组",
       "sidebar": "skill"
     },
-    "skill/规划/DWA": {
-      "id": "skill/规划/DWA",
-      "title": "DWA",
-      "description": "DWA介绍以及算法步骤",
+    "skill/C/C_Basic/C_basic_syntax": {
+      "id": "skill/C/C_Basic/C_basic_syntax",
+      "title": "C 基础语法",
+      "description": "C 的令牌（Token）",
       "sidebar": "skill"
     },
-    "skill/规划/move_base笔记": {
-      "id": "skill/规划/move_base笔记",
-      "title": "move_base笔记",
-      "description": "move_base框架",
+    "skill/C/C_Basic/C_brief_introduction": {
+      "id": "skill/C/C_Basic/C_brief_introduction",
+      "title": "C 简介",
+      "description": "编程语言",
       "sidebar": "skill"
     },
-    "skill/规划/TEB": {
-      "id": "skill/规划/TEB",
-      "title": "TEB",
-      "description": "TEB (Time Elastic Band) 算法是一种用于机器人路径规划的算法，它能够为机器人生成安全、高效、适合时间限制的路径。它考虑了机器人的动态约束条件，如速度限制和加速度限制，以及静态约束条件，如避障限制和占用空间限制。",
+    "skill/C/C_Basic/C_character_string": {
+      "id": "skill/C/C_Basic/C_character_string",
+      "title": "C 字符串",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/规划/Teb参数优化": {
-      "id": "skill/规划/Teb参数优化",
-      "title": "Teb参数优化",
-      "description": "代价地图问题：",
+    "skill/C/C_Basic/C_control_flow": {
+      "id": "skill/C/C_Basic/C_control_flow",
+      "title": "C 控制流",
+      "description": "C 判断",
       "sidebar": "skill"
     },
-    "skill/规划/Teb算法": {
-      "id": "skill/规划/Teb算法",
-      "title": "Teb算法",
-      "description": "局部路径规划需要的输入与输出",
+    "skill/C/C_Basic/C_datetype": {
+      "id": "skill/C/C_Basic/C_datetype",
+      "title": "C 数据类型",
+      "description": "1.基本概念",
       "sidebar": "skill"
     },
-    "skill/机器学习/机器学习概述": {
-      "id": "skill/机器学习/机器学习概述",
-      "title": "什么是机器学习？",
-      "description": "机器学习是人工智能的一个子集，顾名思义，它是机器自身学习的能力，前提是它有一个预先存在的数据集或过去处理过的信息。",
+    "skill/C/C_Basic/C_environment_settings": {
+      "id": "skill/C/C_Basic/C_environment_settings",
+      "title": "C 环境设置",
+      "description": "本地环境设置",
       "sidebar": "skill"
     },
-    "skill/软件安装&环境配置/编译安装robot_pose_ekf功能包": {
-      "id": "skill/软件安装&环境配置/编译安装robot_pose_ekf功能包",
-      "title": "编译安装robot_pose_ekf功能包",
-      "description": "使用源码安装",
+    "skill/C/C_Basic/C_function": {
+      "id": "skill/C/C_Basic/C_function",
+      "title": "C 函数",
+      "description": "1.函数的定义",
       "sidebar": "skill"
     },
-    "skill/软件安装&环境配置/妙算MANIFOLD 2-G系统还原、使用教程": {
-      "id": "skill/软件安装&环境配置/妙算MANIFOLD 2-G系统还原、使用教程",
-      "title": "妙算MANIFOLD 2-G系统还原、使用教程",
-      "description": "Manifold2简介",
+    "skill/C/C_Basic/C_function_order": {
+      "id": "skill/C/C_Basic/C_function_order",
+      "title": "C 函数进阶",
+      "description": "1. 栈的概念",
       "sidebar": "skill"
     },
-    "skill/软件安装&环境配置/在vscode上搭建ROS环境": {
-      "id": "skill/软件安装&环境配置/在vscode上搭建ROS环境",
-      "title": "在vscode上搭建ROS环境",
-      "description": "安装vscode集成ROS插件",
+    "skill/C/C_Basic/C_keyword": {
+      "id": "skill/C/C_Basic/C_keyword",
+      "title": "C 关键字",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/软件安装&环境配置/nodejs16以上版本安装以及yarn、npm的安装": {
-      "id": "skill/软件安装&环境配置/nodejs16以上版本安装以及yarn、npm的安装",
-      "title": "nodejs16以上版本安装以及yarn、npm的安装",
-      "description": "前言",
+    "skill/C/C_Basic/C_memory": {
+      "id": "skill/C/C_Basic/C_memory",
+      "title": "C 内存空间",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/软件安装&环境配置/RoboWare的安装": {
-      "id": "skill/软件安装&环境配置/RoboWare的安装",
-      "title": "RoboWare的安装",
-      "description": "RoboWare软件包下载链接",
+    "skill/C/C_Basic/C_operator": {
+      "id": "skill/C/C_Basic/C_operator",
+      "title": "C 运算符",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/软件安装&环境配置/Ubuntu配置opencv4": {
-      "id": "skill/软件安装&环境配置/Ubuntu配置opencv4",
-      "title": "Ubuntu配置opencv4",
-      "description": "本文转载于：Ubuntu18.04 vscode(c++)配置opencv successful",
-      "sidebar": "skill"
+    "skill/C/C_Basic/C_other": {
+      "id": "skill/C/C_Basic/C_other",
+      "title": "C 杂项",
+      "description": "|   大端序   | 0000 0000 | 0000 0000 | 0000 0000 | 0000 0001 |"
     },
-    "skill/有用的小知识/多传感器信息融合理论": {
-      "id": "skill/有用的小知识/多传感器信息融合理论",
-      "title": "多传感器信息融合理论",
-      "description": "信息融合的体系框架",
+    "skill/C/C_Basic/C_pointer": {
+      "id": "skill/C/C_Basic/C_pointer",
+      "title": "C 指针基础",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/有用的小知识/搜索小技巧": {
-      "id": "skill/有用的小知识/搜索小技巧",
-      "title": "搜索小技巧",
-      "description": "intitle",
+    "skill/C/C_Basic/C_pointer_and_array": {
+      "id": "skill/C/C_Basic/C_pointer_and_array",
+      "title": "C 指针和数组",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/有用的小知识/NTFS-FAT32-exFAT文件系统": {
-      "id": "skill/有用的小知识/NTFS-FAT32-exFAT文件系统",
-      "title": "NTFS-FAT32-exFAT文件系统",
-      "description": "什么是文件系统？",
+    "skill/C/C_Basic/C_pointer_array_and_pointer_array": {
+      "id": "skill/C/C_Basic/C_pointer_array_and_pointer_array",
+      "title": "C 指针数组和数组指针",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/有用的小知识/proto文件": {
-      "id": "skill/有用的小知识/proto文件",
-      "title": "proto文件",
-      "description": "proto文件简介",
+    "skill/C/C_Basic/C_pointer_High_level_issues": {
+      "id": "skill/C/C_Basic/C_pointer_High_level_issues",
+      "title": "C 指针进阶",
+      "description": "1. 各种指针",
       "sidebar": "skill"
     },
-    "skill/autoware/Autoware学习笔记-1-Autoware介绍及安装": {
-      "id": "skill/autoware/Autoware学习笔记-1-Autoware介绍及安装",
-      "title": "Autoware学习笔记-1-Autoware介绍及安装",
-      "description": "autoware主体简介",
+    "skill/C/C_Basic/C_pretreatment": {
+      "id": "skill/C/C_Basic/C_pretreatment",
+      "title": "C 预处理器",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/autoware/ndt_matching": {
-      "id": "skill/autoware/ndt_matching",
-      "title": "ndt_matching",
-      "description": "Localization模块",
+    "skill/C/C_Basic/C_program_structure": {
+      "id": "skill/C/C_Basic/C_program_structure",
+      "title": "C 程序结构",
+      "description": "C 第一个程序",
       "sidebar": "skill"
     },
-    "skill/C++/抽象类接口": {
-      "id": "skill/C++/抽象类接口",
-      "title": "抽象类接口",
-      "description": "什么是接口？",
+    "skill/C/C_Basic/C_scope": {
+      "id": "skill/C/C_Basic/C_scope",
+      "title": "C 作用域、存储期",
+      "description": "1. 作用域",
       "sidebar": "skill"
     },
-    "skill/C++/错误流与日志流": {
-      "id": "skill/C++/错误流与日志流",
-      "title": "错误流与日志流",
-      "description": "标准错误流cerr",
+    "skill/C/C_Basic/C_struct": {
+      "id": "skill/C/C_Basic/C_struct",
+      "title": "C 结构体",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/C++/当回调函数写在类中，如何写subscribe的回调函数": {
-      "id": "skill/C++/当回调函数写在类中，如何写subscribe的回调函数",
-      "title": "当回调函数写在类中，如何写subscribe的回调函数",
-      "description": "当回调函数写在类中，如何写subscribe的回调函数",
+    "skill/C/C_Basic/C_struct_size": {
+      "id": "skill/C/C_Basic/C_struct_size",
+      "title": "C 结构体字节数",
+      "description": "1. 字节概念",
       "sidebar": "skill"
     },
-    "skill/C++/多态&虚函数": {
-      "id": "skill/C++/多态&虚函数",
-      "title": "多态&虚函数",
-      "description": "多态的作用",
+    "skill/C/C_Basic/C_two_pointer": {
+      "id": "skill/C/C_Basic/C_two_pointer",
+      "title": "C 指针的指针",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/C++/反斜杠符": {
-      "id": "skill/C++/反斜杠符",
-      "title": "反斜杠符",
-      "description": "反斜杠符(强制换行符，衔接上下两行的意思)",
+    "skill/C/C_Basic/C_typedef": {
+      "id": "skill/C/C_Basic/C_typedef",
+      "title": "C typedef",
+      "description": "C 语言提供了 typedef 关键字，可以使用它来为类型取一个新的名字。",
       "sidebar": "skill"
     },
-    "skill/C++/宏定义": {
-      "id": "skill/C++/宏定义",
-      "title": "宏定义",
-      "description": "ifndef&#define",
+    "skill/C/C_Basic/C_union_enum": {
+      "id": "skill/C/C_Basic/C_union_enum",
+      "title": "C 枚举、联合体",
+      "description": "C 枚举",
       "sidebar": "skill"
     },
-    "skill/C++/继承": {
-      "id": "skill/C++/继承",
-      "title": "继承",
-      "description": "为什么要使用继承",
+    "skill/C/C_Basic/C_variable_constant": {
+      "id": "skill/C/C_Basic/C_variable_constant",
+      "title": "C 变量和常量",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/C++/科学计数法": {
-      "id": "skill/C++/科学计数法",
-      "title": "科学计数法",
-      "description": "C++ 科学计数法",
+    "skill/C/C_Data_Structure/binary_tree": {
+      "id": "skill/C/C_Data_Structure/binary_tree",
+      "title": "二叉树",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/C++/内联函数": {
-      "id": "skill/C++/内联函数",
-      "title": "内联函数",
-      "description": "为什么要使用内联函数的原因",
+    "skill/C/C_Data_Structure/data_structure": {
+      "id": "skill/C/C_Data_Structure/data_structure",
+      "title": "数据结构简介",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/C++/判断表达式的使用": {
-      "id": "skill/C++/判断表达式的使用",
-      "title": "判断表达式的使用",
-      "description": "C++的判断表达式的表现力相当丰富",
+    "skill/C/C_Data_Structure/double_linked_list": {
+      "id": "skill/C/C_Data_Structure/double_linked_list",
+      "title": "双向循环链表",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/C++/使用new在堆创建对象": {
-      "id": "skill/C++/使用new在堆创建对象",
-      "title": "使用new在堆创建对象",
-      "description": "使用new在堆上创建出来的对象是匿名的，没法直接使用，必须要用一个指针指向它，在借助指针来访问它的成员变量或成员函数。",
+    "skill/C/C_Data_Structure/inline_list": {
+      "id": "skill/C/C_Data_Structure/inline_list",
+      "title": "内核链表",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/C++/数据抽象数据封装": {
-      "id": "skill/C++/数据抽象数据封装",
-      "title": "数据抽象数据封装",
-      "description": "数据抽象",
+    "skill/C/C_Data_Structure/linear_table": {
+      "id": "skill/C/C_Data_Structure/linear_table",
+      "title": "线性表",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/C++/头文件定义的通用模板": {
-      "id": "skill/C++/头文件定义的通用模板",
-      "title": "头文件定义的通用模板",
-      "description": "在C++头文件中使用#ifndef、#define和#endif是为了防止头文件的重复包含，这是一种常见的防御性编程技术，也被称为头文件保护或者条件编译。",
+    "skill/C/C_Data_Structure/queue": {
+      "id": "skill/C/C_Data_Structure/queue",
+      "title": "队列",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/C++/友元函数": {
-      "id": "skill/C++/友元函数",
-      "title": "友元函数",
-      "description": "类的友元函数是定义在类外部，但有权访问类的所有私有（private）成员和保护（protected）成员。尽管友元函数的原型有在类的定义中出现过，但是友元函数并不是成员函数",
+    "skill/C/C_Data_Structure/single_linked_list": {
+      "id": "skill/C/C_Data_Structure/single_linked_list",
+      "title": "单向链表",
+      "description": "1.基本概念",
       "sidebar": "skill"
     },
-    "skill/C++/在指定路径下自动创建文件夹": {
-      "id": "skill/C++/在指定路径下自动创建文件夹",
-      "title": "在指定路径下自动创建文件夹",
-      "description": "如何使用C++在给定路径下创建一个名为xxxxxxxxx的文件夹",
+    "skill/C/C_Data_Structure/singly_loop_linked_list": {
+      "id": "skill/C/C_Data_Structure/singly_loop_linked_list",
+      "title": "单向循环链表",
+      "description": "1. 单向循环链表",
       "sidebar": "skill"
     },
-    "skill/C++/指向类、结构体的指针": {
-      "id": "skill/C++/指向类、结构体的指针",
-      "title": "指向类、结构体的指针",
-      "description": "C++ 指向类/结构体的指针",
+    "skill/C/C_Data_Structure/stack": {
+      "id": "skill/C/C_Data_Structure/stack",
+      "title": "顺序栈和链式栈",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/C++/重载函数": {
-      "id": "skill/C++/重载函数",
-      "title": "重载函数",
-      "description": "重载函数简介",
+    "skill/C/FILE_IO/dir": {
+      "id": "skill/C/FILE_IO/dir",
+      "title": "目录检索",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/C++/auto关键字": {
-      "id": "skill/C++/auto关键字",
-      "title": "auto关键字",
-      "description": "C++11 auto 关键字介绍",
+    "skill/C/FILE_IO/file": {
+      "id": "skill/C/FILE_IO/file",
+      "title": "一切皆文件",
+      "description": "1. 文件概念",
       "sidebar": "skill"
     },
-    "skill/C++/C++ 测试程序运行时间": {
-      "id": "skill/C++/C++ 测试程序运行时间",
-      "title": "C++ 测试程序运行时间",
-      "description": "使用C++ clock()函数",
+    "skill/C/FILE_IO/standard_io": {
+      "id": "skill/C/FILE_IO/standard_io",
+      "title": "标准IO",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/C++/C++11 move()函数": {
-      "id": "skill/C++/C++11 move()函数",
-      "title": "C++11 move()函数",
-      "description": "move()函数作用：将左值强制转换为右值并且得到堆内存的所有权。",
+    "skill/C/FILE_IO/stat": {
+      "id": "skill/C/FILE_IO/stat",
+      "title": "文件属性",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/C++/C++可变参数模板": {
-      "id": "skill/C++/C++可变参数模板",
-      "title": "C++可变参数模板",
-      "description": "可变参数模板介绍",
+    "skill/C/FILE_IO/system_io": {
+      "id": "skill/C/FILE_IO/system_io",
+      "title": "系统IO",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/C++/C++使用ifdef控制部分代码开或关": {
-      "id": "skill/C++/C++使用ifdef控制部分代码开或关",
-      "title": "C++使用ifdef控制部分代码开或关",
-      "description": "在C++中，#ifdef 和相关的预处理指令可用于条件编译，这允许你根据编译时定义的宏来控制部分代码的打开或关闭。以下是如何使用 #ifdef 来实现条件编译的基本方法：",
+    "skill/C/Network/socket": {
+      "id": "skill/C/Network/socket",
+      "title": "套接字",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/C++/C++智能指针": {
-      "id": "skill/C++/C++智能指针",
-      "title": "C++智能指针",
-      "description": "类如何释放资源？",
-      "sidebar": "skill"
+    "skill/C/Network/tcp": {
+      "id": "skill/C/Network/tcp",
+      "title": "TCP网络编程",
+      "description": "1. 基本概念"
     },
-    "skill/C++/CMake学习笔记": {
-      "id": "skill/C++/CMake学习笔记",
-      "title": "CMake学习笔记",
-      "description": "什么是CMake？",
+    "skill/C/System/cond": {
+      "id": "skill/C/System/cond",
+      "title": "条件变量",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/C++/const与define": {
-      "id": "skill/C++/const与define",
-      "title": "const与define",
-      "description": "const 与 #define",
+    "skill/C/System/ipc": {
+      "id": "skill/C/System/ipc",
+      "title": "IPC 简介",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/C++/gcc编译器和g++编译器有何区别": {
-      "id": "skill/C++/gcc编译器和g++编译器有何区别",
-      "title": "gcc编译器和g++编译器有何区别",
-      "description": "在Ubuntu和其他Linux发行版中，gcc 和 g++ 都是GNU编译器集合（GNU Compiler Collection）的一部分，但它们有一些区别，主要取决于你要编译的源代码的类型和目的。",
+    "skill/C/System/msg": {
+      "id": "skill/C/System/msg",
+      "title": "消息队列(MSG)",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/C++/Google代码风格C++篇": {
-      "id": "skill/C++/Google代码风格C++篇",
-      "title": "Google代码风格C++篇",
-      "description": "- 变量命名：",
+    "skill/C/System/mutex": {
+      "id": "skill/C/System/mutex",
+      "title": "互斥锁",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/C++/map": {
-      "id": "skill/C++/map",
-      "title": "map",
-      "description": "Map简介",
+    "skill/C/System/pipe": {
+      "id": "skill/C/System/pipe",
+      "title": "管道(PIPE)",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/C++/std::bind函数": {
-      "id": "skill/C++/std::bind函数",
-      "title": "std::bind函数",
-      "description": "什么是 std::bind?",
+    "skill/C/System/posix": {
+      "id": "skill/C/System/posix",
+      "title": "POSIX信号量",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/C++/std::ofstream  与 std::fstream": {
-      "id": "skill/C++/std::ofstream  与 std::fstream",
-      "title": "std::ofstream  与 std::fstream",
-      "description": "std::fstream",
+    "skill/C/System/pro_api": {
+      "id": "skill/C/System/pro_api",
+      "title": "进程重要API",
+      "description": "1. 获取进程ID",
       "sidebar": "skill"
     },
-    "skill/C++/vector": {
-      "id": "skill/C++/vector",
-      "title": "vector",
-      "description": "vector简介",
+    "skill/C/System/process": {
+      "id": "skill/C/System/process",
+      "title": "Linux 进程入门",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/ChatGPT/ChatGPT注册账号教程": {
-      "id": "skill/ChatGPT/ChatGPT注册账号教程",
-      "title": "ChatGPT注册账号教程",
-      "description": "注册ChatGPT账号步骤",
+    "skill/C/System/reen": {
+      "id": "skill/C/System/reen",
+      "title": "可重入函数",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/docusaurus/docusaurus-comment": {
-      "id": "skill/docusaurus/docusaurus-comment",
-      "title": "评论服务",
-      "description": "这里推荐两种评论服务",
+    "skill/C/System/rwlock": {
+      "id": "skill/C/System/rwlock",
+      "title": "读写锁",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/docusaurus/docusaurus-component": {
-      "id": "skill/docusaurus/docusaurus-component",
-      "title": "自定义组件",
-      "description": "初始化的一个 docusaurus 项目就已经有预留好的的组件，例如博客布局，标签页归档页等等。但是这些组件的样式可能不满你的审美，或者是想增加在这些主题组件中增加点东西。那么就需要用到 Swizzle",
+    "skill/C/System/sem": {
+      "id": "skill/C/System/sem",
+      "title": "信号量(SEM)",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/docusaurus/docusaurus-config": {
-      "id": "skill/docusaurus/docusaurus-config",
-      "title": "配置文件",
-      "description": "docusaurus.config.js",
+    "skill/C/System/shm": {
+      "id": "skill/C/System/shm",
+      "title": "共享内存(SHM)",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/docusaurus/docusaurus-deploy": {
-      "id": "skill/docusaurus/docusaurus-deploy",
-      "title": "部署",
-      "description": "我之前使用 Vercel 一把梭，无需任何配置，我只需要专注输出内容即可，这是我当时使用 Vercel 部署的文章 Vercel部署个人博客",
+    "skill/C/System/signal": {
+      "id": "skill/C/System/signal",
+      "title": "信号(SIG)",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/docusaurus/docusaurus-guides": {
-      "id": "skill/docusaurus/docusaurus-guides",
-      "title": "Docusaurus 主题魔改",
-      "description": "这里是本人对 Docusaurus 的魔改指南，帮助使用者更好使用 Docusaurus。",
+    "skill/C/System/thread": {
+      "id": "skill/C/System/thread",
+      "title": "Linux 线程入门",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/docusaurus/docusaurus-plugin": {
-      "id": "skill/docusaurus/docusaurus-plugin",
-      "title": "插件",
-      "description": "在 docusaurus.config.js 下的 plugins，可以看到所有插件以及插件配置。",
+    "skill/C/System/thread_pool": {
+      "id": "skill/C/System/thread_pool",
+      "title": "线程池",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/docusaurus/docusaurus-search": {
-      "id": "skill/docusaurus/docusaurus-search",
-      "title": "搜索",
-      "description": "搜索 | Docusaurus",
+    "skill/C/System/thread_scheduling": {
+      "id": "skill/C/System/thread_scheduling",
+      "title": "Linux 线程调度",
+      "description": "1. 基本概念",
       "sidebar": "skill"
     },
-    "skill/docusaurus/docusaurus-style": {
-      "id": "skill/docusaurus/docusaurus-style",
-      "title": "样式与页面",
-      "description": "样式和布局",
-      "sidebar": "skill"
+    "skill/hardware/circuit/dc-dc": {
+      "id": "skill/hardware/circuit/dc-dc",
+      "title": "DC-DC电路",
+      "description": ""
     },
-    "skill/git/超时-无法读取远程仓库": {
-      "id": "skill/git/超时-无法读取远程仓库",
-      "title": "超时-无法读取远程仓库",
-      "description": "问题的发现经过结果",
+    "skill/hardware/component/Cap": {
+      "id": "skill/hardware/component/Cap",
+      "title": "电容",
+      "description": "",
       "sidebar": "skill"
     },
-    "skill/git/git分支管理": {
-      "id": "skill/git/git分支管理",
-      "title": "git分支管理",
-      "description": "分支策略",
+    "skill/hardware/component/MOS": {
+      "id": "skill/hardware/component/MOS",
+      "title": "MOS管",
+      "description": "",
       "sidebar": "skill"
     },
-    "skill/git/git教程": {
-      "id": "skill/git/git教程",
-      "title": "git教程",
-      "description": "装机完毕后会用到git这个工具管理代码，下面我来介绍git的一些用法",
+    "skill/hardware/component/Res": {
+      "id": "skill/hardware/component/Res",
+      "title": "电阻",
+      "description": "1. 电阻的常见作用",
       "sidebar": "skill"
-    },
-    "skill/HTML&CSS/CSS盒子模型": {
-      "id": "skill/HTML&CSS/CSS盒子模型",
-      "title": "CSS盒子模型",
-      "description": "Block、Inline、Inline-Block"
-    },
-    "skill/HTML&CSS/CSS学习笔记": {
-      "id": "skill/HTML&CSS/CSS学习笔记",
-      "title": "CSS学习笔记",
-      "description": "什么是CSS?"
-    },
-    "skill/HTML&CSS/HTML常用元素": {
-      "id": "skill/HTML&CSS/HTML常用元素",
-      "title": "HTML常用元素",
-      "description": "``:定义一个段落"
-    },
-    "skill/HTML&CSS/HTML学习笔记": {
-      "id": "skill/HTML&CSS/HTML学习笔记",
-      "title": "HTML学习笔记",
-      "description": "什么是HTML？"
     },
     "skill/introduction": {
       "id": "skill/introduction",
       "title": "技术笔记简介",
-      "description": "本页面为个人学习中所涉及相关技术的笔记汇总，包含但不限于",
+      "description": "👋 Hi there",
       "sidebar": "skill"
     },
-    "skill/Math/最小二乘法": {
-      "id": "skill/Math/最小二乘法",
-      "title": "最小二乘法",
-      "description": "简单线性回归",
+    "skill/linux/Linux_introduction": {
+      "id": "skill/linux/Linux_introduction",
+      "title": "Linux 概述",
+      "description": "Linux 简介",
       "sidebar": "skill"
     },
-    "skill/MoveIt机械臂/MoveIt入门学习笔记": {
-      "id": "skill/MoveIt机械臂/MoveIt入门学习笔记",
-      "title": "MoveIt入门学习笔记",
-      "description": "机械臂的应用介绍",
+    "skill/linux/Linux_shell": {
+      "id": "skill/linux/Linux_shell",
+      "title": "Linux Shell",
+      "description": "1. Shell 的特点",
       "sidebar": "skill"
     },
-    "skill/MySQL/mysql-note": {
-      "id": "skill/MySQL/mysql-note",
-      "title": "MySql笔记",
-      "description": "1、前言",
+    "skill/motor/pmsm/pmsm_motor": {
+      "id": "skill/motor/pmsm/pmsm_motor",
+      "title": "永磁同步电机",
+      "description": "1. 三相 PMSM 基本数学模型",
       "sidebar": "skill"
     },
-    "skill/MySQL/mysql踩坑记": {
-      "id": "skill/MySQL/mysql踩坑记",
-      "title": "mysql踩坑记",
-      "description": "如何使用mysql创建一个数据库",
+    "skill/other/look-up-port-and-kill-process": {
+      "id": "skill/other/look-up-port-and-kill-process",
+      "title": "查看端口占用及结束进程",
+      "description": "Linux",
       "sidebar": "skill"
     },
-    "skill/MySQL/MySQL操作指令": {
-      "id": "skill/MySQL/MySQL操作指令",
-      "title": "MySQL操作指令",
-      "description": "查看名为ppn_data数据库的内存大小",
-      "sidebar": "skill"
+    "tools/everything-quick-search-local-files": {
+      "id": "tools/everything-quick-search-local-files",
+      "title": "Everything快速搜索本地文件",
+      "description": "everything-Everything",
+      "sidebar": "tools"
     },
-    "skill/MySQL/mysql数据库迁移": {
-      "id": "skill/MySQL/mysql数据库迁移",
-      "title": "mysql数据库迁移",
-      "description": "将数据从ubuntu20.04迁移至ubuntu18.04",
-      "sidebar": "skill"
+    "tools/introduction": {
+      "id": "tools/introduction",
+      "title": "高效工作指南",
+      "description": "工欲善其事，必先利其器",
+      "sidebar": "tools"
     },
-    "skill/MySQL/mysql与influxDB的区别": {
-      "id": "skill/MySQL/mysql与influxDB的区别",
-      "title": "mysql与influxDB的区别",
-      "description": "什么是时序数据库",
-      "sidebar": "skill"
+    "tools/vscode-config": {
+      "id": "tools/vscode-config",
+      "title": "VScode相关配置",
+      "description": "关于 vscode 介绍和安装啥的不在这浪费口舌，上号就完事了！",
+      "sidebar": "tools"
     },
-    "skill/MySQL/SQL笔记": {
-      "id": "skill/MySQL/SQL笔记",
-      "title": "SQL笔记",
-      "description": "MySQL 数据类型",
-      "sidebar": "skill"
+    "tools/windows-custom-right-click-menu": {
+      "id": "tools/windows-custom-right-click-menu",
+      "title": "Windows自定义右键菜单",
+      "description": "为什么写这篇文章呢，因为我每次都要更改鼠标右键菜单都要去百度相关的，然后在照着一步一步操作。甚至我在写这篇文章的时候也百度了相关的内容。到时候忘记了直接看我自己写的就完事了（可能写了之后就记得住了。）",
+      "sidebar": "tools"
     },
-    "skill/MySQL/Ubuntu20.04安装MySQL和MySQL-workbench并连接云端数据库": {
-      "id": "skill/MySQL/Ubuntu20.04安装MySQL和MySQL-workbench并连接云端数据库",
-      "title": "Ubuntu20.04安装MySQL和MySQL-workbench并连接云端数据库",
-      "description": "通过apt方式安装MySQL服务（会安装最新版本）",
-      "sidebar": "skill"
-    },
-    "skill/MySQL/workbench学习笔记": {
-      "id": "skill/MySQL/workbench学习笔记",
-      "title": "MySQL workbench中PK、NN、UQ、BIN、UN、ZF、AI、G这些选项代表的意思是？",
-      "description": "- PK：primary key (column is part of a pk) 主键，一张表里只能有一个，且设置主键的字段必须同时勾上NN，不然会报错",
-      "sidebar": "skill"
-    },
-    "skill/OpenCV/OpenCV检测并解析二维码": {
-      "id": "skill/OpenCV/OpenCV检测并解析二维码",
-      "title": "OpenCV检测并解析二维码",
-      "description": "OpenCV4中负责二维码检测与解析的类是QRCodeDetector",
-      "sidebar": "skill"
-    },
-    "skill/Python/互斥锁": {
-      "id": "skill/Python/互斥锁",
-      "title": "互斥锁",
-      "description": "互斥锁的使用",
-      "sidebar": "skill"
-    },
-    "skill/Python/如何安装turtle库": {
-      "id": "skill/Python/如何安装turtle库",
-      "title": "如何安装turtle库",
-      "description": "当我使用pip3 install turtle时，终端会出现如下错误：",
-      "sidebar": "skill"
-    },
-    "skill/Python/如何在ubuntu上运行python文件": {
-      "id": "skill/Python/如何在ubuntu上运行python文件",
-      "title": "如何在ubuntu上运行python文件",
-      "description": "在Ubuntu无需编译.py文件即可运行它。",
-      "sidebar": "skill"
-    },
-    "skill/Python/数据类型检测": {
-      "id": "skill/Python/数据类型检测",
-      "title": "数据类型检测",
-      "description": "功能：使用python检测回调函数进来的数据类型是否是float类型的，如果不是则将数据打印出来",
-      "sidebar": "skill"
-    },
-    "skill/Python/遇到非ASCII字符问题": {
-      "id": "skill/Python/遇到非ASCII字符问题",
-      "title": "遇到非ASCII字符问题",
-      "description": "问题描述：",
-      "sidebar": "skill"
-    },
-    "skill/Python/async关键字": {
-      "id": "skill/Python/async关键字",
-      "title": "async关键字",
-      "description": "python函数中async def添加async关键字的作用是？",
-      "sidebar": "skill"
-    },
-    "skill/Python/python对json&yaml的操作": {
-      "id": "skill/Python/python对json&yaml的操作",
-      "title": "python对json&yaml的操作",
-      "description": "使用python加载json数据",
-      "sidebar": "skill"
-    },
-    "skill/Python/python简介": {
-      "id": "skill/Python/python简介",
-      "title": "python简介",
-      "description": "python冷知识",
-      "sidebar": "skill"
-    },
-    "skill/ROS/如何在ros-noetic下打开realsense D435相机": {
-      "id": "skill/ROS/如何在ros-noetic下打开realsense D435相机",
-      "title": "如何在ros-noetic下打开realsense D435相机",
-      "description": "如何在ros-noetic下打开realsense D435相机",
-      "sidebar": "skill"
-    },
-    "skill/ROS/使用脚本一键安装ROS": {
-      "id": "skill/ROS/使用脚本一键安装ROS",
-      "title": "使用脚本一键安装ROS",
-      "description": "1 特性",
-      "sidebar": "skill"
-    },
-    "skill/ROS/使用ros::package::getPath()获取功能包的全局路径": {
-      "id": "skill/ROS/使用ros::package::getPath()获取功能包的全局路径",
-      "title": "使用ros::package::getPath()获取功能包的全局路径",
-      "description": "- C++版本：",
-      "sidebar": "skill"
-    },
-    "skill/ROS/四元数": {
-      "id": "skill/ROS/四元数",
-      "title": "四元数",
-      "description": "为什么要用四元数而不用欧拉角",
-      "sidebar": "skill"
-    },
-    "skill/ROS/添加自定义消息类型，如何修改CMakeLists.txt的内容": {
-      "id": "skill/ROS/添加自定义消息类型，如何修改CMakeLists.txt的内容",
-      "title": "添加自定义消息类型，如何修改CMakeLists.txt的内容",
-      "description": "ROS添加自定义消息类型，如何修改CMakeLists.txt的内容",
-      "sidebar": "skill"
-    },
-    "skill/ROS/专治ROS各种疑难杂症": {
-      "id": "skill/ROS/专治ROS各种疑难杂症",
-      "title": "专治ROS各种疑难杂症",
-      "description": "ROS依赖不会被安装报错问题",
-      "sidebar": "skill"
-    },
-    "skill/ROS/ROS-2浅述": {
-      "id": "skill/ROS/ROS-2浅述",
-      "title": "ROS-2浅述",
-      "description": "ROS-2为什么会出现",
-      "sidebar": "skill"
-    },
-    "skill/ROS/ros-learning-tf": {
-      "id": "skill/ROS/ros-learning-tf",
-      "title": "TF学习笔记",
-      "description": "前言",
-      "sidebar": "skill"
-    },
-    "skill/ROS/ROS-melodic的安装与卸载": {
-      "id": "skill/ROS/ROS-melodic的安装与卸载",
-      "title": "ROS-melodic的安装与卸载",
-      "description": "安装ROS",
-      "sidebar": "skill"
-    },
-    "skill/ROS/ROS常用工具": {
-      "id": "skill/ROS/ROS常用工具",
-      "title": "ROS常用工具",
-      "description": "rqt",
-      "sidebar": "skill"
-    },
-    "skill/ROS/ROS常用指令": {
-      "id": "skill/ROS/ROS常用指令",
-      "title": "ROS常用指令",
-      "description": "rostopic list -v 列出正在发布的主题",
-      "sidebar": "skill"
-    },
-    "skill/ROS/ROS分布式通讯": {
-      "id": "skill/ROS/ROS分布式通讯",
-      "title": "ROS分布式通讯",
-      "description": "ROS是一种分布式软件框架，节点之间通过松耦合的方式进行组合，在很多应用场景下，节点可以运行在不同的计算平台上，通过Topic、Service进行通信。但是ROS中只允许存在一个Master，在多机系统中Master只能运行在一台机器上，其他机器需要通过ssh的方式和Master取得联系,所以在多机ROS系统中需要进行一些配置。",
-      "sidebar": "skill"
-    },
-    "skill/ROS/ROS入门之launch": {
-      "id": "skill/ROS/ROS入门之launch",
-      "title": "ROS入门之launch",
-      "description": "这篇文章总结的挺好，在此贴出链接",
-      "sidebar": "skill"
-    },
-    "skill/ROS/spin()与spinOnce()的区别": {
-      "id": "skill/ROS/spin()与spinOnce()的区别",
-      "title": "spin()与spinOnce()的区别",
-      "description": "ros消息回调处理函数ros::spinOnce()的区别",
-      "sidebar": "skill"
-    },
-    "skill/ROS/TF": {
-      "id": "skill/ROS/TF",
-      "title": "TF",
-      "description": "一.tf摘要",
-      "sidebar": "skill"
-    },
-    "skill/Sensor/Camera/迈德威视MV-SUA133GC-T工业相机驱安装": {
-      "id": "skill/Sensor/Camera/迈德威视MV-SUA133GC-T工业相机驱安装",
-      "title": "迈德威视MV-SUA133GC-T工业相机驱安装",
-      "description": "1.首先要下载一个驱动文件:",
-      "sidebar": "skill"
-    },
-    "skill/Sensor/Camera/使用ROS对相机进行内参标定": {
-      "id": "skill/Sensor/Camera/使用ROS对相机进行内参标定",
-      "title": "使用ROS对相机进行内参标定",
-      "description": "摄像头为什么要进行内参标定？",
-      "sidebar": "skill"
-    },
-    "skill/Sensor/Camera/Azure Kinect DK 深度相机工作原理": {
-      "id": "skill/Sensor/Camera/Azure Kinect DK 深度相机工作原理",
-      "title": "Azure Kinect DK 深度相机工作原理",
-      "description": "Azure Kinect DK 深度相机实现调幅连续波 (AMCW) 时差测距 (ToF) 原理。 该相机将近红外 (NIR) 频谱中的调制光投射到场景中。 然后，它会记录光线从相机传播到场景，然后从场景返回到相机所花费的间接时间测量值",
-      "sidebar": "skill"
-    },
-    "skill/Sensor/Camera/RealSense相机": {
-      "id": "skill/Sensor/Camera/RealSense相机",
-      "title": "RealSense相机",
-      "description": "检测系统当前D435相机数量",
-      "sidebar": "skill"
-    },
-    "skill/Sensor/GPS/GPS工作原理": {
-      "id": "skill/Sensor/GPS/GPS工作原理",
-      "title": "GPS工作原理",
-      "description": "GPS全称为全球定位系统，是无人驾驶中不可或缺的一项技术",
-      "sidebar": "skill"
-    },
-    "skill/Sensor/IMU/IMU工作原理": {
-      "id": "skill/Sensor/IMU/IMU工作原理",
-      "title": "IMU工作原理",
-      "description": "IMU：Inertial Measurement Unit，即惯性测量单元",
-      "sidebar": "skill"
-    },
-    "skill/Sensor/Lidar/初玩Livox Mid-70": {
-      "id": "skill/Sensor/Lidar/初玩Livox Mid-70",
-      "title": "初玩Livox Mid-70",
-      "description": "Livox的一些概述",
-      "sidebar": "skill"
-    },
-    "skill/Sensor/Lidar/单线激光雷达特征提取实验": {
-      "id": "skill/Sensor/Lidar/单线激光雷达特征提取实验",
-      "title": "单线激光雷达特征提取实验",
-      "description": "ROS如何获取激光雷达扫描的每个点云（x，y，z）位置信息?",
-      "sidebar": "skill"
-    },
-    "skill/Sensor/Lidar/激光雷达滤波器": {
-      "id": "skill/Sensor/Lidar/激光雷达滤波器",
-      "title": "激光雷达滤波器",
-      "description": "当2d激光雷达放在车的底盘时，由于四周轮子的遮挡，会出现机器人把自己轮子当成障碍物产生错误的运动的情况，所以我们要将激光雷达扫描到四周的轮子的信息屏蔽掉，我们决定使用laser_filters来滤除轮子的点云信息。",
-      "sidebar": "skill"
-    },
-    "skill/Sensor/Lidar/激光雷达特征提取与拟合路径": {
-      "id": "skill/Sensor/Lidar/激光雷达特征提取与拟合路径",
-      "title": "激光雷达特征提取与拟合路径",
-      "description": "激光雷达特征提取",
-      "sidebar": "skill"
-    },
-    "skill/Sensor/Lidar/两种激光雷达数据赋值方法": {
-      "id": "skill/Sensor/Lidar/两种激光雷达数据赋值方法",
-      "title": "两种激光雷达数据赋值方法",
-      "description": "前言",
-      "sidebar": "skill"
-    },
-    "skill/Sensor/Lidar/深度相机做伪2D激光雷达": {
-      "id": "skill/Sensor/Lidar/深度相机做伪2D激光雷达",
-      "title": "深度相机做伪2D激光雷达",
-      "description": "介绍",
-      "sidebar": "skill"
-    },
-    "skill/Sensor/Lidar/双2d激光雷达数据拼接": {
-      "id": "skill/Sensor/Lidar/双2d激光雷达数据拼接",
-      "title": "双2d激光雷达数据拼接",
-      "description": "为什么要做雷达数据拼接",
-      "sidebar": "skill"
-    },
-    "skill/Ubuntu/常用shell脚本指令": {
-      "id": "skill/Ubuntu/常用shell脚本指令",
-      "title": "常用shell脚本指令",
-      "description": "1. shebang（脚本头）： 在脚本文件的第一行，指定解释器。对于Bash脚本，通常是#!/bin/bash。",
-      "sidebar": "skill"
-    },
-    "skill/Ubuntu/外设端口映射配置": {
-      "id": "skill/Ubuntu/外设端口映射配置",
-      "title": "外设端口映射配置",
-      "description": "根据硬件接口（串口，USB或者ACM）来配置/etc/udev/rules.d中的udev文件，实现ydlidar-G4激光雷达的设备绑定",
-      "sidebar": "skill"
-    },
-    "skill/Ubuntu/一些Ubuntu上好用的工具": {
-      "id": "skill/Ubuntu/一些Ubuntu上好用的工具",
-      "title": "一些Ubuntu上好用的工具",
-      "description": "需自行去官网下载对应的deb包，使用dpkg进行安装",
-      "sidebar": "skill"
-    },
-    "skill/Ubuntu/专治Ubuntu各种疑难杂症": {
-      "id": "skill/Ubuntu/专治Ubuntu各种疑难杂症",
-      "title": "专治Ubuntu各种疑难杂症",
-      "description": "拯救者y7000连不上WIFI怎么办？",
-      "sidebar": "skill"
-    },
-    "skill/Ubuntu/ubuntu常用指令合集": {
-      "id": "skill/Ubuntu/ubuntu常用指令合集",
-      "title": "ubuntu常用指令合集",
-      "description": "watch 在终端中周期性地运行指定的命令",
-      "sidebar": "skill"
-    },
-    "skill/Ubuntu/Ubuntu自启动程序": {
-      "id": "skill/Ubuntu/Ubuntu自启动程序",
-      "title": "Ubuntu自启动程序",
-      "description": "设置免密码登录",
-      "sidebar": "skill"
-    },
-    "skill/Ubuntu/vim用法": {
-      "id": "skill/Ubuntu/vim用法",
-      "title": "vim用法",
-      "description": "1、安装",
-      "sidebar": "skill"
-    },
-    "skill/VSCode/ssh远程连接服务器无法跳转函数定义问题": {
-      "id": "skill/VSCode/ssh远程连接服务器无法跳转函数定义问题",
-      "title": "ssh远程连接服务器无法跳转函数定义问题",
-      "description": "问题描述",
-      "sidebar": "skill"
-    },
-    "skill/VSCode/vscode-path-include": {
-      "id": "skill/VSCode/vscode-path-include",
-      "title": "vscode的include Path找不到头文件",
-      "description": "问题描述：无法打开源文件\"ros/ros.h\"/\"imagetransport/imagetransport.h\"",
-      "sidebar": "skill"
-    },
-    "skill/VSCode/vscode-wrong-define": {
-      "id": "skill/VSCode/vscode-wrong-define",
-      "title": "本地定义了与系统库重名的头文件问题",
-      "description": "问题描述",
-      "sidebar": "skill"
+    "tools/windows-terminal-beautify": {
+      "id": "tools/windows-terminal-beautify",
+      "title": "Windows Terminal美化",
+      "description": "image-20210527065050479",
+      "sidebar": "tools"
     }
   }
 }

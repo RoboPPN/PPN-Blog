@@ -1,0 +1,42 @@
+{
+  "unversionedId": "skill/C/System/ipc",
+  "id": "skill/C/System/ipc",
+  "title": "IPC 简介",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/System/5. ipc.md",
+  "sourceDirName": "skill/C/System",
+  "slug": "/ipc",
+  "permalink": "/docs/ipc",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Linux",
+      "permalink": "/docs/tags/linux"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "ipc",
+    "slug": "/ipc",
+    "title": "IPC 简介",
+    "date": "2022-12-15T00:00:00.000Z",
+    "authors": "disnox",
+    "tags": [
+      "Linux"
+    ],
+    "keywords": [
+      "Linux"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "信号(SIG)",
+    "permalink": "/docs/signal"
+  },
+  "next": {
+    "title": "消息队列(MSG)",
+    "permalink": "/docs/msg"
+  }
+}

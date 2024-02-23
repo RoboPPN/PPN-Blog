@@ -1,0 +1,15 @@
+{
+  "title": "电机控制",
+  "slug": "/category/电机控制",
+  "permalink": "/docs/category/电机控制",
+  "navigation": {
+    "previous": {
+      "title": "MOS管",
+      "permalink": "/docs/MOS"
+    },
+    "next": {
+      "title": "永磁同步电机",
+      "permalink": "/docs/pmsm_motor"
+    }
+  }
+}

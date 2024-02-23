@@ -1,0 +1,42 @@
+{
+  "unversionedId": "skill/C/C_Basic/C_basic_syntax",
+  "id": "skill/C/C_Basic/C_basic_syntax",
+  "title": "C 基础语法",
+  "description": "C 的令牌（Token）",
+  "source": "@site/docs/skill/C/C_Basic/4. C 基本语法.md",
+  "sourceDirName": "skill/C/C_Basic",
+  "slug": "/C_basic_syntax",
+  "permalink": "/docs/C_basic_syntax",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "C/C++",
+      "permalink": "/docs/tags/c-c"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "C_basic_syntax",
+    "slug": "/C_basic_syntax",
+    "title": "C 基础语法",
+    "date": "2022-10-29T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "C/C++"
+    ],
+    "keywords": [
+      "C/C++"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "C 程序结构",
+    "permalink": "/docs/C_program_structure"
+  },
+  "next": {
+    "title": "C 关键字",
+    "permalink": "/docs/C_keyword"
+  }
+}

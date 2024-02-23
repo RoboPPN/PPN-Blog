@@ -1,0 +1,42 @@
+{
+  "unversionedId": "skill/C/System/signal",
+  "id": "skill/C/System/signal",
+  "title": "信号(SIG)",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/System/4. 信号.md",
+  "sourceDirName": "skill/C/System",
+  "slug": "/signal",
+  "permalink": "/docs/signal",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Linux",
+      "permalink": "/docs/tags/linux"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "signal",
+    "slug": "/signal",
+    "title": "信号(SIG)",
+    "date": "2022-12-15T00:00:00.000Z",
+    "authors": "disnox",
+    "tags": [
+      "Linux"
+    ],
+    "keywords": [
+      "Linux"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "管道(PIPE)",
+    "permalink": "/docs/pipe"
+  },
+  "next": {
+    "title": "IPC 简介",
+    "permalink": "/docs/ipc"
+  }
+}

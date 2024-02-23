@@ -1,0 +1,15 @@
+{
+  "title": "杂项",
+  "slug": "/category/杂项",
+  "permalink": "/docs/category/杂项",
+  "navigation": {
+    "previous": {
+      "title": "永磁同步电机",
+      "permalink": "/docs/pmsm_motor"
+    },
+    "next": {
+      "title": "查看端口占用及结束进程",
+      "permalink": "/docs/look-up-port-and-kill-process"
+    }
+  }
+}

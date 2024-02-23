@@ -1,0 +1,47 @@
+{
+  "unversionedId": "tools/windows-terminal-beautify",
+  "id": "tools/windows-terminal-beautify",
+  "title": "Windows Terminal美化",
+  "description": "image-20210527065050479",
+  "source": "@site/docs/tools/Windows Terminal美化.md",
+  "sourceDirName": "tools",
+  "slug": "/windows-terminal-beautify",
+  "permalink": "/docs/windows-terminal-beautify",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Terminal",
+      "permalink": "/docs/tags/terminal"
+    },
+    {
+      "label": "美化",
+      "permalink": "/docs/tags/美化"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "windows-terminal-beautify",
+    "slug": "/windows-terminal-beautify",
+    "title": "Windows Terminal美化",
+    "date": "2021-05-04T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "Terminal",
+      "美化"
+    ],
+    "keywords": [
+      "Terminal",
+      "美化"
+    ]
+  },
+  "sidebar": "tools",
+  "previous": {
+    "title": "Windows自定义右键菜单",
+    "permalink": "/docs/windows-custom-right-click-menu"
+  },
+  "next": {
+    "title": "VScode相关配置",
+    "permalink": "/docs/vscode-config"
+  }
+}

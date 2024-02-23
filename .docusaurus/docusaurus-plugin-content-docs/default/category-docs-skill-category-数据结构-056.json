@@ -1,0 +1,15 @@
+{
+  "title": "数据结构",
+  "slug": "/category/数据结构",
+  "permalink": "/docs/category/数据结构",
+  "navigation": {
+    "previous": {
+      "title": "C 预处理器",
+      "permalink": "/docs/C_pretreatment"
+    },
+    "next": {
+      "title": "数据结构简介",
+      "permalink": "/docs/data_structure"
+    }
+  }
+}

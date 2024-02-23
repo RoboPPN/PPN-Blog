@@ -1,0 +1,63 @@
+{
+  "label": "数据结构",
+  "permalink": "/docs/tags/数据结构",
+  "allTagsPath": "/docs/tags",
+  "count": 9,
+  "items": [
+    {
+      "id": "skill/C/C_Data_Structure/single_linked_list",
+      "title": "单向链表",
+      "description": "1.基本概念",
+      "permalink": "/docs/single_linked_list"
+    },
+    {
+      "id": "skill/C/C_Data_Structure/singly_loop_linked_list",
+      "title": "单向循环链表",
+      "description": "1. 单向循环链表",
+      "permalink": "/docs/singly_loop_linked_list"
+    },
+    {
+      "id": "skill/C/C_Data_Structure/queue",
+      "title": "队列",
+      "description": "1. 基本概念",
+      "permalink": "/docs/queue"
+    },
+    {
+      "id": "skill/C/C_Data_Structure/binary_tree",
+      "title": "二叉树",
+      "description": "1. 基本概念",
+      "permalink": "/docs/binary_tree"
+    },
+    {
+      "id": "skill/C/C_Data_Structure/inline_list",
+      "title": "内核链表",
+      "description": "1. 基本概念",
+      "permalink": "/docs/inline_list"
+    },
+    {
+      "id": "skill/C/C_Data_Structure/data_structure",
+      "title": "数据结构简介",
+      "description": "1. 基本概念",
+      "permalink": "/docs/data_structure"
+    },
+    {
+      "id": "skill/C/C_Data_Structure/double_linked_list",
+      "title": "双向循环链表",
+      "description": "1. 基本概念",
+      "permalink": "/docs/double_linked_list"
+    },
+    {
+      "id": "skill/C/C_Data_Structure/stack",
+      "title": "顺序栈和链式栈",
+      "description": "1. 基本概念",
+      "permalink": "/docs/stack"
+    },
+    {
+      "id": "skill/C/C_Data_Structure/linear_table",
+      "title": "线性表",
+      "description": "1. 基本概念",
+      "permalink": "/docs/linear_table"
+    }
+  ],
+  "unlisted": false
+}

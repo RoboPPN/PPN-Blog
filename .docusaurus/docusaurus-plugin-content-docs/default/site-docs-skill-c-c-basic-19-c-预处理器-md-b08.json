@@ -1,0 +1,42 @@
+{
+  "unversionedId": "skill/C/C_Basic/C_pretreatment",
+  "id": "skill/C/C_Basic/C_pretreatment",
+  "title": "C 预处理器",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/C_Basic/19. C 预处理器.md",
+  "sourceDirName": "skill/C/C_Basic",
+  "slug": "/C_pretreatment",
+  "permalink": "/docs/C_pretreatment",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "C/C++",
+      "permalink": "/docs/tags/c-c"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 19,
+  "frontMatter": {
+    "id": "C_pretreatment",
+    "slug": "/C_pretreatment",
+    "title": "C 预处理器",
+    "date": "2022-11-08T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "C/C++"
+    ],
+    "keywords": [
+      "C/C++"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "C 作用域、存储期",
+    "permalink": "/docs/C_scope"
+  },
+  "next": {
+    "title": "数据结构",
+    "permalink": "/docs/category/数据结构"
+  }
+}

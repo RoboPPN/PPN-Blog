@@ -1,0 +1,49 @@
+{
+  "unversionedId": "tools/vscode-config",
+  "id": "tools/vscode-config",
+  "title": "VScode相关配置",
+  "description": "关于 vscode 介绍和安装啥的不在这浪费口舌，上号就完事了！",
+  "source": "@site/docs/tools/VScode相关配置.md",
+  "sourceDirName": "tools",
+  "slug": "/vscode-config",
+  "permalink": "/docs/vscode-config",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "vscode",
+      "permalink": "/docs/tags/vscode"
+    },
+    {
+      "label": "开发工具",
+      "permalink": "/docs/tags/开发工具"
+    },
+    {
+      "label": "配置",
+      "permalink": "/docs/tags/配置"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "vscode-config",
+    "slug": "/vscode-config",
+    "title": "VScode相关配置",
+    "date": "2021-08-03T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "vscode",
+      "开发工具",
+      "配置"
+    ],
+    "keywords": [
+      "vscode",
+      "开发工具",
+      "配置"
+    ]
+  },
+  "sidebar": "tools",
+  "previous": {
+    "title": "Windows Terminal美化",
+    "permalink": "/docs/windows-terminal-beautify"
+  }
+}

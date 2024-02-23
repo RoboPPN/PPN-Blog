@@ -1,0 +1,42 @@
+{
+  "unversionedId": "skill/C/C_Basic/C_memory",
+  "id": "skill/C/C_Basic/C_memory",
+  "title": "C 内存空间",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/C_Basic/17. C 内存空间.md",
+  "sourceDirName": "skill/C/C_Basic",
+  "slug": "/C_memory",
+  "permalink": "/docs/C_memory",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "C/C++",
+      "permalink": "/docs/tags/c-c"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 17,
+  "frontMatter": {
+    "id": "C_memory",
+    "slug": "/C_memory",
+    "title": "C 内存空间",
+    "date": "2022-11-08T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "C/C++"
+    ],
+    "keywords": [
+      "C/C++"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "C 结构体字节数",
+    "permalink": "/docs/C_struct_size"
+  },
+  "next": {
+    "title": "C 作用域、存储期",
+    "permalink": "/docs/C_scope"
+  }
+}

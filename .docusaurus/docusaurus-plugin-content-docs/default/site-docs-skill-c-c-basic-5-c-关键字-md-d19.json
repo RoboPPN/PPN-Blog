@@ -1,0 +1,42 @@
+{
+  "unversionedId": "skill/C/C_Basic/C_keyword",
+  "id": "skill/C/C_Basic/C_keyword",
+  "title": "C 关键字",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/C_Basic/5. C 关键字.md",
+  "sourceDirName": "skill/C/C_Basic",
+  "slug": "/C_keyword",
+  "permalink": "/docs/C_keyword",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "C/C++",
+      "permalink": "/docs/tags/c-c"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "C_keyword",
+    "slug": "/C_keyword",
+    "title": "C 关键字",
+    "date": "2022-10-29T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "C/C++"
+    ],
+    "keywords": [
+      "C/C++"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "C 基础语法",
+    "permalink": "/docs/C_basic_syntax"
+  },
+  "next": {
+    "title": "C 数据类型",
+    "permalink": "/docs/C_datetype"
+  }
+}

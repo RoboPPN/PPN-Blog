@@ -1,0 +1,48 @@
+{
+  "unversionedId": "skill/C/C_Data_Structure/queue",
+  "id": "skill/C/C_Data_Structure/queue",
+  "title": "队列",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/C_Data_Structure/8. 队列.md",
+  "sourceDirName": "skill/C/C_Data_Structure",
+  "slug": "/queue",
+  "permalink": "/docs/queue",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "C/C++",
+      "permalink": "/docs/tags/c-c"
+    },
+    {
+      "label": "数据结构",
+      "permalink": "/docs/tags/数据结构"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "queue",
+    "slug": "/queue",
+    "title": "队列",
+    "date": "2022-11-19T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "C/C++",
+      "数据结构"
+    ],
+    "keywords": [
+      "C/C++",
+      "数据结构"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "顺序栈和链式栈",
+    "permalink": "/docs/stack"
+  },
+  "next": {
+    "title": "二叉树",
+    "permalink": "/docs/binary_tree"
+  }
+}

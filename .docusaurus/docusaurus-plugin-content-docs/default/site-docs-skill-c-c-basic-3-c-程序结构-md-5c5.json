@@ -1,0 +1,42 @@
+{
+  "unversionedId": "skill/C/C_Basic/C_program_structure",
+  "id": "skill/C/C_Basic/C_program_structure",
+  "title": "C 程序结构",
+  "description": "C 第一个程序",
+  "source": "@site/docs/skill/C/C_Basic/3. C 程序结构.md",
+  "sourceDirName": "skill/C/C_Basic",
+  "slug": "/C_program_structure",
+  "permalink": "/docs/C_program_structure",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "C/C++",
+      "permalink": "/docs/tags/c-c"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "C_program_structure",
+    "slug": "/C_program_structure",
+    "title": "C 程序结构",
+    "date": "2022-10-29T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "C/C++"
+    ],
+    "keywords": [
+      "C/C++"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "C 环境设置",
+    "permalink": "/docs/C_environment_settings"
+  },
+  "next": {
+    "title": "C 基础语法",
+    "permalink": "/docs/C_basic_syntax"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "unversionedId": "skill/C/C_Data_Structure/binary_tree",
+  "id": "skill/C/C_Data_Structure/binary_tree",
+  "title": "二叉树",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/C_Data_Structure/9. 二叉树.md",
+  "sourceDirName": "skill/C/C_Data_Structure",
+  "slug": "/binary_tree",
+  "permalink": "/docs/binary_tree",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "C/C++",
+      "permalink": "/docs/tags/c-c"
+    },
+    {
+      "label": "数据结构",
+      "permalink": "/docs/tags/数据结构"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "id": "binary_tree",
+    "slug": "/binary_tree",
+    "title": "二叉树",
+    "date": "2022-11-21T00:00:00.000Z",
+    "authors": "disnox",
+    "tags": [
+      "C/C++",
+      "数据结构"
+    ],
+    "keywords": [
+      "C/C++",
+      "数据结构"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "队列",
+    "permalink": "/docs/queue"
+  },
+  "next": {
+    "title": "IO 编程技术",
+    "permalink": "/docs/category/io-编程技术"
+  }
+}

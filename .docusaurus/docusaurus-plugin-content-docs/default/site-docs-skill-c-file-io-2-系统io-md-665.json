@@ -1,0 +1,48 @@
+{
+  "unversionedId": "skill/C/FILE_IO/system_io",
+  "id": "skill/C/FILE_IO/system_io",
+  "title": "系统IO",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/FILE_IO/2. 系统IO.md",
+  "sourceDirName": "skill/C/FILE_IO",
+  "slug": "/system_io",
+  "permalink": "/docs/system_io",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Linux",
+      "permalink": "/docs/tags/linux"
+    },
+    {
+      "label": "C/C++",
+      "permalink": "/docs/tags/c-c"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "system_io",
+    "slug": "/system_io",
+    "title": "系统IO",
+    "date": "2022-12-10T00:00:00.000Z",
+    "authors": "disnox",
+    "tags": [
+      "Linux",
+      "C/C++"
+    ],
+    "keywords": [
+      "Linux",
+      "C/C++"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "一切皆文件",
+    "permalink": "/docs/file"
+  },
+  "next": {
+    "title": "标准IO",
+    "permalink": "/docs/standard_io"
+  }
+}

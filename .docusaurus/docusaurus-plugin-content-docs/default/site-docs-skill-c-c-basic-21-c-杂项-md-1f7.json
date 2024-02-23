@@ -1,0 +1,33 @@
+{
+  "unversionedId": "skill/C/C_Basic/C_other",
+  "id": "skill/C/C_Basic/C_other",
+  "title": "C 杂项",
+  "description": "|   大端序   | 0000 0000 | 0000 0000 | 0000 0000 | 0000 0001 |",
+  "source": "@site/docs/skill/C/C_Basic/21. C 杂项.md",
+  "sourceDirName": "skill/C/C_Basic",
+  "slug": "/C_other",
+  "permalink": "/docs/C_other",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "C/C++",
+      "permalink": "/docs/tags/c-c"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 21,
+  "frontMatter": {
+    "id": "C_other",
+    "slug": "/C_other",
+    "title": "C 杂项",
+    "date": "2022-11-06T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "C/C++"
+    ],
+    "keywords": [
+      "C/C++"
+    ]
+  }
+}

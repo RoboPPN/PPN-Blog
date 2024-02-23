@@ -1,0 +1,15 @@
+{
+  "title": "Linux",
+  "slug": "/category/linux",
+  "permalink": "/docs/category/linux",
+  "navigation": {
+    "previous": {
+      "title": "技术笔记简介",
+      "permalink": "/docs/skill"
+    },
+    "next": {
+      "title": "Linux 概述",
+      "permalink": "/docs/Linux_introduction"
+    }
+  }
+}

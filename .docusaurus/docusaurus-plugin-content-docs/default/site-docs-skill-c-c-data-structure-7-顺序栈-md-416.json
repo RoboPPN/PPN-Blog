@@ -1,0 +1,48 @@
+{
+  "unversionedId": "skill/C/C_Data_Structure/stack",
+  "id": "skill/C/C_Data_Structure/stack",
+  "title": "顺序栈和链式栈",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/C_Data_Structure/7. 顺序栈.md",
+  "sourceDirName": "skill/C/C_Data_Structure",
+  "slug": "/stack",
+  "permalink": "/docs/stack",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "C/C++",
+      "permalink": "/docs/tags/c-c"
+    },
+    {
+      "label": "数据结构",
+      "permalink": "/docs/tags/数据结构"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "stack",
+    "slug": "/stack",
+    "title": "顺序栈和链式栈",
+    "date": "2022-11-18T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "C/C++",
+      "数据结构"
+    ],
+    "keywords": [
+      "C/C++",
+      "数据结构"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "内核链表",
+    "permalink": "/docs/inline_list"
+  },
+  "next": {
+    "title": "队列",
+    "permalink": "/docs/queue"
+  }
+}

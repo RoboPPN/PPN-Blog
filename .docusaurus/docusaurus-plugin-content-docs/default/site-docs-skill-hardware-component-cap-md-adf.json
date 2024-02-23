@@ -1,0 +1,41 @@
+{
+  "unversionedId": "skill/hardware/component/Cap",
+  "id": "skill/hardware/component/Cap",
+  "title": "电容",
+  "description": "",
+  "source": "@site/docs/skill/hardware/component/Cap.md",
+  "sourceDirName": "skill/hardware/component",
+  "slug": "/Cap",
+  "permalink": "/docs/Cap",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "硬件",
+      "permalink": "/docs/tags/硬件"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Cap",
+    "slug": "/Cap",
+    "title": "电容",
+    "date": "2022-10-25T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "硬件"
+    ],
+    "keywords": [
+      "硬件"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "电阻",
+    "permalink": "/docs/Res"
+  },
+  "next": {
+    "title": "MOS管",
+    "permalink": "/docs/MOS"
+  }
+}

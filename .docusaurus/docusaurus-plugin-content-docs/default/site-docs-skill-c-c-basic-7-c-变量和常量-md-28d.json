@@ -1,0 +1,42 @@
+{
+  "unversionedId": "skill/C/C_Basic/C_variable_constant",
+  "id": "skill/C/C_Basic/C_variable_constant",
+  "title": "C 变量和常量",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/C_Basic/7. C 变量和常量.md",
+  "sourceDirName": "skill/C/C_Basic",
+  "slug": "/C_variable_constant",
+  "permalink": "/docs/C_variable_constant",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "C/C++",
+      "permalink": "/docs/tags/c-c"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "C_variable_constant",
+    "slug": "/C_variable_constant",
+    "title": "C 变量和常量",
+    "date": "2022-10-30T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "C/C++"
+    ],
+    "keywords": [
+      "C/C++"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "C 数据类型",
+    "permalink": "/docs/C_datetype"
+  },
+  "next": {
+    "title": "C 运算符",
+    "permalink": "/docs/C_operator"
+  }
+}

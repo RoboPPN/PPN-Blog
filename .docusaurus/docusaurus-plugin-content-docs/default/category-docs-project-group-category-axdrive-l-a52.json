@@ -1,0 +1,15 @@
+{
+  "title": "AxDrive-L",
+  "slug": "/category/axdrive-l",
+  "permalink": "/docs/category/axdrive-l",
+  "navigation": {
+    "previous": {
+      "title": "电机控制",
+      "permalink": "/docs/category/电机控制-1"
+    },
+    "next": {
+      "title": "Axdrive-L 用户手册",
+      "permalink": "/docs/AxDrive-L_user_manual"
+    }
+  }
+}

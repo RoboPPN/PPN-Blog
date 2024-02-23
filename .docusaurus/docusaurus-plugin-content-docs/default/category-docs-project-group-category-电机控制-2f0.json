@@ -1,0 +1,15 @@
+{
+  "title": "电机控制",
+  "slug": "/category/电机控制-1",
+  "permalink": "/docs/category/电机控制-1",
+  "navigation": {
+    "previous": {
+      "title": "项目合集",
+      "permalink": "/docs/project_group"
+    },
+    "next": {
+      "title": "AxDrive-L",
+      "permalink": "/docs/category/axdrive-l"
+    }
+  }
+}

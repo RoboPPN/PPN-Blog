@@ -1,0 +1,48 @@
+{
+  "unversionedId": "skill/C/C_Data_Structure/singly_loop_linked_list",
+  "id": "skill/C/C_Data_Structure/singly_loop_linked_list",
+  "title": "单向循环链表",
+  "description": "1. 单向循环链表",
+  "source": "@site/docs/skill/C/C_Data_Structure/4. 单向循环链表.md",
+  "sourceDirName": "skill/C/C_Data_Structure",
+  "slug": "/singly_loop_linked_list",
+  "permalink": "/docs/singly_loop_linked_list",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "C/C++",
+      "permalink": "/docs/tags/c-c"
+    },
+    {
+      "label": "数据结构",
+      "permalink": "/docs/tags/数据结构"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "singly_loop_linked_list",
+    "slug": "/singly_loop_linked_list",
+    "title": "单向循环链表",
+    "date": "2022-10-16T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "C/C++",
+      "数据结构"
+    ],
+    "keywords": [
+      "C/C++",
+      "数据结构"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "单向链表",
+    "permalink": "/docs/single_linked_list"
+  },
+  "next": {
+    "title": "双向循环链表",
+    "permalink": "/docs/double_linked_list"
+  }
+}

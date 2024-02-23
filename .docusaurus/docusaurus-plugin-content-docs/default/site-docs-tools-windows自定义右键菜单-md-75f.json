@@ -1,0 +1,41 @@
+{
+  "unversionedId": "tools/windows-custom-right-click-menu",
+  "id": "tools/windows-custom-right-click-menu",
+  "title": "Windows自定义右键菜单",
+  "description": "为什么写这篇文章呢，因为我每次都要更改鼠标右键菜单都要去百度相关的，然后在照着一步一步操作。甚至我在写这篇文章的时候也百度了相关的内容。到时候忘记了直接看我自己写的就完事了（可能写了之后就记得住了。）",
+  "source": "@site/docs/tools/Windows自定义右键菜单.md",
+  "sourceDirName": "tools",
+  "slug": "/windows-custom-right-click-menu",
+  "permalink": "/docs/windows-custom-right-click-menu",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "工具",
+      "permalink": "/docs/tags/工具"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "windows-custom-right-click-menu",
+    "slug": "/windows-custom-right-click-menu",
+    "title": "Windows自定义右键菜单",
+    "date": "2020-09-08T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "工具"
+    ],
+    "keywords": [
+      "工具"
+    ]
+  },
+  "sidebar": "tools",
+  "previous": {
+    "title": "Everything快速搜索本地文件",
+    "permalink": "/docs/everything-quick-search-local-files"
+  },
+  "next": {
+    "title": "Windows Terminal美化",
+    "permalink": "/docs/windows-terminal-beautify"
+  }
+}
