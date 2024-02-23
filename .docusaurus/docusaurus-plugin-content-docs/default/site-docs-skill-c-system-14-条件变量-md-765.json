@@ -1,0 +1,42 @@
+{
+  "unversionedId": "skill/C/System/cond",
+  "id": "skill/C/System/cond",
+  "title": "条件变量",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/System/14. 条件变量.md",
+  "sourceDirName": "skill/C/System",
+  "slug": "/cond",
+  "permalink": "/docs/cond",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Linux",
+      "permalink": "/docs/tags/linux"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "id": "cond",
+    "slug": "/cond",
+    "title": "条件变量",
+    "date": "2022-12-12T00:00:00.000Z",
+    "authors": "disnox",
+    "tags": [
+      "Linux"
+    ],
+    "keywords": [
+      "Linux"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "读写锁",
+    "permalink": "/docs/rwlock"
+  },
+  "next": {
+    "title": "可重入函数",
+    "permalink": "/docs/reen"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "unversionedId": "skill/C/C_Basic/C_brief_introduction",
+  "id": "skill/C/C_Basic/C_brief_introduction",
+  "title": "C 简介",
+  "description": "编程语言",
+  "source": "@site/docs/skill/C/C_Basic/1. C 简介.md",
+  "sourceDirName": "skill/C/C_Basic",
+  "slug": "/C_brief_introduction",
+  "permalink": "/docs/C_brief_introduction",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "C/C++",
+      "permalink": "/docs/tags/c-c"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "C_brief_introduction",
+    "slug": "/C_brief_introduction",
+    "title": "C 简介",
+    "date": "2022-10-29T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "C/C++"
+    ],
+    "keywords": [
+      "C/C++"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "C 语言",
+    "permalink": "/docs/category/c-语言"
+  },
+  "next": {
+    "title": "C 环境设置",
+    "permalink": "/docs/C_environment_settings"
+  }
+}

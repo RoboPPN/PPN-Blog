@@ -1,0 +1,24 @@
+{
+  "unversionedId": "project_group/introduction",
+  "id": "project_group/introduction",
+  "title": "项目合集",
+  "description": "项目合集",
+  "source": "@site/docs/project_group/introduction.md",
+  "sourceDirName": "project_group",
+  "slug": "/project_group",
+  "permalink": "/docs/project_group",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "introduction",
+    "slug": "/project_group",
+    "title": "项目合集"
+  },
+  "sidebar": "project_group",
+  "next": {
+    "title": "电机控制",
+    "permalink": "/docs/category/电机控制-1"
+  }
+}

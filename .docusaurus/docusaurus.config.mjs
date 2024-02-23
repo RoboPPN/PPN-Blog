@@ -4,15 +4,34 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "帕帕尼的小站",
-  "url": "https://roboppn.top",
+  "title": "尚宇的小站",
+  "url": "https://disnox.top",
   "baseUrl": "/",
-  "favicon": "img/PPN.png",
-  "organizationName": "RoboPPN",
+  "favicon": "img/favicon.ico",
+  "organizationName": "disnox",
   "projectName": "blog",
-  "tagline": "积跬步成千里，积小流成江海",
+  "tagline": "星海横流，岁月成碑",
   "themeConfig": {
     "image": "img/logo.png",
+    "announcementBar": {
+      "id": "announcementBar-3",
+      "content": "<span>🌟新入站必读 <a href='/test'>小站使用指南🌟</a></span>",
+      "isCloseable": true
+    },
+    "metadata": [
+      {
+        "name": "keywords",
+        "content": "尚宇, disnox"
+      },
+      {
+        "name": "keywords",
+        "content": "blog, C/C++, STM32, Linux, qt, simulink, AD"
+      },
+      {
+        "name": "keywords",
+        "content": "嵌入式软硬兼狮, C语言, STM32, Linux, qt，simulink, AD"
+      }
+    ],
     "docs": {
       "sidebar": {
         "hideable": true,
@@ -22,16 +41,29 @@ export default {
     },
     "navbar": {
       "logo": {
-        "alt": "帕帕尼",
-        "src": "img/PPN.png",
-        "srcDark": "img/PPN.png"
+        "alt": "尚宇",
+        "src": "img/logo.webp",
+        "srcDark": "img/logo.webp"
       },
       "hideOnScroll": true,
       "items": [
         {
-          "label": "📑笔记",
+          "label": "📝学习",
           "position": "right",
-          "to": "docs/note-introduction/"
+          "items": [
+            {
+              "label": "📑技术笔记",
+              "to": "docs/skill/"
+            },
+            {
+              "label": "🗂️项目介绍",
+              "to": "docs/project_group/"
+            },
+            {
+              "label": "📂高效工作指南",
+              "to": "docs/tools/"
+            }
+          ]
         },
         {
           "label": "📘博客",
@@ -58,20 +90,84 @@ export default {
             {
               "label": "友链",
               "to": "friends"
+            },
+            {
+              "label": "工具推荐",
+              "to": "docs/tools/"
             }
           ]
-        },
-        {
-          "href": "https://github.com/RoboPPN/PPN-Blog",
-          "className": "header-github-link",
-          "position": "right"
         }
       ]
     },
     "footer": {
       "style": "dark",
-      "copyright": "本站所有内容遵循<a href=\"https://creativecommons.org/licenses/by/4.0/deed.zh\" >CC BY-NC 4.0</a>开源协议，仅限非商业性使用，转载请注明出处</p><p>Copyright © 2022 - PRESENT 帕帕尼 Built with Docusaurus.</p>",
-      "links": []
+      "links": [
+        {
+          "title": "学习",
+          "items": [
+            {
+              "label": "博客",
+              "to": "blog"
+            },
+            {
+              "label": "归档",
+              "to": "blog/archive"
+            },
+            {
+              "label": "技术笔记",
+              "to": "docs/skill"
+            },
+            {
+              "label": "实战项目",
+              "to": "project"
+            }
+          ]
+        },
+        {
+          "title": "社交媒体",
+          "items": [
+            {
+              "label": "关于我",
+              "to": "/about"
+            },
+            {
+              "label": "GitHub",
+              "href": "https://github.com/disnox"
+            },
+            {
+              "label": "bilbil",
+              "href": "https://space.bilibili.com/511798206?spm_id_from=333.1007.0.0"
+            },
+            {
+              "label": "CSDN",
+              "href": "https://blog.csdn.net/m0_47339333?spm=1000.2115.3001.5343"
+            },
+            {
+              "label": "知乎",
+              "href": "https://www.zhihu.com/people/chui-zi-26-38"
+            }
+          ]
+        },
+        {
+          "title": "更多",
+          "items": [
+            {
+              "label": "友链",
+              "position": "right",
+              "to": "friends"
+            },
+            {
+              "label": "导航",
+              "position": "right",
+              "to": "resource"
+            },
+            {
+              "html": "<a href=\"https://docusaurus.io/zh-CN/\" target=\"_blank\"><img style=\"height:50px;margin-top:0.5rem\" src=\"/img/buildwith.png\" /><a/>"
+            }
+          ]
+        }
+      ],
+      "copyright": "本站所有内容遵循<a href=\"https://creativecommons.org/licenses/by/4.0/deed.zh\" >CC BY-NC 4.0</a>开源协议，仅限非商业性使用，转载请注明出处</p><p>Copyright © 2022 - PRESENT 尚宇 Built with Docusaurus.</p>"
     },
     "prism": {
       "theme": {
@@ -346,9 +442,9 @@ export default {
       "maxHeadingLevel": 4
     },
     "algolia": {
-      "appId": "KB96Z4PFJM",
-      "apiKey": "00e9d782a3f2d712b1fe0d7907716ac7",
-      "indexName": "ppn_index",
+      "appId": " ",
+      "apiKey": " ",
+      "indexName": "disnox",
       "contextualSearch": true,
       "searchParameters": {},
       "searchPagePath": "search"
@@ -385,15 +481,14 @@ export default {
       "defaultMode": "light",
       "disableSwitch": false,
       "respectPrefersColorScheme": false
-    },
-    "metadata": []
+    }
   },
   "headTags": [
     {
       "tagName": "meta",
       "attributes": {
         "name": "description",
-        "content": "帕帕尼的个人博客"
+        "content": "尚宇的个人博客"
       }
     }
   ],
@@ -438,15 +533,15 @@ export default {
       {
         "path": "blog",
         "editLocalizedFiles": false,
-        "blogDescription": "帕帕尼的个人博客",
+        "blogDescription": "尚宇的个人博客",
         "blogSidebarCount": 10,
         "blogSidebarTitle": "Blogs",
         "postsPerPage": 10,
         "showReadingTime": true,
         "feedOptions": {
           "type": "all",
-          "title": "帕帕尼",
-          "copyright": "Copyright © 2024 帕帕尼 Built with Docusaurus.<p><a href=\"http://beian.miit.gov.cn/\" class=\"footer_lin\">CC BY-NC 4.0</a></p>"
+          "title": "尚宇",
+          "copyright": "Copyright © 2024 尚宇 Built with Docusaurus.<p><a href=\"http://beian.miit.gov.cn/\" class=\"footer_lin\">CC BY-NC 4.0</a></p>"
         }
       }
     ],

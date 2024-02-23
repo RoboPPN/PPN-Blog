@@ -1,0 +1,15 @@
+{
+  "title": "IO 编程技术",
+  "slug": "/category/io-编程技术",
+  "permalink": "/docs/category/io-编程技术",
+  "navigation": {
+    "previous": {
+      "title": "二叉树",
+      "permalink": "/docs/binary_tree"
+    },
+    "next": {
+      "title": "一切皆文件",
+      "permalink": "/docs/file"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "unversionedId": "skill/C/C_Basic/C_typedef",
+  "id": "skill/C/C_Basic/C_typedef",
+  "title": "C typedef",
+  "description": "C 语言提供了 typedef 关键字，可以使用它来为类型取一个新的名字。",
+  "source": "@site/docs/skill/C/C_Basic/16.1 C typedef.md",
+  "sourceDirName": "skill/C/C_Basic",
+  "slug": "/C_typedef",
+  "permalink": "/docs/C_typedef",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "C/C++",
+      "permalink": "/docs/tags/c-c"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "C_typedef",
+    "slug": "/C_typedef",
+    "title": "C typedef",
+    "date": "2022-11-05T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "C/C++"
+    ],
+    "keywords": [
+      "C/C++"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "C 复杂类型",
+    "permalink": "/docs/category/c-复杂类型"
+  },
+  "next": {
+    "title": "C 结构体",
+    "permalink": "/docs/C_struct"
+  }
+}

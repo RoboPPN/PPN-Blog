@@ -1,0 +1,42 @@
+{
+  "unversionedId": "skill/C/System/thread_pool",
+  "id": "skill/C/System/thread_pool",
+  "title": "线程池",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/System/16. 线程池.md",
+  "sourceDirName": "skill/C/System",
+  "slug": "/thread_pool",
+  "permalink": "/docs/thread_pool",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Linux",
+      "permalink": "/docs/tags/linux"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 16,
+  "frontMatter": {
+    "id": "thread_pool",
+    "slug": "/thread_pool",
+    "title": "线程池",
+    "date": "2022-12-15T00:00:00.000Z",
+    "authors": "disnox",
+    "tags": [
+      "Linux"
+    ],
+    "keywords": [
+      "Linux"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "可重入函数",
+    "permalink": "/docs/reen"
+  },
+  "next": {
+    "title": "Linux 网络编程",
+    "permalink": "/docs/category/linux-网络编程"
+  }
+}

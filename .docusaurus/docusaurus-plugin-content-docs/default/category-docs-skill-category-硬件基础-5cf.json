@@ -1,0 +1,15 @@
+{
+  "title": "硬件基础",
+  "slug": "/category/硬件基础",
+  "permalink": "/docs/category/硬件基础",
+  "navigation": {
+    "previous": {
+      "title": "套接字",
+      "permalink": "/docs/socket"
+    },
+    "next": {
+      "title": "元器件基础",
+      "permalink": "/docs/category/元器件基础"
+    }
+  }
+}

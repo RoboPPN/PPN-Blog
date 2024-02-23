@@ -1,0 +1,41 @@
+{
+  "unversionedId": "skill/C/C_Basic/C_struct_size",
+  "id": "skill/C/C_Basic/C_struct_size",
+  "title": "C 结构体字节数",
+  "description": "1. 字节概念",
+  "source": "@site/docs/skill/C/C_Basic/16.4 C 结构体字节数.md",
+  "sourceDirName": "skill/C/C_Basic",
+  "slug": "/C_struct_size",
+  "permalink": "/docs/C_struct_size",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "C/C++",
+      "permalink": "/docs/tags/c-c"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "C_struct_size",
+    "slug": "/C_struct_size",
+    "title": "C 结构体字节数",
+    "date": "2022-11-07T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "C/C++"
+    ],
+    "keywords": [
+      "C/C++"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "C 枚举、联合体",
+    "permalink": "/docs/C_union_enum"
+  },
+  "next": {
+    "title": "C 内存空间",
+    "permalink": "/docs/C_memory"
+  }
+}

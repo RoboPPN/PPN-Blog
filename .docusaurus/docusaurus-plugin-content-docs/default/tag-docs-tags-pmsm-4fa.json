@@ -1,0 +1,15 @@
+{
+  "label": "pmsm",
+  "permalink": "/docs/tags/pmsm",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "skill/motor/pmsm/pmsm_motor",
+      "title": "永磁同步电机",
+      "description": "1. 三相 PMSM 基本数学模型",
+      "permalink": "/docs/pmsm_motor"
+    }
+  ],
+  "unlisted": false
+}

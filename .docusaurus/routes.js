@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '7df'),
+    component: ComponentCreator('/blog', '555'),
     exact: true
   },
   {
@@ -55,6 +55,11 @@ export default [
   {
     path: '/blog/blog_write',
     component: ComponentCreator('/blog/blog_write', 'd97'),
+    exact: true
+  },
+  {
+    path: '/blog/classic',
+    component: ComponentCreator('/blog/classic', '034'),
     exact: true
   },
   {
@@ -73,8 +78,33 @@ export default [
     exact: true
   },
   {
+    path: '/blog/tags/c-c',
+    component: ComponentCreator('/blog/tags/c-c', '4ae'),
+    exact: true
+  },
+  {
     path: '/blog/tags/docusaurus',
     component: ComponentCreator('/blog/tags/docusaurus', '57f'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/exam',
+    component: ComponentCreator('/blog/tags/exam', '448'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/linux',
+    component: ComponentCreator('/blog/tags/linux', '3ea'),
+    exact: true
+  },
+  {
+    path: '/blog/thread_pool1',
+    component: ComponentCreator('/blog/thread_pool1', '2f0'),
+    exact: true
+  },
+  {
+    path: '/blog/thread_pool2',
+    component: ComponentCreator('/blog/thread_pool2', '6e5'),
     exact: true
   },
   {
@@ -99,11 +129,11 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '662'),
+    component: ComponentCreator('/docs', '552'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '752'),
+        component: ComponentCreator('/docs', '6b4'),
         routes: [
           {
             path: '/docs/tags',
@@ -111,1025 +141,625 @@ export default [
             exact: true
           },
           {
-            path: '/docs/tags/database',
-            component: ComponentCreator('/docs/tags/database', '7e4'),
+            path: '/docs/tags/电机',
+            component: ComponentCreator('/docs/tags/电机', '835'),
             exact: true
           },
           {
-            path: '/docs/tags/mysql',
-            component: ComponentCreator('/docs/tags/mysql', '353'),
+            path: '/docs/tags/工具',
+            component: ComponentCreator('/docs/tags/工具', 'fe9'),
             exact: true
           },
           {
-            path: '/docs/tags/ros',
-            component: ComponentCreator('/docs/tags/ros', '1db'),
+            path: '/docs/tags/开发工具',
+            component: ComponentCreator('/docs/tags/开发工具', 'c1e'),
             exact: true
           },
           {
-            path: '/docs/tags/tf',
-            component: ComponentCreator('/docs/tags/tf', 'c7b'),
+            path: '/docs/tags/美化',
+            component: ComponentCreator('/docs/tags/美化', '093'),
             exact: true
           },
           {
-            path: '/docs/tags/vs-code',
-            component: ComponentCreator('/docs/tags/vs-code', '4c2'),
+            path: '/docs/tags/配置',
+            component: ComponentCreator('/docs/tags/配置', 'd2c'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/数据结构',
+            component: ComponentCreator('/docs/tags/数据结构', '256'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/硬件',
+            component: ComponentCreator('/docs/tags/硬件', '7e0'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/c-c',
+            component: ComponentCreator('/docs/tags/c-c', 'd09'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/foc',
+            component: ComponentCreator('/docs/tags/foc', '4c4'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/linux',
+            component: ComponentCreator('/docs/tags/linux', '083'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/pmsm',
+            component: ComponentCreator('/docs/tags/pmsm', 'b55'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/st',
+            component: ComponentCreator('/docs/tags/st', '676'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/system',
+            component: ComponentCreator('/docs/tags/system', '342'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/terminal',
+            component: ComponentCreator('/docs/tags/terminal', 'ea9'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/vscode',
+            component: ComponentCreator('/docs/tags/vscode', '929'),
             exact: true
           },
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '321'),
+            component: ComponentCreator('/docs', '622'),
             routes: [
               {
-                path: '/docs/category/传感器',
-                component: ComponentCreator('/docs/category/传感器', '0ea'),
+                path: '/docs/AxDrive-L_hardware_design_report',
+                component: ComponentCreator('/docs/AxDrive-L_hardware_design_report', 'da3'),
                 exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/category/地图',
-                component: ComponentCreator('/docs/category/地图', '884'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/category/定位导航',
-                component: ComponentCreator('/docs/category/定位导航', '63a'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/category/多线程',
-                component: ComponentCreator('/docs/category/多线程', '32e'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/category/规划',
-                component: ComponentCreator('/docs/category/规划', '96a'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/category/机器学习',
-                component: ComponentCreator('/docs/category/机器学习', '7d9'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/category/激光雷达',
-                component: ComponentCreator('/docs/category/激光雷达', '47a'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/category/软件安装环境配置',
-                component: ComponentCreator('/docs/category/软件安装环境配置', '0d4'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/category/有用的小知识',
-                component: ComponentCreator('/docs/category/有用的小知识', '8fc'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/category/autoware',
-                component: ComponentCreator('/docs/category/autoware', '097'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/category/c',
-                component: ComponentCreator('/docs/category/c', '3be'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/category/chatgpt',
-                component: ComponentCreator('/docs/category/chatgpt', '6b8'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/category/git',
-                component: ComponentCreator('/docs/category/git', '1ed'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/category/gps',
-                component: ComponentCreator('/docs/category/gps', 'b55'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/category/imu',
-                component: ComponentCreator('/docs/category/imu', 'f28'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/category/math',
-                component: ComponentCreator('/docs/category/math', '2de'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/category/moveit机械臂',
-                component: ComponentCreator('/docs/category/moveit机械臂', 'a77'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/category/mysql',
-                component: ComponentCreator('/docs/category/mysql', 'c31'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/category/opencv',
-                component: ComponentCreator('/docs/category/opencv', 'f3d'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/category/python',
-                component: ComponentCreator('/docs/category/python', '3b1'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/category/ros',
-                component: ComponentCreator('/docs/category/ros', '3a6'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/category/ubuntu',
-                component: ComponentCreator('/docs/category/ubuntu', '769'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/category/vscode问题合集',
-                component: ComponentCreator('/docs/category/vscode问题合集', '683'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/docusaurus-comment',
-                component: ComponentCreator('/docs/docusaurus-comment', 'd7f'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/docusaurus-component',
-                component: ComponentCreator('/docs/docusaurus-component', 'e2c'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/docusaurus-config',
-                component: ComponentCreator('/docs/docusaurus-config', '175'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/docusaurus-deploy',
-                component: ComponentCreator('/docs/docusaurus-deploy', 'd08'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/docusaurus-guides',
-                component: ComponentCreator('/docs/docusaurus-guides', 'b07'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/docusaurus-plugin',
-                component: ComponentCreator('/docs/docusaurus-plugin', 'ecf'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/docusaurus-search',
-                component: ComponentCreator('/docs/docusaurus-search', '9af'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/docusaurus-style',
-                component: ComponentCreator('/docs/docusaurus-style', 'df7'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/note-introduction',
-                component: ComponentCreator('/docs/note-introduction', '1dd'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/ros-learning-tf',
-                component: ComponentCreator('/docs/ros-learning-tf', '5ab'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/地图/建立静态地图',
-                component: ComponentCreator('/docs/skill/地图/建立静态地图', 'dd6'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/地图/costmap',
-                component: ComponentCreator('/docs/skill/地图/costmap', '3fb'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/地图/navigation切换地图的两种方法',
-                component: ComponentCreator('/docs/skill/地图/navigation切换地图的两种方法', 'f96'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/定位导航/导航模块介绍',
-                component: ComponentCreator('/docs/skill/定位导航/导航模块介绍', '5b5'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/定位导航/定位简介',
-                component: ComponentCreator('/docs/skill/定位导航/定位简介', 'abf'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/定位导航/基于反光板的全局定位',
-                component: ComponentCreator('/docs/skill/定位导航/基于反光板的全局定位', 'e2b'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/定位导航/自适应蒙特卡罗定位',
-                component: ComponentCreator('/docs/skill/定位导航/自适应蒙特卡罗定位', '98f'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/定位导航/自主式移动机器人改进方案',
-                component: ComponentCreator('/docs/skill/定位导航/自主式移动机器人改进方案', 'a81'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/定位导航/cartographer学习',
-                component: ComponentCreator('/docs/skill/定位导航/cartographer学习', '8c1'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/多线程/处理日期和时间的 chrono 库',
-                component: ComponentCreator('/docs/skill/多线程/处理日期和时间的 chrono 库', '6c8'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/多线程/命名空间this_thread',
-                component: ComponentCreator('/docs/skill/多线程/命名空间this_thread', 'a47'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/多线程/如何在C++11中让线程休眠',
-                component: ComponentCreator('/docs/skill/多线程/如何在C++11中让线程休眠', '997'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/多线程/线程同步',
-                component: ComponentCreator('/docs/skill/多线程/线程同步', 'ff4'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/多线程/C++11使用条件变量进行线程间的事件处理',
-                component: ComponentCreator('/docs/skill/多线程/C++11使用条件变量进行线程间的事件处理', 'bdf'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/多线程/C++11线程类',
-                component: ComponentCreator('/docs/skill/多线程/C++11线程类', 'abf'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/规划/各大全局路径规划算法简介',
-                component: ComponentCreator('/docs/skill/规划/各大全局路径规划算法简介', '66d'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/规划/局部路径规划',
-                component: ComponentCreator('/docs/skill/规划/局部路径规划', '337'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/规划/路径规划简介',
-                component: ComponentCreator('/docs/skill/规划/路径规划简介', 'e17'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/规划/A*算法',
-                component: ComponentCreator('/docs/skill/规划/A*算法', '6e3'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/规划/Dijkstra',
-                component: ComponentCreator('/docs/skill/规划/Dijkstra', '70f'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/规划/DWA',
-                component: ComponentCreator('/docs/skill/规划/DWA', 'fa3'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/规划/move_base笔记',
-                component: ComponentCreator('/docs/skill/规划/move_base笔记', '0a5'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/规划/TEB',
-                component: ComponentCreator('/docs/skill/规划/TEB', '561'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/规划/Teb参数优化',
-                component: ComponentCreator('/docs/skill/规划/Teb参数优化', '128'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/规划/Teb算法',
-                component: ComponentCreator('/docs/skill/规划/Teb算法', 'd43'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/机器学习/机器学习概述',
-                component: ComponentCreator('/docs/skill/机器学习/机器学习概述', '6aa'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/软件安装&环境配置/编译安装robot_pose_ekf功能包',
-                component: ComponentCreator('/docs/skill/软件安装&环境配置/编译安装robot_pose_ekf功能包', 'c2b'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/软件安装&环境配置/妙算MANIFOLD 2-G系统还原、使用教程',
-                component: ComponentCreator('/docs/skill/软件安装&环境配置/妙算MANIFOLD 2-G系统还原、使用教程', 'dd6'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/软件安装&环境配置/在vscode上搭建ROS环境',
-                component: ComponentCreator('/docs/skill/软件安装&环境配置/在vscode上搭建ROS环境', '230'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/软件安装&环境配置/nodejs16以上版本安装以及yarn、npm的安装',
-                component: ComponentCreator('/docs/skill/软件安装&环境配置/nodejs16以上版本安装以及yarn、npm的安装', '9d4'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/软件安装&环境配置/RoboWare的安装',
-                component: ComponentCreator('/docs/skill/软件安装&环境配置/RoboWare的安装', '05d'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/软件安装&环境配置/Ubuntu配置opencv4',
-                component: ComponentCreator('/docs/skill/软件安装&环境配置/Ubuntu配置opencv4', '4e2'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/有用的小知识/多传感器信息融合理论',
-                component: ComponentCreator('/docs/skill/有用的小知识/多传感器信息融合理论', 'b45'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/有用的小知识/搜索小技巧',
-                component: ComponentCreator('/docs/skill/有用的小知识/搜索小技巧', 'a16'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/有用的小知识/NTFS-FAT32-exFAT文件系统',
-                component: ComponentCreator('/docs/skill/有用的小知识/NTFS-FAT32-exFAT文件系统', '1c0'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/有用的小知识/proto文件',
-                component: ComponentCreator('/docs/skill/有用的小知识/proto文件', 'e30'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/autoware/Autoware学习笔记-1-Autoware介绍及安装',
-                component: ComponentCreator('/docs/skill/autoware/Autoware学习笔记-1-Autoware介绍及安装', '129'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/autoware/ndt_matching',
-                component: ComponentCreator('/docs/skill/autoware/ndt_matching', 'fee'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/C++/抽象类接口',
-                component: ComponentCreator('/docs/skill/C++/抽象类接口', '906'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/C++/错误流与日志流',
-                component: ComponentCreator('/docs/skill/C++/错误流与日志流', '4f3'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/C++/当回调函数写在类中，如何写subscribe的回调函数',
-                component: ComponentCreator('/docs/skill/C++/当回调函数写在类中，如何写subscribe的回调函数', '814'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/C++/多态&虚函数',
-                component: ComponentCreator('/docs/skill/C++/多态&虚函数', '039'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/C++/反斜杠符',
-                component: ComponentCreator('/docs/skill/C++/反斜杠符', '93d'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/C++/宏定义',
-                component: ComponentCreator('/docs/skill/C++/宏定义', '8d4'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/C++/继承',
-                component: ComponentCreator('/docs/skill/C++/继承', '757'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/C++/科学计数法',
-                component: ComponentCreator('/docs/skill/C++/科学计数法', 'fcc'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/C++/内联函数',
-                component: ComponentCreator('/docs/skill/C++/内联函数', 'dae'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/C++/判断表达式的使用',
-                component: ComponentCreator('/docs/skill/C++/判断表达式的使用', '51b'),
-                exact: true,
-                sidebar: "skill"
+                sidebar: "project_group"
               },
               {
-                path: '/docs/skill/C++/使用new在堆创建对象',
-                component: ComponentCreator('/docs/skill/C++/使用new在堆创建对象', '687'),
+                path: '/docs/AxDrive-L_software_design_report',
+                component: ComponentCreator('/docs/AxDrive-L_software_design_report', '11b'),
                 exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/C++/数据抽象数据封装',
-                component: ComponentCreator('/docs/skill/C++/数据抽象数据封装', 'a29'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/C++/头文件定义的通用模板',
-                component: ComponentCreator('/docs/skill/C++/头文件定义的通用模板', 'e80'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/C++/友元函数',
-                component: ComponentCreator('/docs/skill/C++/友元函数', '81f'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/C++/在指定路径下自动创建文件夹',
-                component: ComponentCreator('/docs/skill/C++/在指定路径下自动创建文件夹', '88b'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/C++/指向类、结构体的指针',
-                component: ComponentCreator('/docs/skill/C++/指向类、结构体的指针', 'cb4'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/C++/重载函数',
-                component: ComponentCreator('/docs/skill/C++/重载函数', '1a7'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/C++/auto关键字',
-                component: ComponentCreator('/docs/skill/C++/auto关键字', 'fb2'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/C++/C++ 测试程序运行时间',
-                component: ComponentCreator('/docs/skill/C++/C++ 测试程序运行时间', 'f8e'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/C++/C++11 move()函数',
-                component: ComponentCreator('/docs/skill/C++/C++11 move()函数', 'bad'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/C++/C++可变参数模板',
-                component: ComponentCreator('/docs/skill/C++/C++可变参数模板', 'eef'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/C++/C++使用ifdef控制部分代码开或关',
-                component: ComponentCreator('/docs/skill/C++/C++使用ifdef控制部分代码开或关', '19e'),
-                exact: true,
-                sidebar: "skill"
+                sidebar: "project_group"
               },
               {
-                path: '/docs/skill/C++/C++智能指针',
-                component: ComponentCreator('/docs/skill/C++/C++智能指针', '134'),
+                path: '/docs/AxDrive-L_user_manual',
+                component: ComponentCreator('/docs/AxDrive-L_user_manual', 'e0e'),
                 exact: true,
-                sidebar: "skill"
+                sidebar: "project_group"
               },
               {
-                path: '/docs/skill/C++/CMake学习笔记',
-                component: ComponentCreator('/docs/skill/C++/CMake学习笔记', 'b65'),
+                path: '/docs/binary_tree',
+                component: ComponentCreator('/docs/binary_tree', 'f77'),
                 exact: true,
                 sidebar: "skill"
               },
               {
-                path: '/docs/skill/C++/const与define',
-                component: ComponentCreator('/docs/skill/C++/const与define', 'c48'),
+                path: '/docs/C_array',
+                component: ComponentCreator('/docs/C_array', '5d5'),
                 exact: true,
                 sidebar: "skill"
               },
               {
-                path: '/docs/skill/C++/gcc编译器和g++编译器有何区别',
-                component: ComponentCreator('/docs/skill/C++/gcc编译器和g++编译器有何区别', '383'),
+                path: '/docs/C_basic_syntax',
+                component: ComponentCreator('/docs/C_basic_syntax', 'f62'),
                 exact: true,
                 sidebar: "skill"
               },
               {
-                path: '/docs/skill/C++/Google代码风格C++篇',
-                component: ComponentCreator('/docs/skill/C++/Google代码风格C++篇', '71a'),
+                path: '/docs/C_brief_introduction',
+                component: ComponentCreator('/docs/C_brief_introduction', '846'),
                 exact: true,
                 sidebar: "skill"
               },
               {
-                path: '/docs/skill/C++/map',
-                component: ComponentCreator('/docs/skill/C++/map', 'd3b'),
+                path: '/docs/C_character_string',
+                component: ComponentCreator('/docs/C_character_string', 'e73'),
                 exact: true,
                 sidebar: "skill"
               },
               {
-                path: '/docs/skill/C++/std::bind函数',
-                component: ComponentCreator('/docs/skill/C++/std::bind函数', '7d1'),
+                path: '/docs/C_control_flow',
+                component: ComponentCreator('/docs/C_control_flow', '805'),
                 exact: true,
                 sidebar: "skill"
               },
               {
-                path: '/docs/skill/C++/std::ofstream  与 std::fstream',
-                component: ComponentCreator('/docs/skill/C++/std::ofstream  与 std::fstream', '57b'),
+                path: '/docs/C_datetype',
+                component: ComponentCreator('/docs/C_datetype', '75f'),
                 exact: true,
                 sidebar: "skill"
               },
               {
-                path: '/docs/skill/C++/vector',
-                component: ComponentCreator('/docs/skill/C++/vector', '3c4'),
+                path: '/docs/C_environment_settings',
+                component: ComponentCreator('/docs/C_environment_settings', '809'),
                 exact: true,
                 sidebar: "skill"
               },
               {
-                path: '/docs/skill/ChatGPT/ChatGPT注册账号教程',
-                component: ComponentCreator('/docs/skill/ChatGPT/ChatGPT注册账号教程', 'a8e'),
+                path: '/docs/C_function',
+                component: ComponentCreator('/docs/C_function', '7f9'),
                 exact: true,
                 sidebar: "skill"
               },
               {
-                path: '/docs/skill/database/mysql',
-                component: ComponentCreator('/docs/skill/database/mysql', '28c'),
+                path: '/docs/C_function_order',
+                component: ComponentCreator('/docs/C_function_order', '9c4'),
                 exact: true,
                 sidebar: "skill"
               },
               {
-                path: '/docs/skill/git/超时-无法读取远程仓库',
-                component: ComponentCreator('/docs/skill/git/超时-无法读取远程仓库', '6ef'),
+                path: '/docs/C_keyword',
+                component: ComponentCreator('/docs/C_keyword', 'e92'),
                 exact: true,
                 sidebar: "skill"
               },
               {
-                path: '/docs/skill/git/git分支管理',
-                component: ComponentCreator('/docs/skill/git/git分支管理', '1e7'),
+                path: '/docs/C_memory',
+                component: ComponentCreator('/docs/C_memory', '6e5'),
                 exact: true,
                 sidebar: "skill"
               },
               {
-                path: '/docs/skill/git/git教程',
-                component: ComponentCreator('/docs/skill/git/git教程', 'de2'),
+                path: '/docs/C_operator',
+                component: ComponentCreator('/docs/C_operator', '16c'),
                 exact: true,
                 sidebar: "skill"
               },
               {
-                path: '/docs/skill/HTML&CSS/CSS盒子模型',
-                component: ComponentCreator('/docs/skill/HTML&CSS/CSS盒子模型', '7f9'),
+                path: '/docs/C_other',
+                component: ComponentCreator('/docs/C_other', '2fe'),
                 exact: true
               },
               {
-                path: '/docs/skill/HTML&CSS/CSS学习笔记',
-                component: ComponentCreator('/docs/skill/HTML&CSS/CSS学习笔记', 'c1f'),
+                path: '/docs/C_pointer',
+                component: ComponentCreator('/docs/C_pointer', '4fe'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/C_pointer_and_array',
+                component: ComponentCreator('/docs/C_pointer_and_array', '2a2'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/C_pointer_array_and_pointer_array',
+                component: ComponentCreator('/docs/C_pointer_array_and_pointer_array', '386'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/C_pointer_High_level_issues',
+                component: ComponentCreator('/docs/C_pointer_High_level_issues', 'abd'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/C_pretreatment',
+                component: ComponentCreator('/docs/C_pretreatment', '2ad'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/C_program_structure',
+                component: ComponentCreator('/docs/C_program_structure', '3f4'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/C_scope',
+                component: ComponentCreator('/docs/C_scope', '0e6'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/C_struct',
+                component: ComponentCreator('/docs/C_struct', '883'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/C_struct_size',
+                component: ComponentCreator('/docs/C_struct_size', 'c4a'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/C_two_pointer',
+                component: ComponentCreator('/docs/C_two_pointer', 'ac1'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/C_typedef',
+                component: ComponentCreator('/docs/C_typedef', '663'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/C_union_enum',
+                component: ComponentCreator('/docs/C_union_enum', '727'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/C_variable_constant',
+                component: ComponentCreator('/docs/C_variable_constant', '73a'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/Cap',
+                component: ComponentCreator('/docs/Cap', 'aa1'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/category/电机控制',
+                component: ComponentCreator('/docs/category/电机控制', '3d7'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/category/电机控制-1',
+                component: ComponentCreator('/docs/category/电机控制-1', 'dd3'),
+                exact: true,
+                sidebar: "project_group"
+              },
+              {
+                path: '/docs/category/数据结构',
+                component: ComponentCreator('/docs/category/数据结构', '094'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/category/硬件基础',
+                component: ComponentCreator('/docs/category/硬件基础', '81b'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/category/元器件基础',
+                component: ComponentCreator('/docs/category/元器件基础', 'a37'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/category/杂项',
+                component: ComponentCreator('/docs/category/杂项', '46b'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/category/axdrive-l',
+                component: ComponentCreator('/docs/category/axdrive-l', 'be3'),
+                exact: true,
+                sidebar: "project_group"
+              },
+              {
+                path: '/docs/category/c-复杂类型',
+                component: ComponentCreator('/docs/category/c-复杂类型', '3a0'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/category/c-语言',
+                component: ComponentCreator('/docs/category/c-语言', 'ff2'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/category/c-指针',
+                component: ComponentCreator('/docs/category/c-指针', 'c11'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/category/io-编程技术',
+                component: ComponentCreator('/docs/category/io-编程技术', 'ce5'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/category/linux',
+                component: ComponentCreator('/docs/category/linux', '852'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/category/linux-网络编程',
+                component: ComponentCreator('/docs/category/linux-网络编程', '704'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/category/linux-系统编程',
+                component: ComponentCreator('/docs/category/linux-系统编程', 'e82'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/cond',
+                component: ComponentCreator('/docs/cond', '486'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/data_structure',
+                component: ComponentCreator('/docs/data_structure', '1cf'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/dc-dc',
+                component: ComponentCreator('/docs/dc-dc', '77f'),
                 exact: true
               },
               {
-                path: '/docs/skill/HTML&CSS/HTML常用元素',
-                component: ComponentCreator('/docs/skill/HTML&CSS/HTML常用元素', 'd0b'),
+                path: '/docs/diary',
+                component: ComponentCreator('/docs/diary', 'f3e'),
                 exact: true
               },
               {
-                path: '/docs/skill/HTML&CSS/HTML学习笔记',
-                component: ComponentCreator('/docs/skill/HTML&CSS/HTML学习笔记', '10c'),
+                path: '/docs/dir',
+                component: ComponentCreator('/docs/dir', '9af'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/double_linked_list',
+                component: ComponentCreator('/docs/double_linked_list', '0f3'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/everything-quick-search-local-files',
+                component: ComponentCreator('/docs/everything-quick-search-local-files', 'd41'),
+                exact: true,
+                sidebar: "tools"
+              },
+              {
+                path: '/docs/file',
+                component: ComponentCreator('/docs/file', '097'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/inline_list',
+                component: ComponentCreator('/docs/inline_list', 'cfd'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/ipc',
+                component: ComponentCreator('/docs/ipc', '7c2'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/linear_table',
+                component: ComponentCreator('/docs/linear_table', 'dd2'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/Linux_introduction',
+                component: ComponentCreator('/docs/Linux_introduction', '303'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/Linux_shell',
+                component: ComponentCreator('/docs/Linux_shell', 'afb'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/look-up-port-and-kill-process',
+                component: ComponentCreator('/docs/look-up-port-and-kill-process', '246'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/MOS',
+                component: ComponentCreator('/docs/MOS', 'ebd'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/msg',
+                component: ComponentCreator('/docs/msg', '2ad'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/mutex',
+                component: ComponentCreator('/docs/mutex', '6f7'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/pipe',
+                component: ComponentCreator('/docs/pipe', '0ac'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/pmsm_motor',
+                component: ComponentCreator('/docs/pmsm_motor', '9dd'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/posix',
+                component: ComponentCreator('/docs/posix', '611'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/pro_api',
+                component: ComponentCreator('/docs/pro_api', '285'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/process',
+                component: ComponentCreator('/docs/process', '412'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/project_group',
+                component: ComponentCreator('/docs/project_group', 'fb7'),
+                exact: true,
+                sidebar: "project_group"
+              },
+              {
+                path: '/docs/queue',
+                component: ComponentCreator('/docs/queue', '796'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/reen',
+                component: ComponentCreator('/docs/reen', '02a'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/Res',
+                component: ComponentCreator('/docs/Res', '736'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/rwlock',
+                component: ComponentCreator('/docs/rwlock', '9c1'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/sem',
+                component: ComponentCreator('/docs/sem', '4b8'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/shm',
+                component: ComponentCreator('/docs/shm', 'a56'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/signal',
+                component: ComponentCreator('/docs/signal', 'ea6'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/single_linked_list',
+                component: ComponentCreator('/docs/single_linked_list', '054'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/singly_loop_linked_list',
+                component: ComponentCreator('/docs/singly_loop_linked_list', '60f'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/skill',
+                component: ComponentCreator('/docs/skill', '69a'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/socket',
+                component: ComponentCreator('/docs/socket', 'd04'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/stack',
+                component: ComponentCreator('/docs/stack', 'a68'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/standard_io',
+                component: ComponentCreator('/docs/standard_io', 'a29'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/stat',
+                component: ComponentCreator('/docs/stat', '6cf'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/system_io',
+                component: ComponentCreator('/docs/system_io', 'c60'),
+                exact: true,
+                sidebar: "skill"
+              },
+              {
+                path: '/docs/tcp',
+                component: ComponentCreator('/docs/tcp', '9ef'),
                 exact: true
               },
               {
-                path: '/docs/skill/Math/最小二乘法',
-                component: ComponentCreator('/docs/skill/Math/最小二乘法', '9a2'),
+                path: '/docs/thread',
+                component: ComponentCreator('/docs/thread', '054'),
                 exact: true,
                 sidebar: "skill"
               },
               {
-                path: '/docs/skill/MoveIt机械臂/MoveIt入门学习笔记',
-                component: ComponentCreator('/docs/skill/MoveIt机械臂/MoveIt入门学习笔记', '1a7'),
+                path: '/docs/thread_pool',
+                component: ComponentCreator('/docs/thread_pool', '8ac'),
                 exact: true,
                 sidebar: "skill"
               },
               {
-                path: '/docs/skill/MySQL/mysql踩坑记',
-                component: ComponentCreator('/docs/skill/MySQL/mysql踩坑记', '849'),
+                path: '/docs/thread_scheduling',
+                component: ComponentCreator('/docs/thread_scheduling', '55b'),
                 exact: true,
                 sidebar: "skill"
               },
               {
-                path: '/docs/skill/MySQL/MySQL操作指令',
-                component: ComponentCreator('/docs/skill/MySQL/MySQL操作指令', 'ba0'),
+                path: '/docs/tools',
+                component: ComponentCreator('/docs/tools', '47a'),
                 exact: true,
-                sidebar: "skill"
+                sidebar: "tools"
               },
               {
-                path: '/docs/skill/MySQL/mysql数据库迁移',
-                component: ComponentCreator('/docs/skill/MySQL/mysql数据库迁移', '15d'),
+                path: '/docs/vscode-config',
+                component: ComponentCreator('/docs/vscode-config', '402'),
                 exact: true,
-                sidebar: "skill"
+                sidebar: "tools"
               },
               {
-                path: '/docs/skill/MySQL/mysql与influxDB的区别',
-                component: ComponentCreator('/docs/skill/MySQL/mysql与influxDB的区别', '25b'),
+                path: '/docs/windows-custom-right-click-menu',
+                component: ComponentCreator('/docs/windows-custom-right-click-menu', 'fd0'),
                 exact: true,
-                sidebar: "skill"
+                sidebar: "tools"
               },
               {
-                path: '/docs/skill/MySQL/SQL笔记',
-                component: ComponentCreator('/docs/skill/MySQL/SQL笔记', 'cea'),
+                path: '/docs/windows-terminal-beautify',
+                component: ComponentCreator('/docs/windows-terminal-beautify', 'df7'),
                 exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/MySQL/Ubuntu20.04安装MySQL和MySQL-workbench并连接云端数据库',
-                component: ComponentCreator('/docs/skill/MySQL/Ubuntu20.04安装MySQL和MySQL-workbench并连接云端数据库', 'acd'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/MySQL/workbench学习笔记',
-                component: ComponentCreator('/docs/skill/MySQL/workbench学习笔记', 'fca'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/OpenCV/OpenCV检测并解析二维码',
-                component: ComponentCreator('/docs/skill/OpenCV/OpenCV检测并解析二维码', '395'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/Python/互斥锁',
-                component: ComponentCreator('/docs/skill/Python/互斥锁', '883'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/Python/如何安装turtle库',
-                component: ComponentCreator('/docs/skill/Python/如何安装turtle库', '384'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/Python/如何在ubuntu上运行python文件',
-                component: ComponentCreator('/docs/skill/Python/如何在ubuntu上运行python文件', 'be6'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/Python/数据类型检测',
-                component: ComponentCreator('/docs/skill/Python/数据类型检测', 'd93'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/Python/遇到非ASCII字符问题',
-                component: ComponentCreator('/docs/skill/Python/遇到非ASCII字符问题', '611'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/Python/async关键字',
-                component: ComponentCreator('/docs/skill/Python/async关键字', 'f12'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/Python/python对json&yaml的操作',
-                component: ComponentCreator('/docs/skill/Python/python对json&yaml的操作', 'bb7'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/Python/python简介',
-                component: ComponentCreator('/docs/skill/Python/python简介', '628'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/ROS/如何在ros-noetic下打开realsense D435相机',
-                component: ComponentCreator('/docs/skill/ROS/如何在ros-noetic下打开realsense D435相机', 'ce8'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/ROS/使用脚本一键安装ROS',
-                component: ComponentCreator('/docs/skill/ROS/使用脚本一键安装ROS', 'f13'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/ROS/使用ros::package::getPath()获取功能包的全局路径',
-                component: ComponentCreator('/docs/skill/ROS/使用ros::package::getPath()获取功能包的全局路径', '9be'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/ROS/四元数',
-                component: ComponentCreator('/docs/skill/ROS/四元数', '355'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/ROS/添加自定义消息类型，如何修改CMakeLists.txt的内容',
-                component: ComponentCreator('/docs/skill/ROS/添加自定义消息类型，如何修改CMakeLists.txt的内容', 'a6b'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/ROS/专治ROS各种疑难杂症',
-                component: ComponentCreator('/docs/skill/ROS/专治ROS各种疑难杂症', 'ef2'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/ROS/ROS-2浅述',
-                component: ComponentCreator('/docs/skill/ROS/ROS-2浅述', 'd7b'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/ROS/ROS-melodic的安装与卸载',
-                component: ComponentCreator('/docs/skill/ROS/ROS-melodic的安装与卸载', '100'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/ROS/ROS常用工具',
-                component: ComponentCreator('/docs/skill/ROS/ROS常用工具', '4b6'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/ROS/ROS常用指令',
-                component: ComponentCreator('/docs/skill/ROS/ROS常用指令', 'a84'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/ROS/ROS分布式通讯',
-                component: ComponentCreator('/docs/skill/ROS/ROS分布式通讯', '317'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/ROS/ROS入门之launch',
-                component: ComponentCreator('/docs/skill/ROS/ROS入门之launch', '988'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/ROS/spin()与spinOnce()的区别',
-                component: ComponentCreator('/docs/skill/ROS/spin()与spinOnce()的区别', 'ed5'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/ROS/TF',
-                component: ComponentCreator('/docs/skill/ROS/TF', 'c15'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/Sensor/Camera/迈德威视MV-SUA133GC-T工业相机驱安装',
-                component: ComponentCreator('/docs/skill/Sensor/Camera/迈德威视MV-SUA133GC-T工业相机驱安装', '170'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/Sensor/Camera/使用ROS对相机进行内参标定',
-                component: ComponentCreator('/docs/skill/Sensor/Camera/使用ROS对相机进行内参标定', '464'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/Sensor/Camera/Azure Kinect DK 深度相机工作原理',
-                component: ComponentCreator('/docs/skill/Sensor/Camera/Azure Kinect DK 深度相机工作原理', '70c'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/Sensor/Camera/RealSense相机',
-                component: ComponentCreator('/docs/skill/Sensor/Camera/RealSense相机', 'a8a'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/Sensor/GPS/GPS工作原理',
-                component: ComponentCreator('/docs/skill/Sensor/GPS/GPS工作原理', 'f1f'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/Sensor/IMU/IMU工作原理',
-                component: ComponentCreator('/docs/skill/Sensor/IMU/IMU工作原理', '72a'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/Sensor/Lidar/初玩Livox Mid-70',
-                component: ComponentCreator('/docs/skill/Sensor/Lidar/初玩Livox Mid-70', 'b41'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/Sensor/Lidar/单线激光雷达特征提取实验',
-                component: ComponentCreator('/docs/skill/Sensor/Lidar/单线激光雷达特征提取实验', '0e3'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/Sensor/Lidar/激光雷达滤波器',
-                component: ComponentCreator('/docs/skill/Sensor/Lidar/激光雷达滤波器', 'f21'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/Sensor/Lidar/激光雷达特征提取与拟合路径',
-                component: ComponentCreator('/docs/skill/Sensor/Lidar/激光雷达特征提取与拟合路径', '958'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/Sensor/Lidar/两种激光雷达数据赋值方法',
-                component: ComponentCreator('/docs/skill/Sensor/Lidar/两种激光雷达数据赋值方法', '8df'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/Sensor/Lidar/深度相机做伪2D激光雷达',
-                component: ComponentCreator('/docs/skill/Sensor/Lidar/深度相机做伪2D激光雷达', 'b42'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/Sensor/Lidar/双2d激光雷达数据拼接',
-                component: ComponentCreator('/docs/skill/Sensor/Lidar/双2d激光雷达数据拼接', 'f69'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/Ubuntu/常用shell脚本指令',
-                component: ComponentCreator('/docs/skill/Ubuntu/常用shell脚本指令', 'd63'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/Ubuntu/外设端口映射配置',
-                component: ComponentCreator('/docs/skill/Ubuntu/外设端口映射配置', '01e'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/Ubuntu/一些Ubuntu上好用的工具',
-                component: ComponentCreator('/docs/skill/Ubuntu/一些Ubuntu上好用的工具', '0b2'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/Ubuntu/专治Ubuntu各种疑难杂症',
-                component: ComponentCreator('/docs/skill/Ubuntu/专治Ubuntu各种疑难杂症', 'f15'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/Ubuntu/ubuntu常用指令合集',
-                component: ComponentCreator('/docs/skill/Ubuntu/ubuntu常用指令合集', '84d'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/Ubuntu/Ubuntu自启动程序',
-                component: ComponentCreator('/docs/skill/Ubuntu/Ubuntu自启动程序', '5df'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/Ubuntu/vim用法',
-                component: ComponentCreator('/docs/skill/Ubuntu/vim用法', 'd12'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/skill/VSCode/ssh远程连接服务器无法跳转函数定义问题',
-                component: ComponentCreator('/docs/skill/VSCode/ssh远程连接服务器无法跳转函数定义问题', 'e7f'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/vscode-path-include',
-                component: ComponentCreator('/docs/vscode-path-include', '779'),
-                exact: true,
-                sidebar: "skill"
-              },
-              {
-                path: '/docs/vscode-wrong-define',
-                component: ComponentCreator('/docs/vscode-wrong-define', '63f'),
-                exact: true,
-                sidebar: "skill"
+                sidebar: "tools"
               }
             ]
           }

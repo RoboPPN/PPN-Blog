@@ -1,0 +1,15 @@
+{
+  "title": "C 指针",
+  "slug": "/category/c-指针",
+  "permalink": "/docs/category/c-指针",
+  "navigation": {
+    "previous": {
+      "title": "C 数组",
+      "permalink": "/docs/C_array"
+    },
+    "next": {
+      "title": "C 指针基础",
+      "permalink": "/docs/C_pointer"
+    }
+  }
+}

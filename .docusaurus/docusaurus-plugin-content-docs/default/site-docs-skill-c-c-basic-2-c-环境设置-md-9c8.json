@@ -1,0 +1,42 @@
+{
+  "unversionedId": "skill/C/C_Basic/C_environment_settings",
+  "id": "skill/C/C_Basic/C_environment_settings",
+  "title": "C 环境设置",
+  "description": "本地环境设置",
+  "source": "@site/docs/skill/C/C_Basic/2. C 环境设置.md",
+  "sourceDirName": "skill/C/C_Basic",
+  "slug": "/C_environment_settings",
+  "permalink": "/docs/C_environment_settings",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "C/C++",
+      "permalink": "/docs/tags/c-c"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "C_environment_settings",
+    "slug": "/C_environment_settings",
+    "title": "C 环境设置",
+    "date": "2022-10-29T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "C/C++"
+    ],
+    "keywords": [
+      "C/C++"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "C 简介",
+    "permalink": "/docs/C_brief_introduction"
+  },
+  "next": {
+    "title": "C 程序结构",
+    "permalink": "/docs/C_program_structure"
+  }
+}

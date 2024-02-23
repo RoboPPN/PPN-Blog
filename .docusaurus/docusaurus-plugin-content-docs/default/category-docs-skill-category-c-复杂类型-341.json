@@ -1,0 +1,15 @@
+{
+  "title": "C 复杂类型",
+  "slug": "/category/c-复杂类型",
+  "permalink": "/docs/category/c-复杂类型",
+  "navigation": {
+    "previous": {
+      "title": "C 指针进阶",
+      "permalink": "/docs/C_pointer_High_level_issues"
+    },
+    "next": {
+      "title": "C typedef",
+      "permalink": "/docs/C_typedef"
+    }
+  }
+}

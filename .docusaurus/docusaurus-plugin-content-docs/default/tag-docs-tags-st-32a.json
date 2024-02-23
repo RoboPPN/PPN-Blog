@@ -1,0 +1,27 @@
+{
+  "label": "ST",
+  "permalink": "/docs/tags/st",
+  "allTagsPath": "/docs/tags",
+  "count": 3,
+  "items": [
+    {
+      "id": "project_group/motor_ctrl/AxDrive-L/AxDrive-L_software_design_report",
+      "title": "Axdrive-L 软件设计报告",
+      "description": "1. AxDrive-L 简介",
+      "permalink": "/docs/AxDrive-L_software_design_report"
+    },
+    {
+      "id": "project_group/motor_ctrl/AxDrive-L/AxDrive-L_hardware_design_report",
+      "title": "Axdrive-L 硬件设计报告",
+      "description": "1. AxDrive-L 简介",
+      "permalink": "/docs/AxDrive-L_hardware_design_report"
+    },
+    {
+      "id": "project_group/motor_ctrl/AxDrive-L/AxDrive-L_user_manual",
+      "title": "Axdrive-L 用户手册",
+      "description": "1. AxDrive-L 简介",
+      "permalink": "/docs/AxDrive-L_user_manual"
+    }
+  ],
+  "unlisted": false
+}

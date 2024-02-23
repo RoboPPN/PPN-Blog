@@ -8,7 +8,7 @@ module.exports = async function createConfigAsync() {
   /** @type {import('@docusaurus/types').Config} */
   return {
     title: '尚宇的小站',
-    url: 'https://disnox.top',
+    url: 'https://dix.top',
     baseUrl: '/',
     favicon: 'img/favicon.ico',
     organizationName: 'disnox',

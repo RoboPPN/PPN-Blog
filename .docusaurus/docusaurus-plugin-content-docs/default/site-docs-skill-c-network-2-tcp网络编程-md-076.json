@@ -1,0 +1,39 @@
+{
+  "unversionedId": "skill/C/Network/tcp",
+  "id": "skill/C/Network/tcp",
+  "title": "TCP网络编程",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/Network/2. TCP网络编程.md",
+  "sourceDirName": "skill/C/Network",
+  "slug": "/tcp",
+  "permalink": "/docs/tcp",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Linux",
+      "permalink": "/docs/tags/linux"
+    },
+    {
+      "label": "C/C++",
+      "permalink": "/docs/tags/c-c"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "tcp",
+    "slug": "/tcp",
+    "title": "TCP网络编程",
+    "date": "2023-2-9",
+    "authors": "disnox",
+    "tags": [
+      "Linux",
+      "C/C++"
+    ],
+    "keywords": [
+      "Linux",
+      "C/C++"
+    ]
+  }
+}

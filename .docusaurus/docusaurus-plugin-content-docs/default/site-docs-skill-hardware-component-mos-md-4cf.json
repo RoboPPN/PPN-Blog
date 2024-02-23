@@ -1,0 +1,41 @@
+{
+  "unversionedId": "skill/hardware/component/MOS",
+  "id": "skill/hardware/component/MOS",
+  "title": "MOS管",
+  "description": "",
+  "source": "@site/docs/skill/hardware/component/MOS.md",
+  "sourceDirName": "skill/hardware/component",
+  "slug": "/MOS",
+  "permalink": "/docs/MOS",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "硬件",
+      "permalink": "/docs/tags/硬件"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "MOS",
+    "slug": "/MOS",
+    "title": "MOS管",
+    "date": "2022-10-26T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "硬件"
+    ],
+    "keywords": [
+      "硬件"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "电容",
+    "permalink": "/docs/Cap"
+  },
+  "next": {
+    "title": "电机控制",
+    "permalink": "/docs/category/电机控制"
+  }
+}

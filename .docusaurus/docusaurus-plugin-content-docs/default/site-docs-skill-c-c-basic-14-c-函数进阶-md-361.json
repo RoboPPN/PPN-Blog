@@ -1,0 +1,42 @@
+{
+  "unversionedId": "skill/C/C_Basic/C_function_order",
+  "id": "skill/C/C_Basic/C_function_order",
+  "title": "C 函数进阶",
+  "description": "1. 栈的概念",
+  "source": "@site/docs/skill/C/C_Basic/14. C 函数进阶.md",
+  "sourceDirName": "skill/C/C_Basic",
+  "slug": "/C_function_order",
+  "permalink": "/docs/C_function_order",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "C/C++",
+      "permalink": "/docs/tags/c-c"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "id": "C_function_order",
+    "slug": "/C_function_order",
+    "title": "C 函数进阶",
+    "date": "2022-11-02T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "C/C++"
+    ],
+    "keywords": [
+      "C/C++"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "C 字符串",
+    "permalink": "/docs/C_character_string"
+  },
+  "next": {
+    "title": "C 指针进阶",
+    "permalink": "/docs/C_pointer_High_level_issues"
+  }
+}

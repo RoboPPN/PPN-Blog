@@ -2,6 +2,21 @@
   "title": "Blogs",
   "items": [
     {
+      "title": "C 语言经典题目",
+      "permalink": "/blog/classic",
+      "unlisted": false
+    },
+    {
+      "title": "单向链表创建线程池",
+      "permalink": "/blog/thread_pool1",
+      "unlisted": false
+    },
+    {
+      "title": "内核链表创建线程池",
+      "permalink": "/blog/thread_pool2",
+      "unlisted": false
+    },
+    {
       "title": "我为什么要写博客",
       "permalink": "/blog/blog_write",
       "unlisted": false

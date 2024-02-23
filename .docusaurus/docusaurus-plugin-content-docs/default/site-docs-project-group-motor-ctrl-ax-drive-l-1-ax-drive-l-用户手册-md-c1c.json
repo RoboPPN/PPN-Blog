@@ -1,0 +1,54 @@
+{
+  "unversionedId": "project_group/motor_ctrl/AxDrive-L/AxDrive-L_user_manual",
+  "id": "project_group/motor_ctrl/AxDrive-L/AxDrive-L_user_manual",
+  "title": "Axdrive-L 用户手册",
+  "description": "1. AxDrive-L 简介",
+  "source": "@site/docs/project_group/motor_ctrl/AxDrive-L/1. AxDrive-L 用户手册.md",
+  "sourceDirName": "project_group/motor_ctrl/AxDrive-L",
+  "slug": "/AxDrive-L_user_manual",
+  "permalink": "/docs/AxDrive-L_user_manual",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "ST",
+      "permalink": "/docs/tags/st"
+    },
+    {
+      "label": "FOC",
+      "permalink": "/docs/tags/foc"
+    },
+    {
+      "label": "电机",
+      "permalink": "/docs/tags/电机"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "AxDrive-L_user_manual",
+    "slug": "/AxDrive-L_user_manual",
+    "title": "Axdrive-L 用户手册",
+    "date": "2023-10-02T00:00:00.000Z",
+    "authors": "disnox",
+    "tags": [
+      "ST",
+      "FOC",
+      "电机"
+    ],
+    "keywords": [
+      "ST",
+      "FOC",
+      "电机"
+    ]
+  },
+  "sidebar": "project_group",
+  "previous": {
+    "title": "AxDrive-L",
+    "permalink": "/docs/category/axdrive-l"
+  },
+  "next": {
+    "title": "Axdrive-L 硬件设计报告",
+    "permalink": "/docs/AxDrive-L_hardware_design_report"
+  }
+}

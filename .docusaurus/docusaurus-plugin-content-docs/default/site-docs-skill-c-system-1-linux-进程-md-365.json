@@ -1,0 +1,42 @@
+{
+  "unversionedId": "skill/C/System/process",
+  "id": "skill/C/System/process",
+  "title": "Linux 进程入门",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/System/1. Linux_进程.md",
+  "sourceDirName": "skill/C/System",
+  "slug": "/process",
+  "permalink": "/docs/process",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Linux",
+      "permalink": "/docs/tags/linux"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "process",
+    "slug": "/process",
+    "title": "Linux 进程入门",
+    "date": "2022-12-01T00:00:00.000Z",
+    "authors": "disnox",
+    "tags": [
+      "Linux"
+    ],
+    "keywords": [
+      "Linux"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Linux 系统编程",
+    "permalink": "/docs/category/linux-系统编程"
+  },
+  "next": {
+    "title": "进程重要API",
+    "permalink": "/docs/pro_api"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "unversionedId": "skill/C/System/reen",
+  "id": "skill/C/System/reen",
+  "title": "可重入函数",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/System/15. 可重入函数.md",
+  "sourceDirName": "skill/C/System",
+  "slug": "/reen",
+  "permalink": "/docs/reen",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Linux",
+      "permalink": "/docs/tags/linux"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "id": "reen",
+    "slug": "/reen",
+    "title": "可重入函数",
+    "date": "2022-12-12T00:00:00.000Z",
+    "authors": "disnox",
+    "tags": [
+      "Linux"
+    ],
+    "keywords": [
+      "Linux"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "条件变量",
+    "permalink": "/docs/cond"
+  },
+  "next": {
+    "title": "线程池",
+    "permalink": "/docs/thread_pool"
+  }
+}

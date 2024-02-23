@@ -1,0 +1,42 @@
+{
+  "unversionedId": "skill/C/C_Basic/C_pointer_High_level_issues",
+  "id": "skill/C/C_Basic/C_pointer_High_level_issues",
+  "title": "C 指针进阶",
+  "description": "1. 各种指针",
+  "source": "@site/docs/skill/C/C_Basic/15. C 指针进阶.md",
+  "sourceDirName": "skill/C/C_Basic",
+  "slug": "/C_pointer_High_level_issues",
+  "permalink": "/docs/C_pointer_High_level_issues",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "C/C++",
+      "permalink": "/docs/tags/c-c"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "id": "C_pointer_High_level_issues",
+    "slug": "/C_pointer_High_level_issues",
+    "title": "C 指针进阶",
+    "date": "2022-11-05T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "C/C++"
+    ],
+    "keywords": [
+      "C/C++"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "C 函数进阶",
+    "permalink": "/docs/C_function_order"
+  },
+  "next": {
+    "title": "C 复杂类型",
+    "permalink": "/docs/category/c-复杂类型"
+  }
+}

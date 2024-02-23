@@ -2,32 +2,34 @@
   "unversionedId": "skill/introduction",
   "id": "skill/introduction",
   "title": "技术笔记简介",
-  "description": "本页面为个人学习中所涉及相关技术的笔记汇总，包含但不限于",
+  "description": "👋 Hi there",
   "source": "@site/docs/skill/introduction.md",
   "sourceDirName": "skill",
-  "slug": "/note-introduction",
-  "permalink": "/docs/note-introduction",
+  "slug": "/skill",
+  "permalink": "/docs/skill",
   "draft": false,
   "unlisted": false,
   "tags": [],
   "version": "current",
   "frontMatter": {
     "id": "introduction",
-    "slug": "/note-introduction",
+    "slug": "/skill",
     "title": "技术笔记简介",
     "keywords": [
-      "ROS",
-      "SLAM",
-      "Navigation",
-      "路径规划",
-      "MoveIt",
-      "autoware",
-      "ubuntu"
+      "C/C++",
+      "Linux",
+      "STM32",
+      "FOC",
+      "DC-DC",
+      "AC-DC",
+      "嵌入式",
+      "模电",
+      "硬件"
     ]
   },
   "sidebar": "skill",
   "next": {
-    "title": "Docusaurus 主题魔改",
-    "permalink": "/docs/docusaurus-guides"
+    "title": "Linux",
+    "permalink": "/docs/category/linux"
   }
 }

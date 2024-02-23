@@ -1,0 +1,42 @@
+{
+  "unversionedId": "skill/linux/Linux_introduction",
+  "id": "skill/linux/Linux_introduction",
+  "title": "Linux 概述",
+  "description": "Linux 简介",
+  "source": "@site/docs/skill/linux/1. Linux基础.md",
+  "sourceDirName": "skill/linux",
+  "slug": "/Linux_introduction",
+  "permalink": "/docs/Linux_introduction",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Linux",
+      "permalink": "/docs/tags/linux"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "Linux_introduction",
+    "slug": "/Linux_introduction",
+    "title": "Linux 概述",
+    "date": "2022-10-26T00:00:00.000Z",
+    "authors": "disnox",
+    "tags": [
+      "Linux"
+    ],
+    "keywords": [
+      "Linux"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Linux",
+    "permalink": "/docs/category/linux"
+  },
+  "next": {
+    "title": "Linux Shell",
+    "permalink": "/docs/Linux_shell"
+  }
+}

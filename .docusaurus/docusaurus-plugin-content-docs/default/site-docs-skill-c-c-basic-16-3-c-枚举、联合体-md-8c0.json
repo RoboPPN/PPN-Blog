@@ -1,0 +1,41 @@
+{
+  "unversionedId": "skill/C/C_Basic/C_union_enum",
+  "id": "skill/C/C_Basic/C_union_enum",
+  "title": "C 枚举、联合体",
+  "description": "C 枚举",
+  "source": "@site/docs/skill/C/C_Basic/16.3 C 枚举、联合体.md",
+  "sourceDirName": "skill/C/C_Basic",
+  "slug": "/C_union_enum",
+  "permalink": "/docs/C_union_enum",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "C/C++",
+      "permalink": "/docs/tags/c-c"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "C_union_enum",
+    "slug": "/C_union_enum",
+    "title": "C 枚举、联合体",
+    "date": "2022-11-07T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "C/C++"
+    ],
+    "keywords": [
+      "C/C++"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "C 结构体",
+    "permalink": "/docs/C_struct"
+  },
+  "next": {
+    "title": "C 结构体字节数",
+    "permalink": "/docs/C_struct_size"
+  }
+}

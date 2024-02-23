@@ -1,0 +1,15 @@
+{
+  "title": "C 语言",
+  "slug": "/category/c-语言",
+  "permalink": "/docs/category/c-语言",
+  "navigation": {
+    "previous": {
+      "title": "Linux Shell",
+      "permalink": "/docs/Linux_shell"
+    },
+    "next": {
+      "title": "C 简介",
+      "permalink": "/docs/C_brief_introduction"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "unversionedId": "skill/C/C_Basic/C_struct",
+  "id": "skill/C/C_Basic/C_struct",
+  "title": "C 结构体",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/C_Basic/16.2 C 结构体.md",
+  "sourceDirName": "skill/C/C_Basic",
+  "slug": "/C_struct",
+  "permalink": "/docs/C_struct",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "C/C++",
+      "permalink": "/docs/tags/c-c"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "C_struct",
+    "slug": "/C_struct",
+    "title": "C 结构体",
+    "date": "2022-11-04T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "C/C++"
+    ],
+    "keywords": [
+      "C/C++"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "C typedef",
+    "permalink": "/docs/C_typedef"
+  },
+  "next": {
+    "title": "C 枚举、联合体",
+    "permalink": "/docs/C_union_enum"
+  }
+}

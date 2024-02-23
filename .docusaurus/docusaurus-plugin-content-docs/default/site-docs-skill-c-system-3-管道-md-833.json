@@ -1,0 +1,42 @@
+{
+  "unversionedId": "skill/C/System/pipe",
+  "id": "skill/C/System/pipe",
+  "title": "管道(PIPE)",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/System/3. 管道.md",
+  "sourceDirName": "skill/C/System",
+  "slug": "/pipe",
+  "permalink": "/docs/pipe",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Linux",
+      "permalink": "/docs/tags/linux"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "pipe",
+    "slug": "/pipe",
+    "title": "管道(PIPE)",
+    "date": "2022-12-14T00:00:00.000Z",
+    "authors": "disnox",
+    "tags": [
+      "Linux"
+    ],
+    "keywords": [
+      "Linux"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "进程重要API",
+    "permalink": "/docs/pro_api"
+  },
+  "next": {
+    "title": "信号(SIG)",
+    "permalink": "/docs/signal"
+  }
+}

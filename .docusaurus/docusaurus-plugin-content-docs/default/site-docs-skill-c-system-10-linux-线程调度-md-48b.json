@@ -1,0 +1,42 @@
+{
+  "unversionedId": "skill/C/System/thread_scheduling",
+  "id": "skill/C/System/thread_scheduling",
+  "title": "Linux 线程调度",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/System/10. Linux 线程调度.md",
+  "sourceDirName": "skill/C/System",
+  "slug": "/thread_scheduling",
+  "permalink": "/docs/thread_scheduling",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Linux",
+      "permalink": "/docs/tags/linux"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "id": "thread_scheduling",
+    "slug": "/thread_scheduling",
+    "title": "Linux 线程调度",
+    "date": "2022-12-09T00:00:00.000Z",
+    "authors": "disnox",
+    "tags": [
+      "Linux"
+    ],
+    "keywords": [
+      "Linux"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Linux 线程入门",
+    "permalink": "/docs/thread"
+  },
+  "next": {
+    "title": "POSIX信号量",
+    "permalink": "/docs/posix"
+  }
+}

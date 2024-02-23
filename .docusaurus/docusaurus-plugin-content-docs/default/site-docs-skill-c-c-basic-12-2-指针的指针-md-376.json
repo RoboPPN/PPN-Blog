@@ -1,0 +1,41 @@
+{
+  "unversionedId": "skill/C/C_Basic/C_two_pointer",
+  "id": "skill/C/C_Basic/C_two_pointer",
+  "title": "C 指针的指针",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/C_Basic/12.2. 指针的指针.md",
+  "sourceDirName": "skill/C/C_Basic",
+  "slug": "/C_two_pointer",
+  "permalink": "/docs/C_two_pointer",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "C/C++",
+      "permalink": "/docs/tags/c-c"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "C_two_pointer",
+    "slug": "/C_two_pointer",
+    "title": "C 指针的指针",
+    "date": "2022-10-31T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "C/C++"
+    ],
+    "keywords": [
+      "C/C++"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "C 指针基础",
+    "permalink": "/docs/C_pointer"
+  },
+  "next": {
+    "title": "C 指针和数组",
+    "permalink": "/docs/C_pointer_and_array"
+  }
+}

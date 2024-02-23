@@ -1,0 +1,48 @@
+{
+  "unversionedId": "skill/C/C_Data_Structure/inline_list",
+  "id": "skill/C/C_Data_Structure/inline_list",
+  "title": "内核链表",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/C_Data_Structure/6. 内核链表.md",
+  "sourceDirName": "skill/C/C_Data_Structure",
+  "slug": "/inline_list",
+  "permalink": "/docs/inline_list",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "C/C++",
+      "permalink": "/docs/tags/c-c"
+    },
+    {
+      "label": "数据结构",
+      "permalink": "/docs/tags/数据结构"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "inline_list",
+    "slug": "/inline_list",
+    "title": "内核链表",
+    "date": "2022-10-18T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "C/C++",
+      "数据结构"
+    ],
+    "keywords": [
+      "C/C++",
+      "数据结构"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "双向循环链表",
+    "permalink": "/docs/double_linked_list"
+  },
+  "next": {
+    "title": "顺序栈和链式栈",
+    "permalink": "/docs/stack"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "unversionedId": "skill/C/C_Basic/C_pointer",
+  "id": "skill/C/C_Basic/C_pointer",
+  "title": "C 指针基础",
+  "description": "1. 基本概念",
+  "source": "@site/docs/skill/C/C_Basic/12.1. 指针基础.md",
+  "sourceDirName": "skill/C/C_Basic",
+  "slug": "/C_pointer",
+  "permalink": "/docs/C_pointer",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "C/C++",
+      "permalink": "/docs/tags/c-c"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "C_pointer",
+    "slug": "/C_pointer",
+    "title": "C 指针基础",
+    "date": "2022-10-30T00:00:00.000Z",
+    "authors": "nox",
+    "tags": [
+      "C/C++"
+    ],
+    "keywords": [
+      "C/C++"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "C 指针",
+    "permalink": "/docs/category/c-指针"
+  },
+  "next": {
+    "title": "C 指针的指针",
+    "permalink": "/docs/C_two_pointer"
+  }
+}

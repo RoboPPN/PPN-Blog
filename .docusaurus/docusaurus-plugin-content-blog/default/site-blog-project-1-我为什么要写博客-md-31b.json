@@ -22,11 +22,20 @@
   ],
   "readingTime": 3.4966666666666666,
   "hasTruncateMarker": true,
-  "authors": [],
+  "authors": [
+    {
+      "name": "📺尚宇",
+      "title": "嵌入式 / 学生",
+      "url": "https://github.com/disnox",
+      "imageURL": "/img/logo.webp",
+      "key": "disnox"
+    }
+  ],
   "frontMatter": {
     "slug": "/blog_write",
     "title": "我为什么要写博客",
     "date": "2022-10-25T00:00:00.000Z",
+    "authors": "disnox",
     "tags": [
       "blog",
       "随笔",
@@ -38,8 +47,12 @@
       "docusaurus"
     ],
     "description": "写博客",
-    "image": "/img/my_blog.png",
+    "image": "/img/blog/blog.png",
     "sticky": 4
   },
-  "unlisted": false
+  "unlisted": false,
+  "prevItem": {
+    "title": "内核链表创建线程池",
+    "permalink": "/blog/thread_pool2"
+  }
 }
