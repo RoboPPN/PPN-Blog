@@ -1,40 +1,17 @@
 const path = require('path')
 const beian = 'CC BY-NC 4.0'
 
-// const announcementBarContent = ''
-const announcementBarContent = `<span>🌟新入站必读 <a href='/test'>小站使用指南🌟</a></span>`
-
 module.exports = async function createConfigAsync() {
-  /** @type {import('@docusaurus/types').Config} */
   return {
-    title: '尚宇的小站',
-    url: 'https://dix.top',
+    title: '帕帕尼的小站',
+    url: 'https://roboppn.top',
     baseUrl: '/',
-    favicon: 'img/favicon.ico',
-    organizationName: 'disnox',
+    favicon: 'img/PPN.png',
+    organizationName: 'RoboPPN',
     projectName: 'blog',
-    tagline: '星海横流，岁月成碑',
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+    tagline: '积跬步成千里，积小流成江海',
     themeConfig: {
       image: 'img/logo.png',
-      announcementBar: {
-        id: 'announcementBar-3',
-        content: announcementBarContent,
-      },
-      metadata: [
-        {
-          name: 'keywords',
-          content: '尚宇, disnox',
-        },
-        {
-          name: 'keywords',
-          content: 'blog, C/C++, STM32, Linux, qt, simulink, AD',
-        },
-        {
-          name: 'keywords',
-          content: '嵌入式软硬兼狮, C语言, STM32, Linux, qt，simulink, AD',
-        },
-      ],
       docs: {
         sidebar: {
           hideable: true,
@@ -42,29 +19,34 @@ module.exports = async function createConfigAsync() {
       },
       navbar: {
         logo: {
-          alt: '尚宇',
-          src: 'img/logo.webp',
-          srcDark: 'img/logo.webp',
+          alt: '帕帕尼',
+          src: 'img/PPN.png',
+          srcDark: 'img/PPN.png',
         },
         hideOnScroll: true,
         items: [
+          // {
+          //   label: '📝学习',
+          //   position: 'right',
+          //   items: [
+          //     {
+          //       label: '📑技术笔记',
+          //       to: 'docs/note-introduction/',
+          //     },
+          //     {
+          //       label: '🗂️项目介绍',
+          //       to: 'docs/project_group/',
+          //     },
+          //     {
+          //       label: '📂高效工作指南',
+          //       to: 'docs/tools/',
+          //     },
+          //   ],
+          // },
           {
-            label: '📝学习',
+            label: '📑笔记',
             position: 'right',
-            items: [
-              {
-                label: '📑技术笔记',
-                to: 'docs/skill/',
-              },
-              {
-                label: '🗂️项目介绍',
-                to: 'docs/project_group/',
-              },
-              {
-                label: '📂高效工作指南',
-                to: 'docs/tools/',
-              },
-            ],
+            to: 'docs/note-introduction/',
           },
           {
             label: '📘博客',
@@ -92,16 +74,16 @@ module.exports = async function createConfigAsync() {
                 label:  '友链',
                 to: 'friends',
               },
-              {
-                label: '工具推荐',
-                to: 'docs/tools/',
-              },
+              // {
+              //   label: '工具推荐',
+              //   to: 'docs/tools/',
+              // },
             ],
           },
-          // {
-          //   type: 'localeDropdown',
-          //   position: 'right',
-          // },
+          {
+            href: 'https://github.com/RoboPPN/PPN-Blog', className: 'header-github-link',
+            position: 'right',
+          },
         ],
       },
       footer: {
@@ -172,8 +154,7 @@ module.exports = async function createConfigAsync() {
             ],
           },
         ],
-        // copyright: `<p><a href="http://beian.miit.gov.cn/" >${beian}</a></p><p>Copyright © 2020 - PRESENT 尚宇 Built with Docusaurus.</p>`,
-        copyright: `本站所有内容遵循<a href="https://creativecommons.org/licenses/by/4.0/deed.zh" >${beian}</a>开源协议，仅限非商业性使用，转载请注明出处</p><p>Copyright © 2022 - PRESENT 尚宇 Built with Docusaurus.</p>`,
+        copyright: `本站所有内容遵循<a href="https://creativecommons.org/licenses/by/4.0/deed.zh" >${beian}</a>开源协议，仅限非商业性使用，转载请注明出处</p><p>Copyright © 2022 - PRESENT 帕帕尼 Built with Docusaurus.</p>`,
       },
       prism: {
         theme: require('prism-react-renderer/themes/vsLight'),
@@ -197,9 +178,9 @@ module.exports = async function createConfigAsync() {
         maxHeadingLevel: 4,
       },
       algolia: {
-        appId: ' ',
-        apiKey: ' ',
-        indexName: 'disnox',
+        appId: 'KB96Z4PFJM',
+        apiKey: '00e9d782a3f2d712b1fe0d7907716ac7',
+        indexName: 'ppn_index',
       },
       zoom: {
         selector: '.markdown :not(em) > img',
@@ -235,7 +216,7 @@ module.exports = async function createConfigAsync() {
         tagName: 'meta',
         attributes: {
           name: 'description',
-          content: '尚宇的个人博客',
+          content: '帕帕尼的个人博客',
         },
       },
     ],
@@ -278,7 +259,7 @@ module.exports = async function createConfigAsync() {
           editUrl: ({ locale, blogDirPath, blogPath, permalink }) =>
             `https://github.com/disnox/blog/edit/main/${blogDirPath}/${blogPath}`,
           editLocalizedFiles: false,
-          blogDescription: '尚宇的个人博客',
+          blogDescription: '帕帕尼的个人博客',
           blogSidebarCount: 10,
           blogSidebarTitle: 'Blogs',
           postsPerPage: 10,
@@ -287,8 +268,8 @@ module.exports = async function createConfigAsync() {
             defaultReadingTime({ content, options: { wordsPerMinute: 300 } }),
           feedOptions: {
             type: 'all',
-            title: '尚宇',
-            copyright: `Copyright © ${new Date().getFullYear()} 尚宇 Built with Docusaurus.<p><a href="http://beian.miit.gov.cn/" class="footer_lin">${beian}</a></p>`,
+            title: '帕帕尼',
+            copyright: `Copyright © ${new Date().getFullYear()} 帕帕尼 Built with Docusaurus.<p><a href="http://beian.miit.gov.cn/" class="footer_lin">${beian}</a></p>`,
           },
         },
       ],
