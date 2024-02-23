@@ -1,4 +1,15 @@
-import { Friends } from './friend'
+// 注释掉的是友链
+
+// import { Friends } from './friend'
+// const friends: Resource[] = Friends.map(f => {
+//   return {
+//     ...f,
+//     name: f.title,
+//     desc: f.description,
+//     logo: f.avatar,
+//     href: f.website,
+//   }
+// })
 
 export interface Resource {
   name: string
@@ -13,21 +24,11 @@ export interface ResourceCategory {
   resources: Resource[]
 }
 
-const friends: Resource[] = Friends.map(f => {
-  return {
-    ...f,
-    name: f.title,
-    desc: f.description,
-    logo: f.avatar,
-    href: f.website,
-  }
-})
-
 export const resourceData: ResourceCategory[] = [
-  {
-    name: '友链 👨‍💻',
-    resources: friends,
-  },
+  // {
+  //   name: '友链 👨‍💻',
+  //   resources: friends,
+  // },
   {
     name: '每周必刷🔥',
     resources: [
